@@ -16,6 +16,23 @@
       "pageCount": 7
     },
     {
+      "id": "attribution-model-2025",
+      "title": "2025 B2B Attribution Model",
+      "slug": "attribution-model-2025",
+      "description": "A comprehensive guide for B2B marketers to implement a sophisticated attribution model.",
+      "colors": {
+        "primary": "#4f46e5",
+        "secondary": "#4338ca",
+        "accent": "#4f46e5",
+        "background": "#ffffff"
+      },
+      "iconSet": "attribution",
+      "audience": "B2B marketers",
+      "tone": "Authoritative, data-driven, forward-looking",
+      "pageCount": 11
+    },
+
+    {
       "id": "b2b-llm-content",
       "title": "Writing High-Conversion B2B Product Pages for LLM-Optimized Search",
       "slug": "b2b-llm-content",

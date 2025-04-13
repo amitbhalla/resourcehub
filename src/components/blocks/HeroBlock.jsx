@@ -26,7 +26,19 @@ const HeroBlock = ({ data, iconSet }) => {
           {subtitle && <p className={styles.subtitle}>{subtitle}</p>}
           
           {ctaText && (
-            <button className={styles.ctaButton}>
+            <button 
+              className={styles.ctaButton} 
+              onClick={() => {
+                // Find the next section element that follows the hero block
+                const heroBlock = document.querySelector(`.${styles.heroBlock}`);
+                if (heroBlock) {
+                  const nextSection = heroBlock.nextElementSibling;
+                  if (nextSection) {
+                    nextSection.scrollIntoView({ behavior: 'smooth' });
+                  }
+                }
+              }}
+            >
               {ctaText}
               <FontAwesomeIcon icon="arrow-right" className={styles.buttonIcon} />
             </button>

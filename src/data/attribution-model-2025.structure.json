@@ -1,0 +1,309 @@
+{
+    "id": "attribution-model-2025",
+    "pages": [
+      {
+        "id": "reality-check",
+        "title": "Reality Check",
+        "blocks": [
+          {
+            "type": "hero",
+            "id": "intro-hero"
+          },
+          {
+            "type": "stats",
+            "id": "attribution-reality"
+          },
+          {
+            "type": "checklist",
+            "id": "traditional-failures"
+          }
+        ]
+      },
+      {
+        "id": "foundation-phase",
+        "title": "Foundation Phase",
+        "blocks": [
+          {
+            "type": "hero",
+            "id": "foundation-hero"
+          },
+          {
+            "type": "numberedSteps",
+            "id": "data-cleanup"
+          },
+          {
+            "type": "checklist",
+            "id": "quick-wins"
+          },
+          {
+            "type": "codeSnippet",
+            "id": "webinar-example"
+          }
+        ]
+      },
+      {
+        "id": "political-alignment",
+        "title": "Political Alignment",
+        "blocks": [
+          {
+            "type": "hero",
+            "id": "alignment-hero"
+          },
+          {
+            "type": "numberedSteps",
+            "id": "sales-marketing-alignment"
+          },
+          {
+            "type": "checklist",
+            "id": "alignment-checklist"
+          },
+          {
+            "type": "codeSnippet",
+            "id": "shared-truth-workshop"
+          }
+        ]
+      },
+      {
+        "id": "technical-foundation",
+        "title": "Technical Foundation",
+        "blocks": [
+          {
+            "type": "hero",
+            "id": "technical-hero"
+          },
+          {
+            "type": "numberedSteps",
+            "id": "technical-implementation"
+          },
+          {
+            "type": "codeSnippet",
+            "id": "attribution-model-template"
+          },
+          {
+            "type": "checklist",
+            "id": "implementation-checklist"
+          }
+        ]
+      },
+      {
+        "id": "building-credibility",
+        "title": "Building Credibility",
+        "blocks": [
+          {
+            "type": "hero",
+            "id": "credibility-hero"
+          },
+          {
+            "type": "numberedSteps",
+            "id": "enhanced-attribution"
+          },
+          {
+            "type": "numberedSteps",
+            "id": "revenue-focus"
+          },
+          {
+            "type": "checklist",
+            "id": "credibility-checklist"
+          }
+        ]
+      },
+      {
+        "id": "revops-integration",
+        "title": "RevOps Integration",
+        "blocks": [
+          {
+            "type": "hero",
+            "id": "revops-hero"
+          },
+          {
+            "type": "numberedSteps",
+            "id": "revops-creation"
+          },
+          {
+            "type": "checklist",
+            "id": "data-governance"
+          },
+          {
+            "type": "codeSnippet",
+            "id": "pipeline-council"
+          }
+        ]
+      },
+      {
+        "id": "executive-alignment",
+        "title": "Executive Alignment",
+        "blocks": [
+          {
+            "type": "hero",
+            "id": "executive-hero"
+          },
+          {
+            "type": "numberedSteps",
+            "id": "executive-education"
+          },
+          {
+            "type": "numberedSteps",
+            "id": "cfo-alignment"
+          },
+          {
+            "type": "codeSnippet",
+            "id": "executive-dashboard"
+          }
+        ]
+      },
+      {
+        "id": "advanced-attribution",
+        "title": "Advanced Attribution",
+        "blocks": [
+          {
+            "type": "hero",
+            "id": "advanced-hero"
+          },
+          {
+            "type": "numberedSteps",
+            "id": "advanced-models"
+          },
+          {
+            "type": "checklist",
+            "id": "ai-readiness"
+          },
+          {
+            "type": "numberedSteps",
+            "id": "brand-attribution"
+          }
+        ]
+      },
+      {
+        "id": "abm-framework",
+        "title": "ABM Framework",
+        "blocks": [
+          {
+            "type": "hero",
+            "id": "abm-hero"
+          },
+          {
+            "type": "numberedSteps",
+            "id": "abm-measurement"
+          },
+          {
+            "type": "checklist",
+            "id": "abm-metrics"
+          },
+          {
+            "type": "codeSnippet",
+            "id": "multi-contact-framework"
+          }
+        ]
+      },
+      {
+        "id": "services-attribution",
+        "title": "Services Attribution",
+        "blocks": [
+          {
+            "type": "hero",
+            "id": "services-hero"
+          },
+          {
+            "type": "numberedSteps",
+            "id": "services-approach"
+          },
+          {
+            "type": "checklist",
+            "id": "services-touchpoints"
+          },
+          {
+            "type": "codeSnippet",
+            "id": "services-framework"
+          }
+        ]
+      },
+      {
+        "id": "overcoming-obstacles",
+        "title": "Overcoming Obstacles",
+        "blocks": [
+          {
+            "type": "hero",
+            "id": "obstacles-hero"
+          },
+          {
+            "type": "numberedSteps",
+            "id": "sales-data-obstacles"
+          },
+          {
+            "type": "numberedSteps",
+            "id": "crm-obstacles"
+          },
+          {
+            "type": "numberedSteps",
+            "id": "offline-tracking"
+          }
+        ]
+      },
+      {
+        "id": "implementation-tools",
+        "title": "Implementation Tools",
+        "blocks": [
+          {
+            "type": "hero",
+            "id": "tools-hero"
+          },
+          {
+            "type": "codeSnippet",
+            "id": "weekly-dashboard"
+          },
+          {
+            "type": "codeSnippet",
+            "id": "definitions-template"
+          },
+          {
+            "type": "checklist",
+            "id": "tools-checklist"
+          }
+        ]
+      },
+      {
+        "id": "measuring-success",
+        "title": "Measuring Success",
+        "blocks": [
+          {
+            "type": "hero",
+            "id": "success-hero"
+          },
+          {
+            "type": "checklist",
+            "id": "thirty-day-metrics"
+          },
+          {
+            "type": "checklist",
+            "id": "ninety-day-metrics"
+          },
+          {
+            "type": "numberedSteps",
+            "id": "quarterly-updates"
+          }
+        ]
+      },
+      {
+        "id": "avoiding-pitfalls",
+        "title": "Avoiding Pitfalls",
+        "blocks": [
+          {
+            "type": "hero",
+            "id": "pitfalls-hero"
+          },
+          {
+            "type": "checklist",
+            "id": "warning-signs"
+          },
+          {
+            "type": "checklist",
+            "id": "common-mistakes"
+          },
+          {
+            "type": "cta",
+            "id": "final-cta"
+          }
+        ]
+      }
+    ]
+  }

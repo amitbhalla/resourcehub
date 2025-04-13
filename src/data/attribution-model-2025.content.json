@@ -1,0 +1,1056 @@
+{
+    "blocks": {
+      "intro-hero": {
+        "title": "Building Attribution That Actually Works",
+        "subtitle": "A practical B2B playbook for proving marketing's value when nothing else has worked",
+        "icon": "chart-line",
+        "ctaText": "Face the reality"
+      },
+      "attribution-reality": {
+        "title": "The Hard Truth About B2B Attribution",
+        "items": [
+          {
+            "value": "40%",
+            "label": "Of deals have any marketing touchpoints properly recorded",
+            "icon": "database"
+          },
+          {
+            "value": "78%",
+            "label": "Of attribution projects fail due to organizational issues",
+            "icon": "people-group"
+          },
+          {
+            "value": "6-12",
+            "label": "Months required for meaningful attribution (not 90 days)",
+            "icon": "calendar"
+          },
+          {
+            "value": "60%",
+            "label": "Of marketing leads never get proper sales follow-up",
+            "icon": "triangle-exclamation"
+          }
+        ]
+      },
+      "traditional-failures": {
+        "title": "Why Most Attribution Projects Fail",
+        "items": [
+          {
+            "text": "Ignoring entrenched political interests between departments",
+            "icon": "handshake-slash"
+          },
+          {
+            "text": "Assuming CRM data is clean and complete (it never is)",
+            "icon": "database"
+          },
+          {
+            "text": "Implementing complex models before basics work",
+            "icon": "chart-pie"
+          },
+          {
+            "text": "Lack of executive enforcement for compliance",
+            "icon": "user-tie"
+          },
+          {
+            "text": "Focusing on technical solutions before human ones",
+            "icon": "robot"
+          },
+          {
+            "text": "Not addressing mistrust between sales and marketing",
+            "icon": "heart-crack"
+          }
+        ]
+      },
+      "foundation-hero": {
+        "title": "Phase 1: Building the Foundation (Months 1-3)",
+        "subtitle": "Focus on basics, quick wins, and relationship repair",
+        "icon": "layer-group",
+        "ctaText": "Start with fundamentals"
+      },
+      "data-cleanup": {
+        "title": "Data Cleanup & Baseline",
+        "steps": [
+          {
+            "title": "Audit Recent Deal History",
+            "content": "Manually review the last 6-12 months of closed-won deals. Don't rely on reports - actually examine the data. Document how many deals have proper source tracking, which fields are consistently filled, and where the biggest gaps exist. Create a baseline metric: \"Currently, only 40% of deals have marketing touchpoints recorded.\"",
+            "icon": "magnifying-glass-chart"
+          },
+          {
+            "title": "Trace 20 Major Deals",
+            "content": "Select 20 significant recently closed deals. Bring sales and marketing together to manually trace the actual customer journey. Interview the sales reps who closed these deals. Check CRM records against marketing automation data. Document discrepancies between systems and between perceived vs. actual journeys.",
+            "icon": "route"
+          },
+          {
+            "title": "Focus on Go-Forward Data",
+            "content": "Don't try to fix years of bad data. Set a clear cutoff date: \"From today, all new leads must have these 5 fields completed.\" Create a simple checklist for sales to follow on new opportunities. Apply new tracking to fresh pipeline. Only clean historical data for your top 50 accounts or active opportunities.",
+            "icon": "forward"
+          },
+          {
+            "title": "Document the Real Gap",
+            "content": "Create a clear, quantifiable statement of the current problem. Example: \"Marketing touches are missing from 60% of deals\" or \"Lead source is incorrectly attributed in 45% of opportunities.\" This becomes your baseline for measuring improvement and justifying the project to leadership.",
+            "icon": "file-contract"
+          },
+          {
+            "title": "Implement Tactical Fixes",
+            "content": "Make 3-5 immediate technical changes that improve data capture: Add required fields to forms, implement UTM parameter standards, fix lead source picklists in CRM, create validation rules that prevent advancing opportunities without source data. Focus on capturing new data correctly rather than fixing historical issues.",
+            "icon": "screwdriver-wrench"
+          }
+        ]
+      },
+      "quick-wins": {
+        "title": "Focus on Quick, Visible Wins",
+        "items": [
+          {
+            "text": "Identify your strongest marketing channel with clear impact",
+            "icon": "trophy"
+          },
+          {
+            "text": "Trace its full impact on 10 recent deals with sales present",
+            "icon": "route"
+          },
+          {
+            "text": "Create a mini case study showing true ROI for this channel",
+            "icon": "file-lines"
+          },
+          {
+            "text": "Present it to leadership with sales testimony included",
+            "icon": "presentation-screen"
+          },
+          {
+            "text": "Use this success to justify broader attribution efforts",
+            "icon": "arrow-trend-up"
+          },
+          {
+            "text": "Repeat for a second channel to build momentum",
+            "icon": "repeat"
+          }
+        ]
+      },
+      "webinar-example": {
+        "title": "Concrete Example: Webinar Attribution Case Study",
+        "language": "text",
+        "code": "# WEBINAR ATTRIBUTION CASE STUDY\n\n## CAMPAIGN DETAILS\nWebinar: \"2025 Industry Trends\" (March 15)\nTotal cost: $15,000 ($8,000 production, $5,000 promotion, $2,000 speaker)\n\n## ENGAGEMENT METRICS\n* Registrations: 420\n* Live attendees: 250 (60% attendance rate)\n* On-demand views: 140 (within 30 days)\n* Total engaged audience: 390\n\n## LEAD GENERATION RESULTS\n* MQLs generated: 80\n* Sales meetings set: 30\n* Opportunities created: 12\n  - 8 directly attributed (first touch)\n  - 4 influenced (nurturing touch)\n\n## REVENUE IMPACT\n* Deals closed: 4\n* Total revenue: $200,000\n* CAC ratio: $15,000 / $200,000 = $0.075\n* ROI: 13.3x\n\n## DEAL TIMELINE\n* Acme Corp: Attended webinar → Requested follow-up → Sales call (7 days later) → Opportunity created → Closed after 48 days ($60,000)\n* Bravo Inc: Attended webinar → Downloaded related whitepaper → Demo request → Opportunity created → Closed after 62 days ($45,000)\n* [Additional deal details]\n\n## VALIDATION\nSales Rep Confirmation: \"These leads came in much warmer than typical prospects. They referenced specific points from the webinar during our calls.\"\n\n## INSIGHTS\n* Technical decision-makers were 2x more likely to convert than business roles\n* Attendees who asked questions were 3x more likely to convert to opportunities\n* Deals from this webinar closed 25% faster than our average sales cycle\n\n## RECOMMENDATIONS\n* Increase technical content in future webinars\n* Add interactive elements to boost engagement\n* Create specific follow-up tracks for different attendee roles\n* Schedule next webinar within 60 days to maintain momentum"
+      },
+      "alignment-hero": {
+        "title": "Political Alignment (This Matters Most)",
+        "subtitle": "Solving the human problems before the technical ones",
+        "icon": "handshake",
+        "ctaText": "Build trust first"
+      },
+      "sales-marketing-alignment": {
+        "title": "Sales-Marketing Alignment Framework",
+        "steps": [
+          {
+            "title": "Establish Weekly Pipeline Council",
+            "content": "Create a mandatory weekly meeting between sales and marketing leadership. Rotate meeting leadership between Sales VP and CMO to ensure equal ownership. Set clear ground rules: no finger-pointing, focus on data not anecdotes, and every meeting must end with specific action items. Document attendance and hold people accountable for showing up.",
+            "icon": "calendar-days"
+          },
+          {
+            "title": "Cross-Functional Embedding",
+            "content": "Invite three salespeople to join marketing planning meetings. Have three marketers join sales calls regularly. Create a formal rotation system so different team members participate each month. Assign marketing team members as direct support for specific sales territories or account teams. Document and share learnings from these cross-functional experiences.",
+            "icon": "people-arrows"
+          },
+          {
+            "title": "Create a \"Shared Reality\" Document",
+            "content": "Develop a one-page document that both teams endorse stating: 1) Agreed definitions of lead stages and handoff criteria, 2) Expectations for lead follow-up and feedback loops, 3) How attribution will be tracked and credited, 4) How disputes will be resolved, and 5) Shared success metrics that both teams commit to. Have leaders from both teams formally sign this document.",
+            "icon": "file-signature"
+          },
+          {
+            "title": "Implement Incentive Alignment",
+            "content": "Restructure compensation to drive collaboration: 1) Add 10% of sales compensation tied to marketing-influenced deals, 2) Include 20% of marketing compensation tied to revenue outcomes, 3) Create quarterly recognition for exemplary sales-marketing collaboration, 4) Implement a public leaderboard tracking lead follow-up compliance. Get executive approval for these changes.",
+            "icon": "money-bill-trend-up"
+          },
+          {
+            "title": "Establish Conflict Resolution Protocol",
+            "content": "Create a formal process for resolving attribution disputes: 1) Define the escalation path, 2) Set time limits for raising concerns (no complaints about leads 6 months later), 3) Require data to support claims, 4) Implement a neutral arbitration process when needed. Publish this protocol and train both teams on how to use it. Track how many conflicts require escalation as a metric of alignment.",
+            "icon": "gavel"
+          }
+        ]
+      },
+      "alignment-checklist": {
+        "title": "Political Alignment Success Indicators",
+        "items": [
+          {
+            "text": "Weekly pipeline meeting has 90%+ attendance from both teams",
+            "icon": "calendar-check"
+          },
+          {
+            "text": "Sales publicly acknowledges marketing contribution to deals",
+            "icon": "thumbs-up"
+          },
+          {
+            "text": "Marketing invites sales feedback before launching campaigns",
+            "icon": "comments"
+          },
+          {
+            "text": "Cross-team communication happens without prompting",
+            "icon": "message"
+          },
+          {
+            "text": "Both teams use the same terminology and definitions",
+            "icon": "book"
+          },
+          {
+            "text": "Disputes are resolved quickly through established channels",
+            "icon": "scale-balanced"
+          }
+        ]
+      },
+      "shared-truth-workshop": {
+        "title": "The \"Shared Truth\" Workshop Framework",
+        "language": "text",
+        "code": "# THE \"SHARED TRUTH\" WORKSHOP\n\n## PREPARATION\n* Schedule 2-3 hours with key stakeholders from sales and marketing\n* Pre-select 3-5 recently closed deals for analysis\n* Gather all available data on these deals from both CRM and marketing automation\n* Create mixed teams with equal representation from both departments\n* Assign a neutral facilitator (typically RevOps or an unbiased leader)\n\n## WORKSHOP AGENDA\n\n### 1. OPENING (15 minutes)\n* State purpose: \"Creating a shared understanding of how deals actually happen\"\n* Set ground rules: No blame, focus on facts, be constructive\n* Emphasize: This is about improvement, not credit-taking\n\n### 2. DEAL MAPPING EXERCISE (60 minutes)\n* Break into mixed teams (sales + marketing members on each)\n* Each team maps the complete journey for one closed deal\n* Document every touchpoint from first awareness to close\n* Identify gaps between systems (what's in CRM vs. what actually happened)\n* Create visual timeline showing all interactions\n\n### 3. PRESENTATION & DISCUSSION (45 minutes)\n* Each team presents their deal journey map\n* Identify common patterns across deals\n* Document gaps between perception and reality\n* Highlight where attribution is breaking down\n* Note which touchpoints were most influential (according to sales)\n\n### 4. SOLUTION DEVELOPMENT (30 minutes)\n* Based on findings, identify top 3-5 tracking/process issues\n* Brainstorm practical solutions for each issue\n* Vote on highest priority fixes\n* Assign owners for each action item\n* Set timeline for implementation\n\n### 5. AGREEMENT & NEXT STEPS (30 minutes)\n* Develop shared definitions for key terms (MQL, SQL, attribution, etc.)\n* Document agreed-upon standards for lead handoff and tracking\n* Create \"source of truth\" document that both teams endorse\n* Schedule follow-up session to review progress\n* Have leaders from both teams formally sign off on agreements\n\n## FOLLOW-UP\n* Distribute workshop findings to all participants within 48 hours\n* Track progress on action items weekly\n* Report back on improvements at next pipeline council meeting\n* Conduct follow-up workshop quarterly to review progress and identify new issues"
+      },
+      "technical-hero": {
+        "title": "Technical Foundation Essentials",
+        "subtitle": "Start simple and build from what works",
+        "icon": "gears",
+        "ctaText": "Build the foundation"
+      },
+      "technical-implementation": {
+        "title": "Step-by-Step Technical Implementation",
+        "steps": [
+          {
+            "title": "Start With Simple Attribution",
+            "content": "Begin with first-touch + last-touch attribution only. Don't overcomplicate the initial model. Track which marketing channel first brought the lead to your attention and which touch occurred immediately before sales engagement. This creates a baseline that everyone can understand while you build trust in the data.",
+            "icon": "stairs"
+          },
+          {
+            "title": "Fix UTM Parameter Discipline",
+            "content": "Standardize UTM parameters across all digital channels. Create a template that all marketers must use. Implement automated checks to verify proper format. Document the standard and train all team members. Most importantly, validate that UTM data flows correctly from your website to CRM through all integration points.",
+            "icon": "link"
+          },
+          {
+            "title": "Clean Up Lead Source Field",
+            "content": "Audit your current lead source values. Reduce to maximum 10 sources to prevent fragmentation. Create clear definitions for each source. Standardize capitalization and naming. Implement validation rules to prevent custom entries. Create a mapping document to consolidate historical values into your new standard categories.",
+            "icon": "broom"
+          },
+          {
+            "title": "Implement Technical Tracking",
+            "content": "Configure your marketing automation platform to properly track: 1) First-touch source and campaign, 2) Form submissions and conversion points, 3) Content downloads and engagement, 4) Email and nurture interactions, and 5) Website visits from known leads. Verify that this data syncs correctly to your CRM at each stage.",
+            "icon": "radar"
+          },
+          {
+            "title": "Create Mandatory Fields for Sales",
+            "content": "Add required fields in CRM for sales to acknowledge marketing contribution. Keep it simple: 1) Was marketing involved in sourcing this deal? 2) Did marketing content help advance this opportunity? Make these mandatory before advancing stages. Create pick lists rather than free text fields. Add help text explaining the purpose of each field.",
+            "icon": "list-check"
+          },
+          {
+            "title": "Implement Basic Lead-to-Account Matching",
+            "content": "Ensure new leads are connected to existing accounts in your CRM. Implement rules to match leads to accounts based on email domain and company name. Create alerts when high-value leads aren't matched to accounts. This foundation is essential for later ABM attribution capabilities.",
+            "icon": "diagram-project"
+          }
+        ]
+      },
+      "attribution-model-template": {
+        "title": "Starter Attribution Model Template",
+        "language": "text",
+        "code": "# BASIC B2B ATTRIBUTION MODEL\n\n## MODEL TYPE: FIRST-TOUCH + LAST-TOUCH\n\n### ATTRIBUTION WEIGHTS\n| Stage | Credit | Definition | Example |\n|-------|--------|------------|----------|\n| First Touch | 40% | First trackable interaction | Clicked ad, visited website |\n| Last Touch | 60% | Last touch before sales engagement | Downloaded whitepaper, requested demo |\n\n### CHANNEL DEFINITIONS\n| Channel | Definition | Tracking Mechanism |\n|---------|------------|--------------------|\n| Paid Search | SEM campaigns on Google, Bing | UTM: utm_source=google&utm_medium=cpc |\n| Organic Search | Non-paid search traffic | UTM: utm_source=google&utm_medium=organic |\n| Email | All email campaigns | UTM: utm_source=email&utm_medium=newsletter |\n| Webinars | Live and on-demand webinars | UTM: utm_source=webinar&utm_medium=live |\n| Content | Downloadable assets | UTM: utm_source=website&utm_medium=content |\n| Events | Trade shows, conferences | CRM lead source = \"Event\" |\n| Direct Sales | Prospecting, outbound | CRM lead source = \"Sales Generated\" |\n| Partner | Partner referrals | CRM lead source = \"Partner\" |\n| Social | Organic and paid social | UTM: utm_source=[platform]&utm_medium=[organic/paid] |\n| Website | Direct and other website traffic | UTM: utm_source=direct or utm_source=referral |\n\n### LEAD STAGES & DEFINITIONS\n| Stage | Definition | Ownership | SLA |\n|-------|------------|-----------|-----|\n| Anonymous Visitor | Tracked but not identified | Marketing | N/A |\n| Known Visitor | Identified but not qualified | Marketing | Update score within 24hrs |\n| Marketing Qualified Lead (MQL) | Meets threshold criteria | Marketing → Sales | Handoff within 24hrs |\n| Sales Accepted Lead (SAL) | Reviewed and accepted by sales | Sales | Accept/reject within 48hrs |\n| Sales Qualified Lead (SQL) | Confirmed fit, need, and interest | Sales | Convert to Opp within 7 days |\n| Opportunity | Active deal in pipeline | Sales with Marketing support | N/A |\n| Closed/Won | Successful deal | Sales with Marketing recognition | Attribution within 7 days |\n\n### TRACKING REQUIREMENTS\n\n**Marketing Requirements:**\n* All digital campaigns must use proper UTM parameters\n* All content must have tracking mechanisms in place\n* Lead scoring must be consistently applied\n* MQL criteria must be documented and consistently applied\n\n**Sales Requirements:**\n* All leads must have source tracked in CRM\n* Opportunities must have original lead source preserved\n* Lead status must be updated within SLA timeframes\n* Marketing influence must be acknowledged when present\n\n### IMPLEMENTATION ROADMAP\n1. First 30 days: Track first-touch only\n2. Days 31-60: Add last-touch tracking\n3. Days 61-90: Connect to opportunity creation\n4. After 90 days: Review and refine model"
+      },
+      "implementation-checklist": {
+        "title": "Technical Implementation Checklist",
+        "items": [
+          {
+            "text": "UTM parameters standardized across all channels",
+            "icon": "tag"
+          },
+          {
+            "text": "First-touch capture functioning from all sources",
+            "icon": "square-1"
+          },
+          {
+            "text": "Last-touch tracking properly connected to CRM",
+            "icon": "square-arrow-right"
+          },
+          {
+            "text": "Lead source field cleaned and standardized",
+            "icon": "filter"
+          },
+          {
+            "text": "Lead-to-opportunity source preservation confirmed",
+            "icon": "arrow-right-arrow-left"
+          },
+          {
+            "text": "Data flows validated between marketing automation and CRM",
+            "icon": "arrows-up-down"
+          }
+        ]
+      },
+      "credibility-hero": {
+        "title": "Phase 2: Building Credibility (Months 4-6)",
+        "subtitle": "Expand what works and formalize the process",
+        "icon": "chart-line",
+        "ctaText": "Build credibility"
+      },
+      "enhanced-attribution": {
+        "title": "Enhanced Attribution Implementation",
+        "steps": [
+          {
+            "title": "Upgrade to U-shaped Attribution",
+            "content": "Once basic tracking is reliable, move to a U-shaped model that gives credit to: 1) First touch (40%), 2) Lead conversion touch (40%), and 3) Interim touchpoints (20% distributed). This acknowledges both acquisition and qualification while still keeping the model comprehensible to non-technical stakeholders.",
+            "icon": "chart-simple"
+          },
+          {
+            "title": "Implement Offline Interaction Tracking",
+            "content": "Develop a system to capture offline touchpoints: 1) Create QR codes for event check-ins, 2) Build simplified entry forms for sales to log calls and meetings, 3) Generate unique tracking codes for direct mail campaigns, 4) Add fields in CRM to flag offline interactions. Verify data flows into your attribution model correctly.",
+            "icon": "phone"
+          },
+          {
+            "title": "Create Lead Handoff SLA",
+            "content": "Formalize the agreement between sales and marketing: 1) Marketing ensures leads meet specific quality criteria before handoff, 2) Sales commits to following up within 48 hours, 3) Both teams are accountable for conversion metrics at each stage. Create automated alerts for SLA violations and report compliance in weekly meetings.",
+            "icon": "file-contract"
+          },
+          {
+            "title": "Implement Multi-Touch Tracking",
+            "content": "Begin tracking the full customer journey: 1) Configure your marketing automation to record all touchpoints, 2) Create engagement scoring for different content types, 3) Build timelines showing progression through the funnel, 4) Connect anonymous activity to known leads when they identify themselves. Focus on trends rather than perfect tracking.",
+            "icon": "timeline"
+          },
+          {
+            "title": "Add Time-Decay Factors",
+            "content": "Acknowledge that recent touches may have more impact than distant ones: 1) Implement time-based weighting in your model, 2) Define appropriate decay rates based on your sales cycle, 3) Test different decay assumptions against known deals, 4) Find the right balance between recency and giving credit to early-funnel activities.",
+            "icon": "hourglass-half"
+          }
+        ]
+      },
+      "revenue-focus": {
+        "title": "Staying Focused on Revenue Metrics",
+        "steps": [
+          {
+            "title": "Connect Every Metric to Revenue",
+            "content": "Establish a hard rule that every marketing metric must connect directly to pipeline or revenue. Review all dashboards and reports to enforce this standard. Replace activity metrics with outcome metrics. Example: Instead of \"Email open rate,\" report \"Pipeline generated from email campaigns.\" Create a direct line from each marketing activity to financial impact.",
+            "icon": "money-bill"
+          },
+          {
+            "title": "Implement Dashboard Discipline",
+            "content": "For every \"activity\" metric, show the conversion outcome. Create visual flowcharts showing the full funnel from initial activity to closed revenue. Example: \"1,000 webinar attendees → 200 MQLs → 50 opportunities → 15 closed deals → $300,000 revenue.\" Make this format standard for all marketing reporting.",
+            "icon": "gauge-high"
+          },
+          {
+            "title": "Practice Ruthless Channel Prioritization",
+            "content": "Establish a clear rule: If a marketing channel shows significant activity but minimal pipeline impact for two consecutive quarters, reallocate that budget regardless of how \"engaging\" it seems. Create a formal review process to evaluate channel performance. Document and publicize these decisions to reinforce the revenue focus.",
+            "icon": "scissors"
+          },
+          {
+            "title": "Standardize Executive Communication",
+            "content": "Always lead with pipeline and revenue impact in executive communications. Create templates for executive reviews that start with business outcomes, not marketing activities. Train your team to translate all marketing metrics into business language. Avoid marketing jargon and technical terms in leadership presentations.",
+            "icon": "comment-dollar"
+          },
+          {
+            "title": "Implement ROI Measurement",
+            "content": "Calculate and report ROI for every major marketing investment: 1) Document fully-loaded costs for each channel and campaign, 2) Track revenue directly attributed to each initiative, 3) Calculate payback period and lifetime value contribution, 4) Compare performance across channels with consistent methodology. Make ROI visible in all budget discussions.",
+            "icon": "chart-pie"
+          }
+        ]
+      },
+      "credibility-checklist": {
+        "title": "Credibility-Building Indicators",
+        "items": [
+          {
+            "text": "Sales teams voluntarily acknowledge marketing contribution",
+            "icon": "user-check"
+          },
+          {
+            "text": "Pipeline reviews include marketing influence data",
+            "icon": "filter-circle-dollar"
+          },
+          {
+            "text": "Marketing budget discussions focus on ROI, not activities",
+            "icon": "chart-line"
+          },
+          {
+            "text": "Marketing campaigns are designed with revenue goals",
+            "icon": "bullseye-arrow"
+          },
+          {
+            "text": "Both teams use consistent terminology and metrics",
+            "icon": "language"
+          },
+          {
+            "text": "Lead handoff SLA consistently met or exceeded",
+            "icon": "check-double"
+          }
+        ]
+      },
+      "revops-hero": {
+        "title": "Revenue Operations Integration",
+        "subtitle": "Breaking down silos between operational teams",
+        "icon": "diagram-project",
+        "ctaText": "Unify operations"
+      },
+      "revops-creation": {
+        "title": "Building an Effective RevOps Function",
+        "steps": [
+          {
+            "title": "Create a Virtual RevOps Team",
+            "content": "Start without organizational disruption: 1) Identify key operations personnel from marketing, sales and customer success, 2) Create a virtual team that meets weekly while keeping existing reporting lines, 3) Assign a project leader to coordinate the integration, 4) Set clear goals for the first 90 days. This approach tests collaboration before formal restructuring.",
+            "icon": "users-gear"
+          },
+          {
+            "title": "Develop Unified Data Standards",
+            "content": "Create a foundation of shared data: 1) Build a comprehensive data dictionary defining all fields, 2) Map data flows between systems, 3) Identify and resolve conflicting definitions, 4) Create field ownership matrix stating which team owns which data elements, 5) Document the single source of truth for each metric. This becomes your operational constitution.",
+            "icon": "database"
+          },
+          {
+            "title": "Consolidate Technology Stack",
+            "content": "Evaluate and streamline operations technology: 1) Inventory all tools used by each operations team, 2) Identify redundant systems and integration gaps, 3) Create a unified technology roadmap, 4) Consolidate contracts and licenses where possible, 5) Establish governance for new technology purchases. Focus on eliminating data silos between teams.",
+            "icon": "layer-group"
+          },
+          {
+            "title": "Implement Cross-Functional Processes",
+            "content": "Redesign key processes to span departmental boundaries: 1) Lead management from first touch through opportunity, 2) Opportunity management through close, 3) Customer onboarding and expansion, 4) Data quality maintenance and enrichment. Document each process with clear handoff points and responsible parties.",
+            "icon": "arrows-split-up-and-left"
+          },
+          {
+            "title": "Formalize Organizational Structure",
+            "content": "Once the virtual team proves effective, formalize the structure: 1) Create official RevOps function with dedicated headcount, 2) Establish clear reporting line (typically to COO or both CRO/CMO), 3) Transfer operational personnel from individual departments, 4) Develop RevOps charter and service level agreements with each department, 5) Create performance metrics specific to the RevOps function.",
+            "icon": "sitemap"
+          }
+        ]
+      },
+      "data-governance": {
+        "title": "RevOps Data Governance Framework",
+        "items": [
+          {
+            "text": "Assign a dedicated Data Steward within RevOps",
+            "icon": "user-shield"
+          },
+          {
+            "text": "Create field ownership matrix for all CRM and MAP fields",
+            "icon": "table-cells"
+          },
+          {
+            "text": "Implement validation rules to enforce data standards",
+            "icon": "shield-check"
+          },
+          {
+            "text": "Document change management process for system modifications",
+            "icon": "file-circle-plus"
+          },
+          {
+            "text": "Schedule monthly data dictionary reviews with all teams",
+            "icon": "calendar-check"
+          },
+          {
+            "text": "Publish data quality scores with 90%+ completion targets",
+            "icon": "percent"
+          }
+        ]
+      },
+      "pipeline-council": {
+        "title": "Weekly Pipeline Council Framework",
+        "language": "text",
+        "code": "# PIPELINE COUNCIL STRUCTURE & PROTOCOL\n\n## MEETING DETAILS\n* Frequency: Weekly (Monday mornings recommended)\n* Duration: 45 minutes\n* Format: In-person or video conference (no dial-in only participation)\n\n## REQUIRED ATTENDEES\n* Sales leadership (VP Sales or equivalent)\n* Marketing leadership (CMO or equivalent)\n* RevOps representative\n* Sales managers/team leads\n* Demand generation lead\n\n## ROTATING ATTENDEES (INVITE 2-3 EACH WEEK)\n* Individual sales representatives\n* Campaign managers\n* Content team members\n* Field marketing representatives\n\n## STANDING AGENDA\n\n### 1. METRIC REVIEW (5 MINUTES)\n* Review dashboard KPIs week-over-week\n* Highlight significant changes or trends\n* Focus areas:\n  - Marketing Qualified Leads (volume & quality)\n  - MQL → SQL conversion rates\n  - Lead response time\n  - Marketing-sourced opportunities\n  - Win rates by source\n\n### 2. WINS & RECOGNITION (5 MINUTES)\n* Highlight successful sales-marketing collaborations\n* Recognize individuals who followed process exceptionally\n* Share positive customer feedback about marketing content\n* Celebrate deals influenced by marketing activities\n\n### 3. PIPELINE DEEP-DIVE (15 MINUTES)\n* Select 2-3 key accounts or opportunities\n* Review complete customer journey and touchpoints\n* Identify what's working and what's missing\n* Determine needed sales or marketing support\n* Document insights for wider application\n\n### 4. PROCESS IMPROVEMENTS (15 MINUTES)\n* Address any process breakdowns from past week\n* Review SLA compliance metrics\n* Discuss one specific process improvement opportunity\n* Capture feedback on marketing programs\n* Make decisions on process change requests\n\n### 5. ACTION ITEMS & NEXT STEPS (5 MINUTES)\n* Summarize decisions and commitments\n* Assign owners to action items with deadlines\n* Preview upcoming marketing activities\n* Set expectations for next week's focus\n\n## ESCALATION PROTOCOL\n\n### PROCESS FOR ADDRESSING DISAGREEMENTS\n1. First attempt: Resolve during pipeline council meeting\n   * Document different perspectives\n   * Use data to assess options\n   * Seek consensus through discussion\n\n2. If unresolved: Escalate to CRO/CMO within 48 hours\n   * Provide one-page summary of issue\n   * Include data supporting both positions\n   * Schedule joint meeting with both executives\n\n3. Final escalation: CEO decision within 72 hours\n   * CRO and CMO jointly present the issue\n   * CEO makes binding decision\n   * Decision documented and distributed\n\n### DOCUMENTATION REQUIREMENTS\n* Record all meetings with action items\n* Maintain decision log for future reference\n* Track attendance and participation\n* Document all escalations and resolutions\n* Update process documentation based on decisions\n\n## CONTINUOUS IMPROVEMENT PROCESS\n* End each meeting with: \"What did we learn this week?\"\n* Implement one process improvement after each meeting\n* Review effectiveness of past improvements monthly\n* Quarterly assessment of pipeline council value\n* Annual revision of council charter and processes"
+      },
+      "executive-hero": {
+        "title": "Executive Alignment & Education",
+        "subtitle": "Securing leadership buy-in and understanding",
+        "icon": "users-viewfinder",
+        "ctaText": "Align leadership"
+      },
+      "executive-education": {
+        "title": "Executive Education Strategy",
+        "steps": [
+          {
+            "title": "Create Attribution Education Materials",
+            "content": "Develop a one-page \"Attribution 101\" guide for executives that: 1) Defines basic terms like first-touch and multi-touch in simple language, 2) Shows a visual example of a customer journey with attribution points, 3) Explains the difference between correlation and causation, 4) Clarifies why perfect attribution is impossible but directional data is valuable. Avoid marketing jargon and technical details.",
+            "icon": "chalkboard-user"
+          },
+          {
+            "title": "Tailor Reporting to Executive Roles",
+            "content": "Create role-specific views of attribution data: 1) CEO: Focus on pipeline growth, marketing ROI, and strategic impact, 2) CFO: Emphasize unit economics, payback period, and expense justification, 3) Board: Show competitive advantage and market position improvements. Ensure each executive receives information relevant to their primary concerns.",
+            "icon": "user-gear"
+          },
+          {
+            "title": "Pre-empt Common Objections",
+            "content": "Prepare clear, data-driven responses to predictable challenges: 1) \"How do we know it wasn't just Sales effort?\" - Show controlled tests or comparison data, 2) \"Why isn't attribution perfect?\" - Explain B2B complexity vs. B2C with concrete examples, 3) \"Why does marketing need this much budget?\" - Demonstrate pipeline ratio and growth trends. Practice these responses with your team.",
+            "icon": "shield"
+          },
+          {
+            "title": "Conduct Executive Briefings",
+            "content": "Schedule individual sessions with key executives to: 1) Explain the attribution approach in terms relevant to their role, 2) Walk through a specific example using a recent deal they recognize, 3) Address their specific concerns and priorities, 4) Set expectations for what they'll see in upcoming reports. These 1:1 sessions build understanding before group presentations.",
+            "icon": "presentation-screen"
+          },
+          {
+            "title": "Implement Executive Review Cadence",
+            "content": "Establish a regular rhythm for executive updates: 1) Monthly dashboard review with both CRO and CMO presenting together, 2) Quarterly deep-dive on attribution model performance, 3) Annual comprehensive review of marketing impact on business results. Ensure consistency in format and metrics to build familiarity and trust over time.",
+            "icon": "calendar-days"
+          }
+        ]
+      },
+      "cfo-alignment": {
+        "title": "Specific CFO/Finance Alignment",
+        "steps": [
+          {
+            "title": "Establish Finance-Marketing Reconciliation",
+            "content": "Create a monthly meeting between marketing and finance teams to: 1) Review marketing expenses vs. budget, 2) Align on how costs are categorized and allocated, 3) Reconcile marketing's tracking with financial systems, 4) Address any discrepancies before they become issues in executive reporting. Document agreements in writing to prevent recurring discussions.",
+            "icon": "file-invoice-dollar"
+          },
+          {
+            "title": "Define CAC Calculation Methodology",
+            "content": "Create clear documentation on customer acquisition cost calculations: 1) What expenses are included/excluded, 2) How to handle staff costs (fully loaded vs. base salary), 3) How to allocate brand vs. demand generation spend, 4) Treatment of content production costs, 5) Approach to overhead allocation. Get formal sign-off from the CFO on this methodology.",
+            "icon": "calculator"
+          },
+          {
+            "title": "Align on Investment Time Horizons",
+            "content": "Establish agreement on how different marketing investments are evaluated: 1) Set appropriate timeframes for seeing returns on various marketing activities, 2) Create different ROI calculation periods for different investment types (e.g., \"Website redesign ROI calculated over 24 months\"), 3) Define how to handle long-term vs. short-term initiatives in reporting.",
+            "icon": "clock"
+          },
+          {
+            "title": "Develop Finance-Approved ROI Dashboards",
+            "content": "Co-create ROI reporting with finance team input: 1) Use finance-approved formulas and calculations, 2) Incorporate actual expense data from financial systems, 3) Add context and explanations for marketing-specific metrics, 4) Include pipeline and revenue forecasts with confidence intervals. Having finance validation prevents challenges to your methodology.",
+            "icon": "chart-line"
+          },
+          {
+            "title": "Create Marketing Budget Justification Framework",
+            "content": "Develop a structured approach to budget requests: 1) Create templates showing historical performance by channel, 2) Build forecast models showing expected pipeline and revenue from investments, 3) Include benchmark data from industry sources, 4) Show the impact of different funding scenarios. Use consistent formats for all budget discussions.",
+            "icon": "coins"
+          }
+        ]
+      },
+      "executive-dashboard": {
+        "title": "Executive Attribution Dashboard Template",
+        "language": "text",
+        "code": "# MONTHLY EXECUTIVE ATTRIBUTION DASHBOARD\n\n## TOP-LINE PERFORMANCE\n\n| Metric | Current Month | Prior Month | Q1 Average | YTD |  Target |\n|--------|--------------|-------------|------------|-----|----------|\n| Marketing-Sourced Pipeline | $4.2M | $3.8M | $3.5M | $15.2M | $4.0M |\n| Marketing-Influenced Pipeline | $8.7M | $7.9M | $7.2M | $31.5M | $8.0M |\n| Marketing-Sourced Revenue | $1.2M | $1.1M | $0.9M | $4.1M | $1.0M |\n| Pipeline-to-Spend Ratio | 9.5:1 | 8.6:1 | 7.8:1 | 8.4:1 | 8:1 |\n| Customer Acquisition Cost | $8,500 | $8,900 | $9,200 | $8,800 | $9,000 |\n| CAC Payback Period | 7.2 mo | 7.5 mo | 8.1 mo | 7.6 mo | 8.0 mo |\n\n## CHANNEL PERFORMANCE\n\n| Channel | Pipeline Generated | Cost | Pipeline-to-Cost | Revenue | ROI |\n|---------|-------------------|------|------------------|---------|-----|\n| Paid Search | $850K | $75K | 11.3:1 | $320K | 4.3x |\n| Content/SEO | $720K | $50K | 14.4:1 | $280K | 5.6x |\n| Webinars | $650K | $60K | 10.8:1 | $240K | 4.0x |\n| Events | $620K | $120K | 5.2:1 | $180K | 1.5x |\n| Email | $540K | $30K | 18.0:1 | $120K | 4.0x |\n| Social | $320K | $45K | 7.1:1 | $60K | 1.3x |\n\n## PIPELINE SOURCE BREAKDOWN\n\n**Current Quarter Pipeline by Origin**\n- Marketing-Sourced: 38% ($4.2M)\n- Sales-Sourced: 45% ($5.0M)\n- Partner-Sourced: 12% ($1.3M)\n- Customer Referral: 5% ($0.6M)\n\n**Marketing Influence on Pipeline**\n- Total Pipeline: $11.1M\n- Marketing-Influenced: $8.7M (78%)\n- No Marketing Touches: $2.4M (22%)\n\n## TIME-TO-IMPACT ANALYSIS\n\n| Channel | Avg. Days to MQL | Avg. Days to Opportunity | Avg. Days to Close |\n|---------|-----------------|--------------------------|--------------------|\n| Paid Search | 2 | 18 | 65 |\n| Content/SEO | 12 | 25 | 72 |\n| Webinars | 5 | 15 | 58 |\n| Events | 1 | 12 | 60 |\n| Email | 8 | 22 | 68 |\n| Social | 14 | 28 | 75 |\n\n## CAMPAIGN SPOTLIGHT\n\n**Top Performing Campaign: Q2 Industry Webinar Series**\n- Total Cost: $45,000\n- Pipeline Generated: $820,000\n- Deals Closed: $320,000\n- Pipeline-to-Cost: 18.2:1\n- ROI: 7.1x\n- Notable Impact: 35% faster sales cycle compared to other sources\n\n## CONTINUOUS IMPROVEMENT\n\n**Attribution Model Accuracy**\n- Data Completeness: 92% (↑5% from last month)\n- Lead Source Capture: 95% (↑3% from last month)\n- Multi-touch Tracking: 87% (↑8% from last month)\n\n**Next Steps**\n1. Increasing investment in top-performing webinar series by 20%\n2. Optimizing underperforming social campaigns\n3. Testing new content syndication approach\n4. Improving offline event tracking mechanisms"
+      },
+      "advanced-hero": {
+        "title": "Phase 3: Advanced Attribution (Months 7-12)",
+        "subtitle": "Scaling success after basics are solid",
+        "icon": "chart-network",
+        "ctaText": "Level up attribution"
+      },
+      "advanced-models": {
+        "title": "Advanced Attribution Models",
+        "steps": [
+          {
+            "title": "Implement W-shaped Attribution",
+            "content": "Expand to a more sophisticated model that acknowledges three key milestone touches: 1) First touch (30%), 2) Lead conversion (30%), and 3) Opportunity creation (30%), with remaining 10% distributed among other touchpoints. This recognizes marketing's role throughout the funnel while maintaining model clarity. Document the methodology and transition plan.",
+            "icon": "chart-line"
+          },
+          {
+            "title": "Add Content Influence Tracking",
+            "content": "Develop deeper insights into content effectiveness: 1) Track specific content pieces consumed throughout the buyer journey, 2) Weight content influence based on type, length, and engagement depth, 3) Identify content consumption patterns that correlate with higher conversion rates and faster deal velocity, 4) Connect content metrics to pipeline and revenue outcomes.",
+            "icon": "file-lines"
+          },
+          {
+            "title": "Integrate Digital Body Language",
+            "content": "Incorporate engagement signals beyond explicit form-fills: 1) Website behavior patterns, 2) Email engagement metrics, 3) Video view completion rates, 4) Document consumption time, 5) Repeat visits and session patterns. Use these signals to enrich your attribution model with intent data and engagement depth.",
+            "icon": "user-clock"
+          },
+          {
+            "title": "Implement Opportunity Influence Tracking",
+            "content": "Measure marketing's impact on deals in progress: 1) Track when prospects engage with marketing materials during sales cycles, 2) Measure how marketing content affects deal velocity, 3) Identify patterns in marketing touches that help overcome specific sales objections, 4) Quantify marketing's impact on deal size and terms.",
+            "icon": "money-bill-transfer"
+          },
+          {
+            "title": "Develop Predictive Capabilities",
+            "content": "Once you have reliable historical data, build forward-looking models: 1) Create channel mix optimization based on performance patterns, 2) Develop pipeline forecasting tools using marketing activity leading indicators, 3) Implement an early warning system for pipeline gaps, 4) Build account prioritization algorithms for marketing support allocation.",
+            "icon": "chart-mixed"
+          }
+        ]
+      },
+      "ai-readiness": {
+        "title": "Advanced/AI Attribution Readiness",
+        "items": [
+          {
+            "text": "Data quality consistently above 90% completion rate",
+            "icon": "database-check"
+          },
+          {
+            "text": "6-8 months of reliable attribution history established",
+            "icon": "calendar-check"
+          },
+          {
+            "text": "Sufficient deal volume for statistical significance (50+ per quarter)",
+            "icon": "chart-column"
+          },
+          {
+            "text": "Clear patterns emerging from simpler attribution models",
+            "icon": "chart-line"
+          },
+          {
+            "text": "Technical resources available for implementation and maintenance",
+            "icon": "user-gear"
+          },
+          {
+            "text": "Executive appetite for more sophisticated analysis",
+            "icon": "user-tie"
+          }
+        ]
+      },
+      "brand-attribution": {
+        "title": "Brand Marketing Attribution Framework",
+        "steps": [
+          {
+            "title": "Implement Brand Awareness Tracking",
+            "content": "Establish baseline metrics for brand impact: 1) Track direct website visits year-over-year, 2) Monitor branded search volume using tools like Google Trends, 3) Implement share-of-voice measurement in your industry, 4) Conduct quarterly brand awareness surveys in your target market. These metrics provide context for your direct response attribution.",
+            "icon": "bullhorn"
+          },
+          {
+            "title": "Correlate Brand Metrics to Pipeline",
+            "content": "Connect brand activities to business outcomes: 1) Track how branded search volume correlates to pipeline creation (with appropriate time lag), 2) Measure conversion rate differences between direct traffic and paid traffic, 3) Compare sales cycle length for prospects exposed to brand content vs. those who weren't, 4) Analyze win rate variations based on brand awareness.",
+            "icon": "arrow-up-right-dots"
+          },
+          {
+            "title": "Implement Attribution Time Lags",
+            "content": "Account for the delayed impact of brand investments: 1) Create rolling attribution windows based on typical sales cycle length, 2) Develop time-series analyses showing lead indicators and lagging outcomes, 3) Compare short-term vs. long-term attribution credits, 4) Visualize the full-funnel impact with appropriate time offsets.",
+            "icon": "hourglass"
+          },
+          {
+            "title": "Create Brand Equity Valuation",
+            "content": "Quantify the financial value of brand investments: 1) Measure premium pricing potential from strong brand, 2) Calculate customer acquisition cost reduction from brand awareness, 3) Analyze customer lifetime value differences for brand-engaged customers, 4) Develop models showing the compound return on brand investments over multi-year periods.",
+            "icon": "chart-pie"
+          },
+          {
+            "title": "Integrate Brand and Demand Attribution",
+            "content": "Develop a unified view of marketing impact: 1) Create reporting that shows both immediate performance marketing results and long-term brand effects, 2) Implement attribution modeling that credits both brand awareness and direct response activities appropriately, 3) Visualize the interplay between brand and demand generation efforts, 4) Help executives understand the complementary nature of these investments.",
+            "icon": "diagram-merge"
+          }
+        ]
+      },
+      "abm-hero": {
+        "title": "Account-Based Marketing Attribution",
+        "subtitle": "Measuring success beyond the individual lead level",
+        "icon": "building-user",
+        "ctaText": "Master ABM measurement"
+      },
+      "abm-measurement": {
+        "title": "ABM Measurement Framework",
+        "steps": [
+          {
+            "title": "Develop Account Engagement Scoring",
+            "content": "Create a comprehensive engagement measurement system: 1) Track depth of engagement (how many interactions per contact), 2) Measure breadth of engagement (what percentage of buying committee is engaged), 3) Assess quality of engagement (thought leadership vs. product content), 4) Calculate aggregate account scores from individual contact activities. This provides a holistic view of account penetration.",
+            "icon": "gauge-high"
+          },
+          {
+            "title": "Implement Buying Committee Coverage Metrics",
+            "content": "Track your progress engaging all decision-makers: 1) Map the buying committee roles for each target account, 2) Track the percentage of identified roles engaged by marketing, 3) Measure depth of engagement by role and content type, 4) Create visual heatmaps showing coverage across accounts. This shift from lead-counting to committee-coverage is crucial for ABM.",
+            "icon": "users-rectangle"
+          },
+          {
+            "title": "Track Account Progression Metrics",
+            "content": "Measure how accounts move through the ABM journey: 1) Define clear account journey stages beyond lead status, 2) Track time-in-stage and stage progression velocity, 3) Monitor account engagement trends over time, 4) Compare progression rates between ABM and non-ABM accounts. This shows the effectiveness of your ABM approach.",
+            "icon": "stairs"
+          },
+          {
+            "title": "Create Sales and Marketing Orchestration Tracking",
+            "content": "Measure coordinated efforts across teams: 1) Track joint sales and marketing activities at target accounts, 2) Measure sales follow-up on marketing-enabled accounts, 3) Document the sequence and timing of coordinated touchpoints, 4) Analyze which combination of touches drives the best results. This reinforces the collaborative nature of ABM.",
+            "icon": "people-arrows"
+          },
+          {
+            "title": "Implement ABM-Specific Results Comparison",
+            "content": "Quantify the ABM advantage through comparative analysis: 1) Compare deal sizes between ABM and non-ABM accounts, 2) Measure differences in sales cycle length, 3) Analyze win rates with and without ABM coverage, 4) Calculate ROI specific to your ABM program. This justifies continued investment in the ABM approach.",
+            "icon": "scale-balanced"
+          }
+        ]
+      },
+      "abm-metrics": {
+        "title": "Critical ABM Attribution Metrics",
+        "items": [
+          {
+            "text": "Buying committee coverage percentage by account",
+            "icon": "users-viewfinder"
+          },
+          {
+            "text": "Account engagement score trends over time",
+            "icon": "chart-line"
+          },
+          {
+            "text": "Time-to-first-meeting reduction compared to baseline",
+            "icon": "stopwatch"
+          },
+          {
+            "text": "Target account pipeline growth quarter-over-quarter",
+            "icon": "arrow-trend-up"
+          },
+          {
+            "text": "Win rate improvements in ABM accounts vs. non-ABM",
+            "icon": "trophy"
+          },
+          {
+            "text": "Average deal size increase for ABM-targeted accounts",
+            "icon": "sack-dollar"
+          }
+        ]
+      },
+      "multi-contact-framework": {
+        "title": "Multi-Contact Attribution Framework",
+        "language": "text",
+        "code": "# MULTI-CONTACT B2B ATTRIBUTION FRAMEWORK\n\n## BUYING COMMITTEE ROLE DEFINITIONS\n\n| Role | Description | Content Preferences | Tracking Priority |\n|------|-------------|---------------------|-------------------|\n| Technical Evaluator | Engineers, developers, IT staff | Technical docs, demos, webinars | High |\n| Business Decision-Maker | Department leaders, directors | ROI calculators, case studies | High |\n| Executive Sponsor | C-suite, VPs | Thought leadership, peer content | High |\n| User/Implementer | Day-to-day users | How-to guides, training content | Medium |\n| Procurement/Legal | Purchasing, contract managers | Specs, compliance docs | Medium |\n| Influencer | Advisors, consultants | Industry reports, comparisons | Medium |\n\n## ROLE-BASED ENGAGEMENT SCORING\n\n| Content Type | Technical Evaluator | Business Decision-Maker | Executive Sponsor |\n|--------------|---------------------|-------------------------|-------------------|\n| Product Demo | 10 points | 5 points | 3 points |\n| Technical Webinar | 10 points | 3 points | 1 point |\n| ROI Calculator | 2 points | 10 points | 5 points |\n| Thought Leadership | 1 point | 5 points | 10 points |\n| Case Study | 5 points | 10 points | 8 points |\n| Technical Doc | 10 points | 2 points | 1 point |\n| Executive Event | 1 point | 5 points | 10 points |\n\n## ACCOUNT COVERAGE CALCULATION\n\n**Coverage Percentage Formula:**\nCoverage % = (Engaged Committee Members / Total Committee Members) × 100\n\n**Coverage Quality Score:**\nQuality Score = (Σ Role Engagement Scores) / (Maximum Possible Score) × 100\n\n**Account Coverage Visualization:**\n* Red: <25% coverage\n* Yellow: 25-50% coverage\n* Light Green: 51-75% coverage\n* Dark Green: >75% coverage\n\n## MULTI-TOUCH ATTRIBUTION ACROSS BUYING COMMITTEE\n\n**Attribution Weighting Across Roles:**\n* Executive Sponsor: 40% of credit\n* Business Decision-Maker: 35% of credit\n* Technical Evaluator: 25% of credit\n\n**Channel Credit Allocation Example:**\nFor a $100,000 deal with multiple touches:\n1. Executive Sponsor attended thought leadership webinar: $40,000 × 50% = $20,000 credit\n2. Executive Sponsor read whitepaper: $40,000 × 30% = $12,000 credit\n3. Executive Sponsor received direct mail: $40,000 × 20% = $8,000 credit\n4. Business Decision-Maker viewed case study: $35,000 × 40% = $14,000 credit\n5. Business Decision-Maker attended demo: $35,000 × 60% = $21,000 credit\n6. Technical Evaluator downloaded technical papers: $25,000 × 70% = $17,500 credit\n7. Technical Evaluator attended technical webinar: $25,000 × 30% = $7,500 credit\n\n## OPERATIONAL IMPLEMENTATION\n\n**CRM Configuration Requirements:**\n1. Custom fields for contact roles (Technical Buyer, Economic Buyer, etc.)\n2. Account engagement scoring framework\n3. Roll-up fields to aggregate contact activity to account level\n4. Account coverage dashboard with role-based visualization\n5. Automated alerts for low coverage in high-value accounts\n\n**Diminishing Returns Rules:**\n* First touch in channel: 100% of point value\n* Second touch in same channel: 50% additional points\n* Third touch in same channel: 25% additional points\n* Fourth+ touch: 10% additional points per touch\n* Cap any single channel at 40% of total attribution\n\n**Implementation Sequence:**\n1. Define buying committee roles for top 20% of accounts\n2. Configure scoring model in CRM/MAP\n3. Begin tracking engagement by role\n4. Build account coverage reporting\n5. Adjust marketing tactics based on coverage gaps\n6. Expand to remaining target accounts"
+      },
+      "services-hero": {
+        "title": "Services Business Attribution",
+        "subtitle": "Adapting attribution for professional services organizations",
+        "icon": "handshake",
+        "ctaText": "Adapt for services"
+      },
+      "services-approach": {
+        "title": "Services Attribution Approach",
+        "steps": [
+          {
+            "title": "Create Distinct Attribution Models",
+            "content": "Recognize that services are sold differently than products: 1) Develop separate attribution models for product vs. services, 2) Account for longer, relationship-based sales cycles, 3) Acknowledge the more significant role of referrals and word-of-mouth, 4) Create appropriate conversion points that match services selling patterns. One model doesn't fit all business types.",
+            "icon": "code-branch"
+          },
+          {
+            "title": "Implement Relationship-Based Tracking",
+            "content": "Focus on the human connections driving services sales: 1) Track influence metrics like referrals and introductions, 2) Measure marketing's impact on relationship development, 3) Create specific fields in CRM to capture relationship sources, 4) Map the network effects of thought leadership and relationships. Services sales are about trust, not transactions.",
+            "icon": "people-arrows-left-right"
+          },
+          {
+            "title": "Track Thought Leadership Impact",
+            "content": "Measure how expertise demonstration drives services opportunities: 1) Create specific tracking codes for thought leadership content, 2) Survey clients about what content influenced their decision, 3) Track views-to-meetings conversion for key content pieces, 4) Document when prospects cite specific content during sales conversations.",
+            "icon": "lightbulb"
+          },
+          {
+            "title": "Develop Expansion Opportunity Attribution",
+            "content": "Track marketing's role in growing existing accounts: 1) Measure marketing touches preceding scope expansions, 2) Track which case studies or testimonials influence upsells, 3) Monitor how client-specific content affects expansion rates, 4) Create \"land and expand\" metrics that show marketing's contribution to account growth over time.",
+            "icon": "arrows-maximize"
+          },
+          {
+            "title": "Implement Services-Specific Metrics",
+            "content": "Create KPIs that match services business reality: 1) Track marketing influence on hourly rate/project value, 2) Measure impact on utilization rates for service teams, 3) Calculate marketing cost per billable hour generated, 4) Track client retention and repeat business rates influenced by marketing. These metrics better reflect services success than traditional SaaS metrics.",
+            "icon": "chart-simple"
+          }
+        ]
+      },
+      "services-touchpoints": {
+        "title": "Services-Specific Marketing Touchpoints",
+        "items": [
+          {
+            "text": "Thought leadership content (articles, speeches, workshops)",
+            "icon": "brain"
+          },
+          {
+            "text": "Client referral programs and case study development",
+            "icon": "share-nodes"
+          },
+          {
+            "text": "Industry recognition and awards for expertise",
+            "icon": "award"
+          },
+          {
+            "text": "Relationship events and executive roundtables",
+            "icon": "user-group"
+          },
+          {
+            "text": "Speaking engagements and industry panels",
+            "icon": "microphone"
+          },
+          {
+            "text": "Co-creation workshops and innovation sessions",
+            "icon": "pen-ruler"
+          }
+        ]
+      },
+      "services-framework": {
+        "title": "Services Attribution Mini-Framework",
+        "language": "text",
+        "code": "# SERVICES BUSINESS ATTRIBUTION FRAMEWORK\n\n## SERVICES TOUCHPOINT ATTRIBUTION MATRIX\n\n| Services Touchpoint | Attribution Method | Measurement Example | Value Capture |\n|---------------------|-------------------|---------------------|---------------|\n| Thought Leadership | Track views → meetings | \"20% of services scopes cited our industry report\" | Track which content is cited in sales conversations |\n| Client Referrals | Tag marketing-influenced referrals | \"Marketing webinars generated 15 referrals worth $300K\" | Ask \"how did you hear about us\" in intake forms |\n| Case Studies | Track which ones close deals | \"Financial services case study influenced 8 new SOWs\" | Note which materials are sent during sales process |\n| Relationship Events | Post-event engagement tracking | \"Executive dinner led to 3 scope expansions\" | Follow up with attendees about influenced opportunities |\n| Speaking Engagements | Badge scanning + follow-up | \"CEO keynote generated 12 new opportunities\" | Create unique tracking codes for each speaking event |\n| Partner Co-marketing | Partner-specific tracking codes | \"Partner webinar series influenced $450K in services\" | Use unique UTMs for each partner initiative |\n\n## SERVICES-SPECIFIC CONVERSION POINTS\n\n| Stage | Definition | Tracking Method | Attribution Value |\n|-------|------------|-----------------|------------------|\n| Awareness | First engagement with thought leadership | Content engagement tracking | 20% |\n| Consideration | Request for credentials or case studies | Form submissions, direct requests | 20% |\n| Meeting | Initial consultation or needs assessment | CRM meeting tracking | 30% |\n| Proposal | Formal SOW or engagement proposal | Opportunity creation in CRM | 20% |\n| Close | Signed agreement | Closed won opportunity | 10% |\n\n## RELATIONSHIP VALUE ATTRIBUTION\n\n**Relationship Strength Indicators:**\n* Attendance at exclusive events\n* Engagement with executive content\n* Direct interaction with leadership team\n* Participation in advisory groups\n* Referrals provided\n\n**Relationship Attribution Methods:**\n* Track relationship origin (\"How did this relationship begin?\")\n* Document marketing touches that deepened relationships\n* Survey clients on what built their trust and confidence\n* Track correlation between relationship activities and deal size\n\n## EXPANSION REVENUE ATTRIBUTION\n\n**Client Marketing Touchpoints to Track:**\n* Client newsletter engagement\n* Client event attendance\n* Client educational webinar participation\n* Usage of client-exclusive content\n* Interactions with account-based marketing materials\n\n**Expansion Attribution Formula:**\n* Identify marketing touches in 90 days prior to expansion discussions\n* Credit marketing with influence when touches occur pre-expansion\n* Weight based on timing and relevance to expanded services\n* Calculate \"expansion influence percentage\" across all accounts\n\n## PRACTICAL IMPLEMENTATION\n\n**CRM Requirements:**\n* Custom \"relationship source\" field\n* Thought leadership influence tracking\n* Marketing touchpoint fields for services opportunities\n* Expansion opportunity connection to marketing activities\n\n**Reporting Elements:**\n* Marketing-influenced services pipeline\n* Thought leadership ROI calculator\n* Relationship marketing effectiveness\n* Client marketing influence on expansion revenue\n* Marketing cost per new services client acquired"
+      },
+      "obstacles-hero": {
+        "title": "Overcoming Common Obstacles",
+        "subtitle": "Practical solutions to attribution roadblocks",
+        "icon": "mountain-sun",
+        "ctaText": "Tackle challenges"
+      },
+      "sales-data-obstacles": {
+        "title": "When Sales Won't Enter Data Properly",
+        "steps": [
+          {
+            "title": "Simplify The Data Entry Process",
+            "content": "Make it dead simple to capture essential information: 1) Replace free text fields with single-click options in CRM, 2) Limit required fields to the absolute minimum needed, 3) Create mobile-friendly forms for on-the-go updates, 4) Implement auto-population where possible, 5) Provide clear examples of properly completed fields. The easier it is, the more likely compliance will improve.",
+            "icon": "wand-magic-sparkles"
+          },
+          {
+            "title": "Build It Into The Sales Process",
+            "content": "Make data entry unavoidable: 1) Create validation rules that prevent advancing opportunities without required data, 2) Add data quality checks to opportunity stage gates, 3) Include data completion in sales meeting preparation, 4) Make it part of the deal review process. When data entry is a non-optional part of the sales workflow, compliance improves dramatically.",
+            "icon": "diagram-successor"
+          },
+          {
+            "title": "Connect It To Compensation",
+            "content": "Align financial incentives with data quality: 1) Make a portion of commission contingent on complete data, 2) Delay commission processing for deals with missing attribution data, 3) Create contests with rewards for data quality champions, 4) Publicly recognize reps with the best data hygiene. Money talks, especially with sales teams.",
+            "icon": "money-bill"
+          },
+          {
+            "title": "Provide Administrative Support",
+            "content": "Offer help for top performers: 1) Assign a sales operations person to assist with data entry for top-producing reps, 2) Create a \"data concierge\" service for deals over a certain size, 3) Build templates and macros to speed up data entry, 4) Implement bulk update tools for teams handling high volume. Sometimes outsourcing the task is more practical than enforcing compliance.",
+            "icon": "user-gear"
+          },
+          {
+            "title": "Create Public Accountability",
+            "content": "Use transparency to drive behavior: 1) Publish weekly data quality scores by team and individual, 2) Review completion rates in team meetings, 3) Have leaders model proper data hygiene, 4) Celebrate improvements and recognize consistent performers. Public recognition (and gentle public pressure) can significantly improve compliance.",
+            "icon": "chart-simple"
+          }
+        ]
+      },
+      "crm-obstacles": {
+        "title": "Dealing With A Messy CRM",
+        "steps": [
+          {
+            "title": "Be Selective About What You Fix",
+            "content": "Don't try to fix everything at once: 1) Identify the minimum viable data set needed for attribution, 2) Focus only on cleaning those essential fields, 3) Accept imperfection in non-critical areas, 4) Prioritize active opportunities over historical data. A targeted approach prevents the overwhelming \"boil the ocean\" feeling that kills most data cleanup initiatives.",
+            "icon": "filter"
+          },
+          {
+            "title": "Create Clean Parallel Systems When Needed",
+            "content": "Sometimes it's easier to build anew than fix what's broken: 1) Use your marketing automation platform as a separate tracking system, 2) Create a dedicated attribution database outside the CRM if necessary, 3) Implement middleware tools that sit between systems to clean and standardize data flows, 4) Use BI tools to create a clean reporting layer above messy source systems.",
+            "icon": "code-branch"
+          },
+          {
+            "title": "Focus on Forward-Looking Data",
+            "content": "Prioritize new data over historical cleanup: 1) Set a clear cutoff date for new standards, 2) Create stringent validation for new records while accepting historical imperfection, 3) Build time-based reports that show improved data quality over time, 4) Gradually backfill important historical records only when necessary. Prove the model works with new data before tackling the past.",
+            "icon": "forward"
+          },
+          {
+            "title": "Implement Progressive Data Enhancement",
+            "content": "Improve data quality opportunistically: 1) Clean data when records are touched for other reasons, 2) Focus cleanup efforts on active deals and accounts, 3) Create tiered data quality standards based on account value, 4) Use automation to gradually enrich and standardize existing records. This approach spreads the workload and focuses on what matters most.",
+            "icon": "sliders"
+          },
+          {
+            "title": "Document and Communicate Data Limitations",
+            "content": "Set realistic expectations about data quality: 1) Clearly document known issues and limitations, 2) Provide confidence scores with reports that use imperfect data, 3) Explain which conclusions are reliable and which are directional, 4) Create a roadmap showing how data quality will improve over time. Transparency about limitations builds credibility.",
+            "icon": "triangle-exclamation"
+          }
+        ]
+      },
+      "offline-tracking": {
+        "title": "Capturing Offline Activities",
+        "steps": [
+          {
+            "title": "Phase 1 (30 Days): Basic Call Logging",
+            "content": "Begin with the most common offline touchpoint: 1) Get 50% of sales calls logged in CRM, 2) Provide call scripts with fill-in-the-blank CRM templates, 3) Have sales ops audit call logs weekly and flag gaps, 4) Make compliance visible: \"Team A logged 85% of calls, Team B only 40%.\" Start with this fundamental offline interaction before tackling more complex ones.",
+            "icon": "phone"
+          },
+          {
+            "title": "Phase 2 (90 Days): Technology-Assisted Tracking",
+            "content": "Leverage technology to improve offline capture: 1) Implement click-to-call in CRM to auto-log calls, 2) Set up calendar sync to capture meetings automatically, 3) Create 5-second mobile forms for logging impromptu conversations, 4) Use email parsers to automatically create CRM activities from emails. The goal is 75% tracking compliance through technology assistance.",
+            "icon": "mobile"
+          },
+          {
+            "title": "Phase 3 (6 Months): In-Person Event Tracking",
+            "content": "Add sophisticated event and offline tracking: 1) Implement QR codes at in-person events to track booth visits, 2) Create unique tracking links for presentations and materials, 3) Use badge scanning technology integrated with your CRM, 4) Design follow-up workflows that capture event-sourced opportunities. Connect these high-value offline interactions to your digital tracking system.",
+            "icon": "id-badge"
+          },
+          {
+            "title": "Phase 4 (9 Months): Connected Timeline View",
+            "content": "Create a unified view of all interactions: 1) Connect digital and offline touchpoints into one comprehensive timeline, 2) Visualize the customer journey across all channels, 3) Implement automated touch attribution that includes offline activities, 4) Create scoring models that appropriately weight both online and offline interactions. This gives a complete picture of the buyer's journey.",
+            "icon": "timeline"
+          },
+          {
+            "title": "Phase 5 (12 Months): AI-Enhanced Capture",
+            "content": "Apply advanced technology to maximize data capture: 1) Use AI tools to transcribe and auto-categorize calls, 2) Implement natural language processing to identify buying signals in conversations, 3) Create automated summaries of sales interactions, 4) Deploy machine learning to identify patterns in successful offline interactions. This represents the most sophisticated approach to offline tracking.",
+            "icon": "robot"
+          }
+        ]
+      },
+      "tools-hero": {
+        "title": "Practical Implementation Tools",
+        "subtitle": "Ready-to-use templates and frameworks",
+        "icon": "toolbox",
+        "ctaText": "Get implementation tools"
+      },
+      "weekly-dashboard": {
+        "title": "The Weekly Sales-Marketing Dashboard",
+        "language": "text",
+        "code": "# WEEKLY SALES-MARKETING ALIGNMENT DASHBOARD\n\n## DASHBOARD OVERVIEW\nOne page everyone trusts. Updated every Monday morning.\n\n## KEY PERFORMANCE INDICATORS\n\n| Metric | This Week | Last Week | Trend | Target | Owner |\n|--------|-----------|-----------|-------|--------|-------|\n| Marketing Qualified Leads | 125 | 110 | ↑ | 120 | Marketing |\n| MQL → SQL Conversion | 22% | 20% | ↑ | 25% | Shared |\n| Lead Response Time | 8hrs | 12hrs | ↑ | 6hrs | Sales |\n| Marketing-Sourced Opportunities | 18 | 15 | ↑ | 20 | Marketing |\n| Opportunity Win Rate (Marketing-Sourced) | 22% | 21% | ↑ | 25% | Sales |\n| Marketing Influence on All Deals | 65% | 60% | ↑ | 70% | Marketing |\n\n## CONVERSION FUNNEL\n\n| Stage | Count | Conversion % | Goal | Status |\n|-------|-------|-------------|------|--------|\n| Website Visitors | 12,500 | - | 10,000 | ✓ |\n| New Contacts | 650 | 5.2% | 5.0% | ✓ |\n| MQLs | 125 | 19.2% | 20.0% | ⚠ |\n| SQLs | 28 | 22.4% | 25.0% | ⚠ |\n| Opportunities | 18 | 64.3% | 60.0% | ✓ |\n| Closed Won | 5 | 27.8% | 30.0% | ⚠ |\n\n## CAMPAIGN PERFORMANCE (TOP 3)\n\n| Campaign | Leads | MQLs | Opps | Pipeline | ROI |\n|----------|-------|------|------|----------|-----|\n| Q2 Webinar Series | 85 | 32 | 8 | $650K | 8.2x |\n| LinkedIn Sponsored | 120 | 28 | 5 | $420K | 5.3x |\n| Industry Report | 75 | 22 | 4 | $380K | 6.1x |\n\n## SLA COMPLIANCE\n\n| Metric | Target | Actual | Status |\n|--------|--------|--------|--------|\n| Lead Response Time | <6 hours | 8 hours | ⚠ |\n| MQL → Sales Review | <24 hours | 18 hours | ✓ |\n| Sales Feedback to Marketing | <48 hours | 72 hours | ❌ |\n| Data Completion Rate | >90% | 86% | ⚠ |\n\n## WEEKLY WINS\n\n* **Deal Spotlight:** Acme Corp closed ($125K) - Marketing sourced through webinar, nurtured through 3-step workflow\n* **Process Win:** Lead response time improved by 33% through new alert system\n* **Collaboration Win:** Marketing content used in 8 late-stage deals to overcome objections\n\n## FOCUS AREAS THIS WEEK\n\n* Improve sales feedback compliance through automated reminders\n* Address drop in SQL conversion on LinkedIn campaign\n* Launch new lead rotation system to improve response time\n* Cross-train 2 sales reps on marketing analytics dashboard\n\n## NEXT WEEK PREVIEW\n\n* New whitepaper launching Wednesday - sales briefing Tuesday\n* A/B test on demo request page goes live Thursday\n* Planning for Q3 webinar series - sales input needed by Friday\n\n## DASHBOARD DISTRIBUTION PROTOCOL\n1. Published every Monday morning by 9am by RevOps\n2. Shared in company-wide Slack channel\n3. Reviewed in weekly sales-marketing alignment meeting\n4. Sent to CEO/CRO/CMO via email\n5. Displayed on monitors in sales and marketing areas\n6. Included in monthly executive business review\n7. Tracked over time with 13-week rolling chart"
+      },
+      "definitions-template": {
+        "title": "Marketing-Sourced vs. Marketing-Influenced Definitions",
+        "language": "text",
+        "code": "# STANDARD ATTRIBUTION DEFINITIONS\n\n## MARKETING-SOURCED PIPELINE\n\n**Definition:** Net new opportunities that originated directly from a marketing activity\n\n**Qualification Criteria:**\n* First-touch attribution comes from a marketing channel\n* Lead was not previously known to the sales team\n* Lead took a measurable action on a marketing asset\n* No sales prospecting was involved in initial acquisition\n\n**Examples:**\n* Prospect filled out demo request form from paid ad\n* Lead downloaded content and requested sales contact\n* Website visitor engaged with chat and requested follow-up\n* Event attendee scanned badge and asked for information\n\n**Tracking Mechanism:**\n* \"Lead Source\" field in CRM = Marketing Channel\n* \"Source Type\" field = Marketing\n* Date stamped source capture\n\n**Typical Target:** 25-40% of total pipeline\n\n**Reporting Owner:** Marketing team\n\n## MARKETING-INFLUENCED PIPELINE\n\n**Definition:** Opportunities that had meaningful marketing engagement during the sales process\n\n**Qualification Criteria:**\n* Any opportunity with 2+ significant marketing touches\n* Marketing content was used during sales process\n* Lead engaged with marketing during nurture phase\n* Marketing activities accelerated an existing opportunity\n\n**Examples:**\n* Sales-sourced lead later attended marketing webinar\n* Prospect downloaded case study during evaluation\n* Multiple stakeholders engaged with different content pieces\n* Lead re-engaged through marketing after going cold\n\n**Tracking Mechanism:**\n* \"Marketing Influence\" field in CRM = Yes\n* Campaign influence tracking enabled\n* Multiple touch attribution visible in opportunity\n\n**Typical Target:** 60-80% of total pipeline\n\n**Reporting Owner:** Marketing team with Sales validation\n\n## MARKETING-INFLUENCED CUSTOMER EXPANSION\n\n**Definition:** Upsells or cross-sells facilitated by marketing activities to existing customers\n\n**Qualification Criteria:**\n* Existing customer engaged with marketing content prior to expansion\n* Marketing programs targeted at installed base\n* Customer attended customer marketing events\n* Educational content prepared customer for additional products\n\n**Examples:**\n* Current customer purchased additional product after joining user group\n* Existing user expanded seats after product webinar\n* Customer upgraded after engaging with new feature content\n* Add-on purchase followed targeted expansion campaign\n\n**Tracking Mechanism:**\n* \"Expansion Source\" field in CRM captures marketing influence\n* Customer marketing campaign tracking enabled\n* Linked to original customer record with expansion flags\n\n**Typical Target:** 30-50% of expansion revenue\n\n**Reporting Owner:** Marketing with Customer Success validation\n\n## ATTRIBUTION DISPUTE RESOLUTION PROCESS\n\n1. **Documentation Required:**\n   * Timeline of all touchpoints with dates\n   * Record of lead source as initially captured\n   * Evidence of sales and marketing activities\n   * Customer statement of influence (when available)\n\n2. **Review Process:**\n   * RevOps conducts initial assessment\n   * Joint review in pipeline council meeting\n   * Evidence-based discussion (no assumptions)\n   * Majority decision with sales and marketing input\n\n3. **Escalation Path:**\n   * Level 1: Resolve in pipeline council\n   * Level 2: CRO/CMO joint review\n   * Level 3: CEO final decision (rare cases only)\n\n4. **Prevention Measures:**\n   * Clear definition documentation\n   * Regular process review and refinement\n   * Training for all new sales and marketing members\n   * Continuous monitoring of attribution patterns"
+      },
+      "tools-checklist": {
+        "title": "Essential Implementation Tools",
+        "items": [
+          {
+            "text": "Standardized UTM parameter generator and validator",
+            "icon": "link"
+          },
+          {
+            "text": "Lead source picklist with clear definitions",
+            "icon": "list"
+          },
+          {
+            "text": "Data quality scoring system and dashboard",
+            "icon": "gauge-high"
+          },
+          {
+            "text": "Attribution model documentation and calculation template",
+            "icon": "calculator"
+          },
+          {
+            "text": "Pipeline council agenda and decision log",
+            "icon": "file-lines"
+          },
+          {
+            "text": "Executive presentation template with ROI focus",
+            "icon": "presentation-screen"
+          }
+        ]
+      },
+      "success-hero": {
+        "title": "Measuring Implementation Success",
+        "subtitle": "Realistic timelines and progress indicators",
+        "icon": "check-double",
+        "ctaText": "Track your progress"
+      },
+      "thirty-day-metrics": {
+        "title": "30-60 Day Success Indicators",
+        "items": [
+          {
+            "text": "Sales-marketing weekly meeting attendance at 90%+",
+            "icon": "calendar-check"
+          },
+          {
+            "text": "Lead source field completed for 80%+ of new opportunities",
+            "icon": "square-check"
+          },
+          {
+            "text": "UTM parameters standardized across all digital channels",
+            "icon": "tags"
+          },
+          {
+            "text": "Baseline attribution metrics established for last 6 months",
+            "icon": "chart-line"
+          },
+          {
+            "text": "First attribution model implemented (simple version)",
+            "icon": "chart-simple"
+          },
+          {
+            "text": "Executive dashboard launched with 3-5 key metrics",
+            "icon": "gauge-high"
+          }
+        ]
+      },
+      "ninety-day-metrics": {
+        "title": "90-Day and 6-Month Milestones",
+        "items": [
+          {
+            "text": "Lead follow-up time reduced by 30% from baseline",
+            "icon": "stopwatch"
+          },
+          {
+            "text": "Marketing contribution to pipeline acknowledged by sales",
+            "icon": "handshake"
+          },
+          {
+            "text": "Marketing-sourced pipeline percentage established and tracked",
+            "icon": "filter-circle-dollar"
+          },
+          {
+            "text": "Channel-level ROI available for top 3 marketing channels",
+            "icon": "money-bill-trend-up"
+          },
+          {
+            "text": "Complete U-shaped attribution model functioning",
+            "icon": "diagram-project"
+          },
+          {
+            "text": "Budget allocation shifting based on ROI data",
+            "icon": "sack-dollar"
+          }
+        ]
+      },
+      "quarterly-updates": {
+        "title": "Maintaining Model Relevance",
+        "steps": [
+          {
+            "title": "Establish Quarterly Review Cycles",
+            "content": "Create a formal process to keep your attribution approach current: 1) Set calendar-based review meetings every 3 months, 2) Reassess attribution rules based on recent performance data, 3) Update channel definitions as new tactics emerge, 4) Refine lead scoring based on conversion data, 5) Document all changes with clear rationale. This prevents attribution model drift.",
+            "icon": "arrows-rotate"
+          },
+          {
+            "title": "Adapt to Business Changes",
+            "content": "Modify your attribution approach as your business evolves: 1) Develop new model components for new product lines, 2) Adjust time decay factors if sales cycles change, 3) Update buying committee models when targeting new personas, 4) Revise pipeline definitions during sales team restructuring, 5) Document when and why changes were made for continuity.",
+            "icon": "building-user"
+          },
+          {
+            "title": "Incorporate Performance Learnings",
+            "content": "Use performance data to refine your model: 1) If certain content consistently influences late-stage deals, increase its weight, 2) Adjust channel credit allocation based on conversion patterns, 3) Revise scoring models based on which leads actually close, 4) Create custom attribution rules for high-performing segments. Let real results shape your approach.",
+            "icon": "graduation-cap"
+          },
+          {
+            "title": "Monitor External Market Changes",
+            "content": "Adjust for significant shifts in your market: 1) Flag major competitor moves that could invalidate historical patterns, 2) Watch for macroeconomic shifts that alter buying behavior, 3) Create \"pre/post\" analysis when significant external changes occur, 4) Temporarily apply more weight to recent data during volatile periods, 5) Reset baseline metrics if market conditions fundamentally change.",
+            "icon": "globe"
+          },
+          {
+            "title": "Measure Attribution Model Accuracy",
+            "content": "Test how well your model reflects reality: 1) Conduct periodic manual validation of a sample of deals, 2) Compare attributed outcomes to directly observed buyer behavior, 3) Interview customers about their actual decision journey, 4) Adjust model components that consistently misalign with reality, 5) Document accuracy rate over time to show model improvement.",
+            "icon": "check-to-slot"
+          }
+        ]
+      },
+      "pitfalls-hero": {
+        "title": "Avoiding Common Attribution Pitfalls",
+        "subtitle": "Learn from others' mistakes to ensure your success",
+        "icon": "triangle-exclamation",
+        "ctaText": "Stay vigilant"
+      },
+      "warning-signs": {
+        "title": "Warning Signs Requiring Action",
+        "items": [
+          {
+            "text": "Data entry compliance drops below 70% for two consecutive weeks",
+            "icon": "chart-line-down"
+          },
+          {
+            "text": "Sales stops attending weekly alignment meetings",
+            "icon": "calendar-xmark"
+          },
+          {
+            "text": "Attribution becomes too complex for executives to understand",
+            "icon": "circle-question"
+          },
+          {
+            "text": "Marketing gets defensive about underperforming channels",
+            "icon": "shield"
+          },
+          {
+            "text": "Old blame patterns reemerge in pipeline discussions",
+            "icon": "users-slash"
+          },
+          {
+            "text": "Budget decisions ignore attribution data",
+            "icon": "money-bill-transfer"
+          }
+        ]
+      },
+      "common-mistakes": {
+        "title": "Lessons From the Field: Common Pitfalls",
+        "items": [
+          {
+            "text": "Overpromising timeline (perfect attribution isn't possible in 90 days)",
+            "icon": "calendar-day"
+          },
+          {
+            "text": "Model complexity (implementing AI before basic tracking works)",
+            "icon": "diagram-next"
+          },
+          {
+            "text": "Blind spots (forgetting to track phone calls, chat, direct outreach)",
+            "icon": "eye-slash"
+          },
+          {
+            "text": "Tool obsession (buying expensive software before fixing processes)",
+            "icon": "screwdriver-wrench"
+          },
+          {
+            "text": "Missing the people factor (creating a model no one actually uses)",
+            "icon": "users"
+          },
+          {
+            "text": "Data perfectionism (trying to fix years of bad data)",
+            "icon": "broom"
+          }
+        ]
+      },
+      "final-cta": {
+        "title": "Redefining Marketing's Role",
+        "content": "Your job isn't to implement a perfect attribution model. It's to build organizational credibility for marketing's revenue contribution. Success doesn't look like a flawless technical implementation - it looks like sales asking for marketing's help to close deals, the CFO approving marketing budget increases with confidence, and the CEO referencing marketing's pipeline impact in board meetings. The path there isn't just technical - it's organizational. Fix the human elements first, keep the metrics simple, and focus on rebuilding trust through consistent results. This isn't a 90-day fix. It's a fundamental reset of how your company views marketing - from cost center to growth driver.",
+        "buttonText": "Download Full Attribution Framework",
+        "buttonUrl": "https://ko-fi.com/amitbhalla",
+        "icon": "gauge-high"
+      }
+    }
+  }
