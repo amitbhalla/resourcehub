@@ -1,448 +1,1131 @@
 {
   "blocks": {
     "intro-hero": {
-      "title": "Break Into Marketing in India: 2025 Starter Guide",
-      "subtitle": "Your practical roadmap to launch a successful marketing career - no experience needed",
-      "icon": "rocket",
-      "ctaText": "Start your journey"
+      "title": "The Real Marketing Job Guide for 2025 Graduates",
+      "subtitle": "Skip the BS and get hired: What no one tells you about breaking into marketing",
+      "icon": "bullseye",
+      "ctaText": "Let's get real"
     },
-    "market-stats": {
-      "title": "The Indian Marketing Landscape for Freshers",
+    "market-reality": {
+      "title": "The Brutal Truth About Entry-Level Marketing",
       "items": [
         {
-          "value": "23%",
-          "label": "Growth in entry-level digital marketing positions since 2023",
-          "icon": "chart-line"
+          "value": "250+",
+          "label": "Average applications per entry-level marketing job",
+          "icon": "file-lines"
         },
         {
-          "value": "₹3.2-7L",
-          "label": "Realistic first-year salary range for fresh graduates",
+          "value": "68%",
+          "label": "Of marketing grads take 6+ months to find first role",
+          "icon": "hourglass-half"
+        },
+        {
+          "value": "₹2.8-5L",
+          "label": "Actual first-job salary range (not what they advertise)",
           "icon": "rupee-sign"
         },
         {
-          "value": "72%",
-          "label": "Of marketing hires in 2024 came through referrals and networking",
-          "icon": "handshake"
-        },
-        {
-          "value": "3-6 months",
-          "label": "Average time from graduation to first marketing job",
-          "icon": "hourglass-half"
+          "value": "85%",
+          "label": "Of job postings require experience (even 'entry-level')",
+          "icon": "triangle-exclamation"
         }
       ]
     },
     "guide-overview": {
-      "title": "What You'll Learn in This Guide",
+      "title": "What This Guide Actually Delivers",
       "items": [
         {
-          "text": "Exactly which skills to prioritize as a complete beginner",
-          "icon": "lightbulb"
+          "text": "Exactly how to create proof of skills without experience",
+          "icon": "file-circle-check"
         },
         {
-          "text": "Free and affordable learning resources that actually work",
-          "icon": "graduation-cap"
-        },
-        {
-          "text": "How to create your first marketing portfolio with zero experience",
+          "text": "Step-by-step portfolio creation with zero budget",
           "icon": "briefcase"
         },
         {
-          "text": "Word-for-word scripts for cold outreach that gets responses",
-          "icon": "envelope"
+          "text": "Templates to bypass application tracking systems",
+          "icon": "robot"
         },
         {
-          "text": "City-by-city salary benchmarks to avoid being underpaid",
-          "icon": "map-location-dot"
+          "text": "Specific phrases to use in interviews when you lack experience",
+          "icon": "comment-dots"
         },
         {
-          "text": "Step-by-step tactics to build a network as an industry newcomer",
-          "icon": "users"
+          "text": "Actual salary numbers by city, industry, and company size",
+          "icon": "indian-rupee-sign"
+        },
+        {
+          "text": "90-day plans to succeed once you get hired",
+          "icon": "calendar-days"
         }
       ]
     },
     "skills-hero": {
-      "title": "In-Demand Marketing Skills for 2025",
-      "subtitle": "Focus on these practical skills that employers are actually hiring for right now",
-      "icon": "brain",
-      "ctaText": "Develop your skills"
+      "title": "Skills That Actually Get You Hired",
+      "subtitle": "Focus exclusively on these in your first 60 days of job hunting",
+      "icon": "screwdriver-wrench",
+      "ctaText": "Master these first"
     },
     "core-skills": {
-      "title": "Essential Core Skills (Learn These First)",
+      "title": "Skills to Learn in Week 1-2",
       "items": [
         {
-          "text": "Google Analytics 4 & Basic Data Analysis (Excel/Sheets)",
-          "icon": "chart-pie"
+          "text": "Google Analytics 4 setup and basic reporting",
+          "icon": "chart-line"
         },
         {
-          "text": "Content Creation for Instagram, LinkedIn & YouTube",
-          "icon": "pen-fancy"
-        },
-        {
-          "text": "Meta & Google Ads Campaign Management",
+          "text": "Meta & Google ad campaign setup (not strategy)",
           "icon": "bullhorn"
         },
         {
-          "text": "WhatsApp Business & SMS Marketing Fundamentals",
-          "icon": "mobile-screen"
+          "text": "Basic Canva graphics for social media posts",
+          "icon": "image"
         },
         {
-          "text": "Canva & Basic Image Editing for Social Media Graphics",
-          "icon": "palette"
+          "text": "Email copywriting formats that convert",
+          "icon": "envelope"
         },
         {
-          "text": "ChatGPT & AI Tools for Marketing Content Creation",
-          "icon": "robot"
+          "text": "Instagram/Facebook content calendars",
+          "icon": "calendar"
+        },
+        {
+          "text": "Spreadsheet formulas for marketing reports",
+          "icon": "table"
         }
       ]
     },
-    "specialist-skills": {
-      "title": "High-Demand Specialized Skills (For Higher Pay)",
+    "technical-skills": {
+      "title": "Technical Skills That Triple Your Callbacks",
       "items": [
         {
-          "text": "Hindi, Tamil or Telugu Content Creation (Massive Advantage)",
-          "icon": "language"
+          "text": "Google Tag Manager basic implementation",
+          "icon": "tags"
         },
         {
-          "text": "Shopify, Amazon & Flipkart Marketplace Optimization",
-          "icon": "shop"
+          "text": "UTM parameter creation and tracking",
+          "icon": "link"
         },
         {
-          "text": "HubSpot CRM & Email Marketing Automation",
-          "icon": "envelope-circle-check"
-        },
-        {
-          "text": "Instagram/YouTube Influencer Campaign Management",
-          "icon": "users-between-lines"
-        },
-        {
-          "text": "WordPress & Basic Landing Page Building",
+          "text": "Basic HTML/CSS for landing pages",
           "icon": "code"
         },
         {
-          "text": "Google Tag Manager & Conversion Tracking Setup",
-          "icon": "tag"
+          "text": "Data visualization in Google Sheets",
+          "icon": "chart-pie"
+        },
+        {
+          "text": "ChatGPT prompts for marketing content",
+          "icon": "robot"
+        },
+        {
+          "text": "WordPress basic site management",
+          "icon": "wordpress"
         }
       ]
     },
-    "skill-demand": {
-      "title": "Skills vs. Reality Check",
+    "skill-reality": {
+      "title": "The Skills Reality Check",
       "items": [
         {
-          "value": "89%",
-          "label": "Of entry-level jobs require proficiency in at least one ad platform",
-          "icon": "bullhorn"
+          "value": "94%",
+          "label": "Of marketing managers say graduates lack technical skills",
+          "icon": "gears"
         },
         {
-          "value": "₹1.5L+",
-          "label": "Additional salary for candidates with regional language skills",
-          "icon": "language"
+          "value": "76%",
+          "label": "Of jobs require proof of skills, not just certificates",
+          "icon": "clipboard-check"
         },
         {
-          "value": "73%",
-          "label": "Of hiring managers test practical skills during interviews",
-          "icon": "laptop-code"
+          "value": "14 days",
+          "label": "Average time needed to learn the minimum viable skills",
+          "icon": "calendar-day"
         },
         {
-          "value": "4X",
-          "label": "Faster job placement with a strong online portfolio",
-          "icon": "briefcase"
+          "value": "5X",
+          "label": "More interviews for candidates with technical portfolios",
+          "icon": "file-code"
         }
       ]
     },
-    "learning-hero": {
-      "title": "Learning Pathways That Actually Work",
-      "subtitle": "Affordable and effective routes to build marketable skills - even on a tight budget",
-      "icon": "graduation-cap",
-      "ctaText": "Choose your path"
+    "portfolio-hero": {
+      "title": "Building a Portfolio With Zero Experience",
+      "subtitle": "The step-by-step system to create proof of your abilities",
+      "icon": "briefcase",
+      "ctaText": "Create your proof"
     },
-    "digital-pathway": {
-      "title": "Digital Marketing Specialist Path (3-6 months)",
+    "zero-experience-portfolio": {
+      "title": "Zero-to-Portfolio in 14 Days",
       "steps": [
         {
-          "title": "Week 1-2: Master the Free Essentials",
-          "content": "Complete Google's free Digital Marketing Fundamentals course (15 hours) and Google Analytics 4 certification (10 hours). Sign up for Google Skillshop and Meta Blueprint free courses.",
-          "icon": "book"
+          "title": "Day 1-2: Create Your Base Projects",
+          "content": "Pick 3 brands you admire (local preferred). Create a private Google Drive folder for each. For each brand, draft: 1) A marketing campaign brief, 2) 3 social media posts with captions, 3) 1 email newsletter, and 4) Simple ad mockups using Canva.",
+          "icon": "folder-open"
         },
         {
-          "title": "Week 3-6: Learn One Channel Deeply",
-          "content": "Pick ONE platform to master: Meta Ads (₹0, Blueprint learning), Google Ads (₹0, Google Skillshop), or SEO (₹0, Ahrefs Academy). Complete all exercises and create practice campaigns using the free tier of tools.",
-          "icon": "bullseye"
+          "title": "Day 3-5: Add Analytics Components",
+          "content": "For each campaign, create: 1) A Google Sheet tracking key metrics, 2) A dashboard mockup showing KPIs, 3) A basic report template. Don't worry about real data - use realistic placeholder numbers and focus on structure and formulas.",
+          "icon": "chart-simple"
         },
         {
-          "title": "Week 7-10: Build Your First Portfolio",
-          "content": "Create a free WordPress.com site to showcase 3 sample campaigns. Can't find clients? Run mock campaigns for brands you love or local businesses. Document your strategy, execution, and (hypothetical) results.",
-          "icon": "briefcase"
+          "title": "Day 6-8: Build Technical Elements",
+          "content": "Add: 1) UTM parameter spreadsheet for campaign tracking, 2) A simple Google Tag Manager implementation plan, 3) A basic content calendar template, 4) Screenshots of ad platform setups (even if in draft/learning mode).",
+          "icon": "code"
         },
         {
-          "title": "Week 11-14: Add Technical Skills",
-          "content": "Learn Canva for graphics (free tier), basic Excel/Sheets for data analysis (YouTube tutorials), and either Mailchimp (free tier) or HubSpot Academy's free email marketing course to add technical credentials.",
-          "icon": "laptop-code"
+          "title": "Day 9-10: Create Case Study Formats",
+          "content": "For each project, create a 1-page case study using the STAR method: Situation, Task, Action, Result. Focus on your thought process, tools used, and hypothetical results based on industry benchmarks. Include screenshots of your work.",
+          "icon": "file-lines"
         },
         {
-          "title": "Week 15+: Get Real Experience",
-          "content": "Volunteer to run social media for a campus organization, local NGO, or small business. Alternatively, apply for The Marketing Intern or Virtual Internshala programs (₹499-1,500 for certification). Document everything for your portfolio.",
+          "title": "Day 11-12: Build a Simple Website",
+          "content": "Use a free Wix/WordPress/Notion template to create a portfolio site. Include: About page, Skills page with tool logos, Projects page with your 3 case studies, Contact information. Keep it minimal but professional. If you can't build a site, use a PDF portfolio.",
+          "icon": "globe"
+        },
+        {
+          "title": "Day 13-14: Refine and Integrate",
+          "content": "Review all materials for quality and consistency. Create a simple PDF portfolio as backup. Add links to your LinkedIn profile, resume, and email signature. Create a 30-second pitch describing your portfolio projects.",
+          "icon": "wand-magic-sparkles"
+        }
+      ]
+    },
+    "portfolio-examples": {
+      "title": "Portfolio Projects That Impress Employers",
+      "items": [
+        {
+          "text": "Social media content calendar with post examples",
+          "icon": "calendar-days"
+        },
+        {
+          "text": "Email marketing campaign with A/B test plan",
+          "icon": "envelope-open-text"
+        },
+        {
+          "text": "Google Analytics 4 implementation guide",
+          "icon": "chart-line"
+        },
+        {
+          "text": "Search ad campaign structure with keywords",
+          "icon": "magnifying-glass-dollar"
+        },
+        {
+          "text": "Landing page mockup with conversion elements",
+          "icon": "browser"
+        },
+        {
+          "text": "Marketing report dashboard template",
+          "icon": "gauge-high"
+        }
+      ]
+    },
+    "portfolio-template": {
+      "title": "Project Case Study Template",
+      "language": "text",
+      "code": "# [PROJECT NAME] Marketing Campaign Case Study\n\n## OVERVIEW\nBrand: [Brand Name]\nCampaign Objective: [Specific goal - awareness, leads, sales]\nTarget Audience: [Primary demographic and psychographic details]\nTimeline: [Hypothetical timeline]\n\n## STRATEGY & APPROACH\n- Primary marketing channels: [List 2-3 channels with rationale]\n- Key messaging: [Main value proposition and message]\n- Creative approach: [Brief description of creative direction]\n- Technical implementation: [Tools and platforms used]\n\n## EXECUTION DETAILS\n1. [Channel 1] Implementation:\n   - [Specific tactic with technical details]\n   - [Setup process or configuration details]\n   - [Targeting parameters or audience segments]\n\n2. [Channel 2] Implementation:\n   - [Similar details for second channel]\n\n3. Measurement Framework:\n   - KPIs: [List 3-5 specific metrics]\n   - Tracking setup: [UTM structure, tag implementation, etc.]\n   - Reporting cadence: [How performance would be monitored]\n\n## RESULTS & ANALYSIS\n- [Key Metric 1]: [Expected outcome based on benchmarks]\n- [Key Metric 2]: [Expected outcome based on benchmarks]\n- [Key Metric 3]: [Expected outcome based on benchmarks]\n\n## LEARNINGS & RECOMMENDATIONS\n- [Insight 1]: [What you learned or would do differently]\n- [Insight 2]: [Another learning point]\n- [Recommendation]: [Data-informed next steps]\n\n## TOOLS & SKILLS DEMONSTRATED\n- [Tool/Skill 1]: [How specifically you used it]\n- [Tool/Skill 2]: [How specifically you used it]\n- [Tool/Skill 3]: [How specifically you used it]"
+    },
+    "learning-hero": {
+      "title": "The Only Learning Path You Need",
+      "subtitle": "Skip the endless courses - focus on what actually gets you hired",
+      "icon": "graduation-cap",
+      "ctaText": "Start learning right"
+    },
+    "free-learning-path": {
+      "title": "The 100% Free Learning Path (2-3 Weeks)",
+      "steps": [
+        {
+          "title": "Days 1-3: Technical Marketing Foundations",
+          "content": "Complete Google Analytics 4 certification (Google Skillshop), Google Tag Manager fundamentals course (Google Analytics Academy), and UTM parameter tutorial (Buffer's free guide). These form the technical base that most graduates lack.",
+          "icon": "code"
+        },
+        {
+          "title": "Days 4-7: Ad Platform Mechanics",
+          "content": "Complete Meta Blueprint free courses (Ads Fundamentals and Campaign Setup), Google Ads Fundamentals certification, and LinkedIn Ads Basic training. Focus on platform mechanics and implementation rather than strategy at this stage.",
+          "icon": "rectangle-ad"
+        },
+        {
+          "title": "Days 8-10: Content Creation Essentials",
+          "content": "Complete HubSpot's free courses on Content Marketing, Email Marketing, and Social Media. Download and save all templates and resources. Create a swipe file of effective marketing examples during the courses.",
+          "icon": "pen-to-square"
+        },
+        {
+          "title": "Days 11-13: Data & Analytics Focus",
+          "content": "Complete Google's free Data Studio (Looker) tutorial, Excel/Google Sheets for Marketing tutorial (various free YouTube channels), and basic SQL for marketers course (Mode Analytics free tutorials).",
+          "icon": "database"
+        },
+        {
+          "title": "Days 14-16: Tool Mastery",
+          "content": "Complete Canva Design School free tutorials, Mailchimp's getting started guide, WordPress essential training (WordPress.org tutorials), and basic SEO fundamentals (Ahrefs free academy).",
+          "icon": "toolbox"
+        },
+        {
+          "title": "Days 17-21: Practical Application",
+          "content": "Apply everything learned to create one complete marketing campaign for a hypothetical business. Include all technical elements, content pieces, analytics setup, and reporting framework. This becomes your cornerstone portfolio piece.",
           "icon": "hands"
         }
       ]
     },
-    "brand-pathway": {
-      "title": "Brand Marketing Specialist Path (4-8 months)",
+    "paid-learning-path": {
+      "title": "Strategic Paid Learning (If You Have Budget)",
       "steps": [
         {
-          "title": "Month 1: Understand Brand Fundamentals",
-          "content": "Complete the free Coursera 'Strategic Brand Management' course from Singapore Management University (audit option) and download the Brand Strategy Canvas workbook from Lingo CC (₹0).",
-          "icon": "bullhorn"
+          "title": "Technical Implementation Focus (₹5,000-10,000)",
+          "content": "If investing in only one area, choose technical marketing skills. Consider CXL's Technical Marketing minidegree, Google Analytics Advanced certification, or Stukent's Digital Marketing simulation course. These develop the implementation skills missing from most university programs.",
+          "icon": "gears"
         },
         {
-          "title": "Month 2: Study Indian Consumer Behavior",
-          "content": "Subscribe to YouGov India's free consumer insights newsletter. Read WARC's free case studies on Indian brands. Follow ET Brand Equity and afaqs! for market trends. Create a document of 10 insights specific to your target sector.",
-          "icon": "magnifying-glass-chart"
-        },
-        {
-          "title": "Month 3: Develop Content Creation Skills",
-          "content": "Take the free content marketing course from HubSpot Academy. Practice writing 5 different types of marketing copy: social posts, email newsletters, website copy, product descriptions, and ad copy for an Indian brand you admire.",
-          "icon": "pen-nib"
-        },
-        {
-          "title": "Month 4: Learn Brand Storytelling",
-          "content": "Complete Domestika's 'Brand Narrative' course (often on sale for ₹799) or YouTube's free StoryBrand framework tutorials. Create a complete brand story for a hypothetical Indian startup in your interest area.",
-          "icon": "comment-dots"
-        },
-        {
-          "title": "Month 5-6: Create Brand Case Studies",
-          "content": "Analyze 3 successful Indian brands (preferably one traditional, one D2C, and one service-based). Document their positioning, audience, messaging, channels, and results. Compile into professional case studies for your portfolio.",
-          "icon": "file-lines"
-        }
-      ]
-    },
-    "expert-quote-learning": {
-      "quote": "The biggest mistake fresh graduates make is trying to learn everything at once. Pick one marketing channel, become genuinely good at it, and document your learning process publicly. I'd rather hire someone who's excellent at Instagram marketing than mediocre at five different channels.",
-      "author": "Dhruv Patel",
-      "title": "Head of Marketing at CRED, Former Marketing Manager at Swiggy",
-      "icon": "quote-left"
-    },
-    "job-search-hero": {
-      "title": "Strategic Job-Search for Fresh Graduates",
-      "subtitle": "Stand out in a crowded market with these beginner-friendly tactics",
-      "icon": "briefcase",
-      "ctaText": "Find your opportunity"
-    },
-    "resume-checklist": {
-      "title": "Fresh Graduate Resume Essentials",
-      "items": [
-        {
-          "text": "Skills section with actual tools (GA4, Meta Ads, Canva, etc.)",
-          "icon": "tools"
-        },
-        {
-          "text": "Link to your portfolio website (even if just 3-5 projects)",
-          "icon": "link"
-        },
-        {
-          "text": "Any marketing internships or relevant volunteer work",
-          "icon": "user-graduate"
-        },
-        {
-          "text": "Academic projects with marketing components",
-          "icon": "book"
-        },
-        {
-          "text": "All certifications with completion dates",
+          "title": "Professional Certifications (₹2,000-5,000)",
+          "content": "Invest in 1-2 recognized certifications like Google Ads certification, HubSpot Inbound certification, or SEMrush Academy certification. Choose platforms actually used by employers in your target region rather than theoretical courses.",
           "icon": "certificate"
         },
         {
-          "text": "Content samples (blog posts, social media content)",
+          "title": "Practical Project Bootcamps (₹8,000-15,000)",
+          "content": "Consider short, project-based courses that result in portfolio pieces. Look for programs that match you with real businesses or provide realistic datasets. Examples include Growth Tribe's Growth Marketing course or DigitalDeepak's internship program.",
+          "icon": "laptop-code"
+        },
+        {
+          "title": "Tool-Specific Mastery (₹1,000-3,000 per tool)",
+          "content": "Invest in advanced training for specific in-demand tools. Consider advanced Semrush training, HubSpot Marketing Software certification, or Adobe Analytics specialist certification based on job requirements in your target companies.",
+          "icon": "screwdriver-wrench"
+        },
+        {
+          "title": "Coaching & Resume Review (₹3,000-7,000)",
+          "content": "If budget allows, invest in 1-2 sessions with a marketing career coach who can review your materials, suggest improvements, and provide insider advice on breaking into specific companies. This personalized guidance often provides the highest ROI.",
+          "icon": "user-tie"
+        }
+      ]
+    },
+    "certification-priorities": {
+      "title": "Certification Priority List (Focus on Top 3 First)",
+      "items": [
+        {
+          "text": "Google Analytics 4 Certification (Free & Most Impactful)",
+          "icon": "chart-line"
+        },
+        {
+          "text": "Google Ads Fundamentals Certification (Free & High Demand)",
+          "icon": "magnifying-glass-dollar"
+        },
+        {
+          "text": "Meta Blueprint Certification (Free & Often Required)",
+          "icon": "thumbs-up"
+        },
+        {
+          "text": "HubSpot Email Marketing Certification (Free & Valuable)",
+          "icon": "envelope-circle-check"
+        },
+        {
+          "text": "Google Tag Manager Fundamentals (Free Technical Edge)",
+          "icon": "tags"
+        },
+        {
+          "text": "SEMrush SEO Fundamentals (Free & Differentiating)",
+          "icon": "magnifying-glass-chart"
+        }
+      ]
+    },
+    "specialization-hero": {
+      "title": "Marketing Specialization Fast-Tracks",
+      "subtitle": "Focus paths for specific high-demand career directions",
+      "icon": "route",
+      "ctaText": "Choose your specialty"
+    },
+    "content-track": {
+      "title": "Content Marketing Specialist Track",
+      "steps": [
+        {
+          "title": "Week 1-2: Content Creation Foundations",
+          "content": "Focus on: Social media copywriting, blog post structures, email marketing templates, headline formulas, and basic image editing. Create templates for each content type and practice by creating content for a fictional brand or personal project.",
+          "icon": "pen-fancy"
+        },
+        {
+          "title": "Week 3-4: Content Distribution Skills",
+          "content": "Learn: Social media scheduling tools, email marketing platforms, content calendar management, and basic SEO for content. Create a complete distribution system for your practice content, including publishing schedules and promotional plans.",
+          "icon": "share-nodes"
+        },
+        {
+          "title": "Week 5-6: Content Analytics",
+          "content": "Master: Content performance metrics, A/B testing methodologies, engagement analytics, and conversion tracking. Build a reporting dashboard that tracks key content metrics and shows how to derive insights from the data.",
+          "icon": "chart-simple"
+        },
+        {
+          "title": "Week 7-8: Content Strategy",
+          "content": "Develop: Audience persona creation, content-market fit analysis, competitor content audits, and long-term editorial planning. Create a 3-month content strategy document for your portfolio showcase.",
+          "icon": "chess"
+        },
+        {
+          "title": "Portfolio Focus",
+          "content": "Build these specific projects: 1) Social media content calendar with 30 days of content, 2) Blog content strategy document, 3) Email nurture sequence, 4) Content style guide, 5) Content analytics dashboard.",
+          "icon": "briefcase"
+        }
+      ]
+    },
+    "performance-track": {
+      "title": "Performance Marketing Specialist Track",
+      "steps": [
+        {
+          "title": "Week 1-2: Ad Platform Fundamentals",
+          "content": "Master the technical setup of: Google Ads (Search), Meta Ads, Google Analytics conversion tracking, and landing page optimization. Focus on the mechanics of setting up campaigns rather than advanced strategy at this stage.",
+          "icon": "bullhorn"
+        },
+        {
+          "title": "Week 3-4: Campaign Structure & Targeting",
+          "content": "Learn: Audience segmentation, keyword research, ad creative testing frameworks, and budget allocation methods. Create complete campaign structures with audience definitions, targeting parameters, and bidding strategies.",
+          "icon": "sitemap"
+        },
+        {
+          "title": "Week 5-6: Tracking & Optimization",
+          "content": "Develop skills in: UTM parameter implementation, conversion tracking setup, funnel analysis, and performance optimization tactics. Build a complete tracking system from ad click to conversion.",
+          "icon": "magnifying-glass-chart"
+        },
+        {
+          "title": "Week 7-8: Performance Analysis",
+          "content": "Focus on: ROAS calculation, attribution modeling, performance reporting, and data-driven optimization frameworks. Create an optimization playbook that shows how you would improve campaign performance based on various data scenarios.",
+          "icon": "gauge-high"
+        },
+        {
+          "title": "Portfolio Focus",
+          "content": "Build these specific projects: 1) Complete Google Ads campaign structure, 2) Meta Ads campaign setup documentation, 3) Conversion tracking implementation guide, 4) A/B testing framework for ads, 5) Performance optimization case study.",
+          "icon": "briefcase"
+        }
+      ]
+    },
+    "analytics-track": {
+      "title": "Marketing Analytics Specialist Track",
+      "steps": [
+        {
+          "title": "Week 1-2: Analytics Platforms",
+          "content": "Master: Google Analytics 4 setup and reporting, Google Tag Manager implementation, data layer basics, and tracking plan development. Focus on the technical implementation rather than just report interpretation.",
+          "icon": "chart-pie"
+        },
+        {
+          "title": "Week 3-4: Data Management",
+          "content": "Learn: Excel/Google Sheets advanced functions, basic SQL queries, data cleaning techniques, and automated reporting setup. Create marketing dashboards that pull and visualize data automatically.",
+          "icon": "database"
+        },
+        {
+          "title": "Week 5-6: Conversion Optimization",
+          "content": "Focus on: Funnel analysis, user behavior tracking, A/B testing methodologies, and conversion rate optimization techniques. Build a complete CRO plan for a website or marketing campaign.",
+          "icon": "filter"
+        },
+        {
+          "title": "Week 7-8: Data-Driven Decision Making",
+          "content": "Develop: Attribution modeling, marketing mix analysis, forecasting techniques, and ROI calculation frameworks. Create a marketing measurement framework that connects analytics to business decisions.",
+          "icon": "brain"
+        },
+        {
+          "title": "Portfolio Focus",
+          "content": "Build these specific projects: 1) Google Analytics implementation guide, 2) Marketing dashboard with automated reporting, 3) Conversion tracking plan, 4) A/B testing framework with statistical significance calculator, 5) Attribution model comparison analysis.",
+          "icon": "briefcase"
+        }
+      ]
+    },
+    "job-search-hero": {
+      "title": "Job Search Strategy That Actually Works",
+      "subtitle": "Bypass the black hole of application systems and get noticed",
+      "icon": "magnifying-glass",
+      "ctaText": "Start your hunt"
+    },
+    "application-strategy": {
+      "title": "The 5 Rules of Effective Job Hunting",
+      "items": [
+        {
+          "text": "Apply to 10-15 jobs weekly (not 50+) with customized applications",
+          "icon": "paper-plane"
+        },
+        {
+          "text": "Target jobs posted in the last 72 hours for highest response rate",
+          "icon": "clock"
+        },
+        {
+          "text": "Spend 80% of time on direct outreach, 20% on job boards",
+          "icon": "percent"
+        },
+        {
+          "text": "Look for companies hiring multiple roles (they're in growth mode)",
+          "icon": "building"
+        },
+        {
+          "text": "Apply to jobs requiring 1-2 years experience (even as a fresher)",
+          "icon": "calendar"
+        },
+        {
+          "text": "Track all applications and follow up after 5-7 business days",
+          "icon": "list-check"
+        }
+      ]
+    },
+    "job-hunting-process": {
+      "title": "The 10-Step Job Hunting Process",
+      "steps": [
+        {
+          "title": "Create Your Target Company List",
+          "content": "Identify 30-50 companies that: 1) Are actively hiring multiple roles, 2) Have marketing teams of at least 3 people, 3) Match your location/remote preferences, and 4) Align with your interests. Look for companies in growth mode rather than prestigious brands with few openings.",
+          "icon": "bullseye"
+        },
+        {
+          "title": "Research Each Target Company",
+          "content": "For each company, compile: 1) Key marketing channels they use, 2) Recent campaigns or content, 3) Names of marketing team members, 4) Company growth stage and news, and 5) Job openings (even if not entry-level marketing). Store this info in a tracking spreadsheet.",
+          "icon": "binoculars"
+        },
+        {
+          "title": "Identify Hiring Managers & Decision Makers",
+          "content": "Find 1-2 relevant contacts at each company: 1) The marketing manager/director, and 2) A team member in a similar role to what you want. Use LinkedIn, company websites, and tools like Hunter.io to find professional contact information.",
+          "icon": "users"
+        },
+        {
+          "title": "Customize Application Materials",
+          "content": "For each company, create: 1) A tailored resume highlighting relevant skills, 2) A customized cover letter mentioning specific company initiatives, and 3) A mini-project or idea specifically for that company when possible. Store these in organized folders.",
+          "icon": "file-pen"
+        },
+        {
+          "title": "Apply Through Multiple Channels",
+          "content": "For each opportunity: 1) Apply through the official channel, 2) Send a direct email to the hiring manager, 3) Connect with team members on LinkedIn, and 4) Look for employee referral opportunities. This multi-channel approach increases visibility.",
+          "icon": "network-wired"
+        },
+        {
+          "title": "Track All Application Activities",
+          "content": "Maintain a detailed tracking system with: 1) Company name, 2) Position, 3) Application date, 4) Materials submitted, 5) Contacts made, 6) Follow-up dates, and 7) Status updates. Set reminders for follow-ups and next steps.",
+          "icon": "table"
+        },
+        {
+          "title": "Follow Up Strategically",
+          "content": "If no response after 5-7 business days: 1) Send a polite follow-up email with additional value (an idea, article, or resource), 2) Connect with team members on LinkedIn, and 3) Look for company events or webinars to attend and make connections.",
+          "icon": "bell"
+        },
+        {
+          "title": "Prepare For Different Interview Types",
+          "content": "Research the company's interview process and prepare for: 1) Initial screening calls, 2) Technical/skill assessments, 3) Case studies or assignments, and 4) Panel interviews. Practice responses for each scenario and prepare company-specific examples.",
+          "icon": "comments"
+        },
+        {
+          "title": "Negotiate Thoughtfully",
+          "content": "When receiving offers: 1) Express gratitude and enthusiasm, 2) Ask for 48 hours to consider, 3) Compare to your research on fair compensation, 4) Prepare a counteroffer if needed, and 5) Consider the total package including learning opportunities.",
+          "icon": "handshake"
+        },
+        {
+          "title": "Continue Until You Start",
+          "content": "Even after accepting an offer: 1) Continue networking and building relationships, 2) Keep learning relevant skills, 3) Research your new company deeply, and 4) Only stop other applications once you've started. Jobs can fall through, so maintain momentum.",
+          "icon": "forward"
+        }
+      ]
+    },
+    "outreach-templates": {
+      "title": "Outreach Templates That Get Responses",
+      "language": "text",
+      "code": "# COLD EMAIL TO HIRING MANAGER\n\nSubject: [Specific Skill] specialist interested in [Company]'s [Team/Department]\n\nHi [Name],\n\nI noticed [Company] is building out the [specific team/initiative] and wanted to reach out directly. I've been following your recent [specific campaign or product] and was particularly impressed with [specific detail that shows you did research].\n\nI recently completed [relevant project/certification] and have built [specific relevant skill] through [how you gained experience]. Here's a quick example of my work that might be relevant to your team: [1-2 sentence description of relevant portfolio project]\n\nWould you be open to a 15-minute chat about current or upcoming needs on your team? I'm particularly interested in how you're approaching [specific marketing challenge or initiative].\n\nThanks for considering,\n[Your Name]\n[LinkedIn Profile]\n[Portfolio Link]\n[Phone Number]\n\n# LINKEDIN CONNECTION REQUEST\n\nHi [Name], I'm a marketing graduate specializing in [specific skill]. I've been following [Company]'s approach to [specific marketing area] and would love to connect to learn more about your work in this space. I recently completed a project on [relevant topic] that might interest you.\n\n# FOLLOW-UP EMAIL (After Application)\n\nSubject: Following up on [Position] application - additional project example\n\nHi [Name],\n\nI wanted to follow up on my application for the [Position] role I submitted on [date].\n\nSince applying, I completed a small project that's relevant to your [specific company initiative]: [2-3 sentence description with concrete results or insights].\n\nYou can view it here: [Link]\n\nI remain very interested in the opportunity to contribute to [Company]'s marketing efforts and would welcome any update on my application status when convenient.\n\nBest regards,\n[Your Name]\n[Contact Info]\n\n# VALUE-ADDING FOLLOW-UP\n\nSubject: Thought you might find this useful - regarding [Position] application\n\nHi [Name],\n\nI recently applied for the [Position] role at [Company] and came across this [article/case study/tool] that aligns with your current [initiative/campaign/challenge]: [Link]\n\nThe [specific insight] particularly made me think of your approach to [specific company marketing activity].\n\nI'm still very interested in the opportunity to join your team and contribute my skills in [key skill areas]. If there's any additional information I can provide about my application, please let me know.\n\nThank you for your consideration,\n[Your Name]\n[Contact Info]"
+    },
+    "resume-hero": {
+      "title": "Resume & Cover Letter That Stand Out",
+      "subtitle": "Templates and frameworks designed for marketing roles",
+      "icon": "file-lines",
+      "ctaText": "Create standout materials"
+    },
+    "resume-essentials": {
+      "title": "Marketing Resume Must-Haves",
+      "items": [
+        {
+          "text": "Skills section with specific tools and proficiency levels",
+          "icon": "screwdriver-wrench"
+        },
+        {
+          "text": "Projects section (even if hypothetical or academic)",
+          "icon": "folder-open"
+        },
+        {
+          "text": "Results quantified with numbers whenever possible",
+          "icon": "percent"
+        },
+        {
+          "text": "Education section with relevant coursework highlighted",
+          "icon": "graduation-cap"
+        },
+        {
+          "text": "Certifications with completion dates",
+          "icon": "certificate"
+        },
+        {
+          "text": "Link to portfolio or LinkedIn profile",
+          "icon": "link"
+        }
+      ]
+    },
+    "resume-template": {
+      "title": "ATS-Optimized Resume Template",
+      "language": "text",
+      "code": "# YOUR NAME\n[City, State] | [Phone] | [Email] | [LinkedIn URL] | [Portfolio URL]\n\n## PROFESSIONAL SUMMARY\nMarketing graduate with hands-on experience in [key skill #1], [key skill #2], and [key skill #3]. Proven ability to [your top strength] as demonstrated through [project/achievement]. Seeking a [specific role] position to leverage strong [relevant skills] to drive [relevant business outcome].\n\n## TECHNICAL MARKETING SKILLS\n- **Analytics Tools:** Google Analytics 4, Google Tag Manager, Google Data Studio\n- **Advertising Platforms:** Meta Ads Manager, Google Ads, LinkedIn Campaign Manager\n- **Content & Creative:** Canva, WordPress, Mailchimp, Content Management\n- **Technical Skills:** HTML/CSS basics, Excel/Google Sheets, UTM parameters\n- **Other Marketing Tools:** Hootsuite, SEMrush, HubSpot, ChatGPT\n\n## MARKETING PROJECTS\n**[Project Name]** | [Date]\n- Developed [specific deliverable] for [target audience/purpose]\n- Implemented [technical component] to achieve [objective]\n- Created [content/campaign element] resulting in [outcome/learning]\n- Utilized [tools/platforms] to execute and measure performance\n\n**[Project Name]** | [Date]\n- [Similar structure with different project]\n\n## EDUCATION\n**[Degree]** - [University], [Location] | [Graduation Date]\n- Relevant Coursework: [Course 1], [Course 2], [Course 3]\n- GPA: [if above 3.0/7.5]\n- Academic Projects: [Any relevant marketing projects]\n\n## CERTIFICATIONS\n- Google Analytics 4 Certification | [Date]\n- Google Ads Fundamentals Certification | [Date]\n- Meta Blueprint Certification | [Date]\n- [Other relevant certifications]\n\n## EXPERIENCE\n**[Any relevant experience - internships, part-time work, volunteer]** | [Company/Organization] | [Dates]\n- [Responsibility/achievement with action verb]\n- [Responsibility/achievement with action verb]\n- [Responsibility/achievement with action verb]\n\n## ADDITIONAL INFORMATION\n- Languages: [Languages and proficiency]\n- Relevant Activities: [Marketing club, competitions, etc.]\n- Technical Skills: [Any additional technical skills]"
+    },
+    "cover-letter-template": {
+      "title": "Problem-Solution Cover Letter Framework",
+      "language": "text",
+      "code": "[Your Name]\n[Your Address]\n[City, State ZIP Code]\n[Your Email]\n[Your Phone Number]\n[Date]\n\n[Hiring Manager's Name]\n[Company Name]\n[Company Address]\n[City, State ZIP Code]\n\nDear [Hiring Manager's Name],\n\n# PARAGRAPH 1: COMPANY-SPECIFIC OPENING\nI'm writing to express my interest in the [Position Title] role at [Company Name]. After researching your recent [specific marketing campaign or initiative], I was particularly impressed by [specific element that caught your attention] and am excited about the opportunity to contribute to similar initiatives with my skills in [relevant skill areas].\n\n# PARAGRAPH 2: COMPANY CHALLENGE IDENTIFICATION\nBased on my research, I understand [Company Name] is currently focused on [specific marketing challenge or goal they've mentioned in job posting or public materials]. This aligns with my experience in [relevant experience or project], where I [specific action you took] resulting in [outcome or learning].\n\n# PARAGRAPH 3: YOUR SOLUTION/VALUE PROPOSITION\nSpecifically, I bring:\n- [Skill/Experience #1] as demonstrated through [brief example]\n- [Skill/Experience #2] which I developed while [relevant context]\n- [Skill/Experience #3] that would directly support your [specific company initiative or need]\n\n# PARAGRAPH 4: MINI CASE STUDY\nFor example, in a recent project, I [brief description of relevant project]. This required me to [specific challenges you overcame], ultimately resulting in [outcomes or learnings]. I would bring this same [quality - analytical thinking, creative problem-solving, etc.] to the marketing challenges at [Company Name].\n\n# PARAGRAPH 5: CLOSING & CALL TO ACTION\nI'm excited about the possibility of contributing to [Company Name]'s marketing efforts and would welcome the opportunity to discuss how my background and skills align with your needs. I've attached my resume and you can view additional examples of my work at [portfolio link]. Thank you for considering my application.\n\nSincerely,\n[Your Name]"
+    },
+    "interview-hero": {
+      "title": "Interview Success for Fresh Graduates",
+      "subtitle": "How to confidently showcase your potential despite limited experience",
+      "icon": "user-tie",
+      "ctaText": "Master interview skills"
+    },
+    "interview-preparation": {
+      "title": "Essential Interview Preparation Steps",
+      "items": [
+        {
+          "text": "Research 3 recent marketing campaigns by the company",
+          "icon": "magnifying-glass"
+        },
+        {
+          "text": "Analyze their social media presence across platforms",
+          "icon": "hashtag"
+        },
+        {
+          "text": "Prepare 5-7 stories using the STAR method (see templates)",
+          "icon": "star"
+        },
+        {
+          "text": "Create a 30-60-90 day plan for the specific role",
+          "icon": "calendar-days"
+        },
+        {
+          "text": "Prepare 2-3 marketing ideas specific to their business",
+          "icon": "lightbulb"
+        },
+        {
+          "text": "Practice explaining gaps in experience (see frameworks)",
+          "icon": "comments"
+        }
+      ]
+    },
+    "question-frameworks": {
+      "title": "Interview Response Frameworks",
+      "language": "text",
+      "code": "# EXPERIENCE GAP FRAMEWORK\n\nWhen asked about experience you don't have:\n\n1. ACKNOWLEDGE: \"While I don't have direct professional experience with [skill/tool], I...\"\n\n2. BRIDGE: Choose ONE of these approaches:\n   - RELATED EXPERIENCE: \"...I have worked with [similar skill/tool] during [project/coursework], which uses similar principles of [shared concept].\"\n   - TRANSFERABLE SKILLS: \"...I've developed strong [relevant skill] through [experience], which directly applies to [how it relates to what they're asking about].\"\n   - SELF-LEARNING: \"...I've taken the initiative to learn about it through [specific course/resource] and have applied it in [specific project].\"\n\n3. PROOF: \"For example, when I [specific situation], I [specific action] which resulted in [specific outcome/learning].\"\n\n4. ENTHUSIASM: \"I'm excited to further develop this skill and have already started [specific next step you're taking].\"\n\n# MARKETING CASE STUDY RESPONSE FRAMEWORK\n\nWhen asked how you would approach a marketing challenge:\n\n1. CLARIFY: \"To make sure I understand correctly, the objective is [restate challenge] and success would look like [metrics/outcomes].\"\n\n2. AUDIENCE: \"First, I would identify the target audience as [description], focusing on their [pain points/needs/behaviors].\"\n\n3. STRATEGY: \"Based on that understanding, a strategic approach would be to [high-level strategy] through [channels/tactics] because [rationale].\"\n\n4. EXECUTION: \"Specifically, I would implement this by:\n   - [Specific tactic #1] to achieve [specific outcome]\n   - [Specific tactic #2] to address [specific challenge]\n   - [Specific tactic #3] with focus on [specific element]\"\n\n5. MEASUREMENT: \"To measure effectiveness, I would track [3-5 specific KPIs] using [specific tools/methods].\"\n\n6. ITERATION: \"Based on those insights, I would optimize by [how you'd improve based on data].\"\n\n# STRENGTH/WEAKNESS FRAMEWORK\n\nWhen discussing your strengths:\n1. STATE: Name a RELEVANT strength for the role.\n2. PROVE: Give a SPECIFIC example that demonstrates it.\n3. RELATE: Connect directly to the job requirements.\n\nExample: \"My strength is data-driven decision making. For instance, in my capstone project, I analyzed customer engagement patterns across three channels and identified that email had 3x higher conversion rates than social media for our target demographic. This analytical approach would be valuable for optimizing your campaign performance as mentioned in the job description.\"\n\nWhen discussing your weakness:\n1. CHOOSE: Select a non-critical, improvable skill.\n2. ACKNOWLEDGE: State it honestly but professionally.\n3. GROWTH: Describe specific steps you're taking to improve.\n4. PROGRESS: Mention progress already made.\n\nExample: \"I'm still developing my expertise in technical SEO. While I understand the fundamentals and have optimized content for keywords, I realized I needed deeper knowledge of technical implementation. I've been taking Google's advanced SEO certification and have started implementing schema markup on my portfolio projects. I've already seen a 25% improvement in my site's technical SEO score as a result.\""
+    },
+    "mock-interview-guide": {
+      "title": "Effective Mock Interview Protocol",
+      "steps": [
+        {
+          "title": "Preparation (1-2 Days Before)",
+          "content": "Research 10-15 common marketing interview questions including behavioral, technical, and case study questions. Write out complete answers to each using the frameworks above. Create a document with company research including recent campaigns, target audience, and marketing channels.",
+          "icon": "file-lines"
+        },
+        {
+          "title": "Partner Selection",
+          "content": "Find a mock interview partner - a classmate, mentor, or use online services like Pramp or Practice Interviews. Brief them on the specific role you're targeting and share the job description. Ask them to take notes on your communication style, answer quality, and overall impression.",
+          "icon": "user"
+        },
+        {
+          "title": "Environment Setup",
+          "content": "Set up the same environment you'll have for the real interview - same device, backdrop, lighting, and clothing. Test your audio and video quality. Have your resume, portfolio, and notes nearby but not directly in front of you to avoid constantly looking down.",
+          "icon": "video"
+        },
+        {
+          "title": "Conduct Full-Length Interview (45-60 mins)",
+          "content": "Start with introductions, then proceed through typical interview stages: background questions, skill assessment, behavioral questions, case study/technical questions, and your questions for them. Record the session if possible for later review.",
+          "icon": "microphone"
+        },
+        {
+          "title": "Immediate Self-Assessment",
+          "content": "Before receiving feedback, write down your own assessment: 3 strengths in your performance, 3 areas for improvement, and any questions you struggled with. Note specific answers you want to improve and any points you forgot to mention.",
+          "icon": "pen-to-square"
+        },
+        {
+          "title": "Receive Structured Feedback",
+          "content": "Ask your mock interviewer for specific feedback on: clarity of answers, relevant examples provided, professional presence, technical accuracy, and overall impression. Have them identify your strongest response and your weakest response.",
+          "icon": "comment-dots"
+        },
+        {
+          "title": "Targeted Improvement",
+          "content": "Rewrite and practice the 3-5 weakest answers identified. Record yourself delivering these improved answers and review the recordings critically. Practice until they flow naturally without sounding memorized.",
+          "icon": "arrows-rotate"
+        },
+        {
+          "title": "Final Review (Day Before Interview)",
+          "content": "Review your company research, prepared answers, and portfolio examples one final time. Practice your introduction and closing statement out loud. Prepare your interview environment and get adequate rest.",
+          "icon": "check-double"
+        }
+      ]
+    },
+    "salary-hero": {
+      "title": "Salary Negotiation for First Jobs",
+      "subtitle": "How to maximize your compensation without overreaching",
+      "icon": "money-bill-trend-up",
+      "ctaText": "Know your worth"
+    },
+    "salary-benchmarks": {
+      "title": "Realistic Entry-Level Marketing Salaries (2025)",
+      "items": [
+        {
+          "value": "₹3-5L",
+          "label": "Small companies/startups (<50 employees)",
+          "icon": "building"
+        },
+        {
+          "value": "₹4-7L",
+          "label": "Mid-size companies (50-500 employees)",
+          "icon": "building-columns"
+        },
+        {
+          "value": "₹5-8L",
+          "label": "Large companies/MNCs (500+ employees)",
+          "icon": "city"
+        },
+        {
+          "value": "+₹1-2L",
+          "label": "Premium for technical marketing skills",
+          "icon": "code"
+        }
+      ]
+    },
+    "negotiation-script": {
+      "title": "First-Job Negotiation Process",
+      "steps": [
+        {
+          "title": "Before the Offer: Research & Preparation",
+          "content": "Research salary ranges from multiple sources: industry reports, company reviews, recent graduates from your program, and informational interviews. Document your findings in a spreadsheet with sources. Calculate your minimum acceptable salary (your financial needs) and target salary (market rate).",
+          "icon": "magnifying-glass-dollar"
+        },
+        {
+          "title": "Receiving the Offer: Initial Response",
+          "content": "When receiving an offer, express genuine enthusiasm and gratitude. Ask for the complete offer in writing, including base salary, benefits, bonus structure, and other perks. Request 2-3 days to consider the offer, which is a standard and reasonable timeframe for entry-level positions.",
+          "icon": "envelope-open-text"
+        },
+        {
+          "title": "Analyzing the Full Package",
+          "content": "Evaluate the entire compensation package beyond just salary: health insurance, retirement benefits, learning stipends, flexible working arrangements, promotion timelines, and growth opportunities. For entry-level roles, growth potential often outweighs small salary differences.",
+          "icon": "scale-balanced"
+        },
+        {
+          "title": "Decision: Negotiate or Accept",
+          "content": "If the offer meets your target, consider accepting. If it's below your target but above your minimum, consider negotiating. If below your minimum, definitely negotiate. For first jobs, negotiating a 5-15% increase is reasonable if you have market data to support it.",
+          "icon": "code-compare"
+        },
+        {
+          "title": "The Negotiation Conversation",
+          "content": "Begin by reaffirming your interest in the role and company. Then use this framework: 'I appreciate the offer of [current amount]. Based on my research of similar roles in this industry and location, and considering my skills in [specific valuable skills], I was hoping for something closer to [target amount]. Is there flexibility in the compensation package?'",
+          "icon": "comments"
+        }
+      ]
+    },
+    "negotiation-language": {
+      "title": "Exact Phrases for Salary Discussions",
+      "language": "text",
+      "code": "# WHEN ASKED FOR SALARY EXPECTATIONS EARLY IN THE PROCESS\n\n\"I'd like to learn more about the role and responsibilities before discussing compensation, to ensure we're aligned on the value I can bring to your team. Could you share more about what the position entails?\"\n\n[If pressed further:]\n\"Based on my research for similar entry-level marketing roles in [location], the range typically falls between [lower number] and [higher number], depending on the specific responsibilities and company size. I'm flexible within that range and would consider the entire compensation package including growth opportunities.\"\n\n# WHEN RECEIVING A LOWER-THAN-EXPECTED OFFER\n\n\"Thank you for the offer. I'm excited about the possibility of joining [Company] and contributing to [specific team/department]. \n\nI've researched similar roles in our market, and based on my skills in [specific valuable skills] and my [relevant qualification], I was hoping for compensation closer to [specific amount, about 10-15% above their offer]. \n\nWould you have any flexibility to reconsider the base salary component of the offer?\"\n\n# WHEN NEGOTIATING FOR NON-SALARY BENEFITS\n\n\"I understand there may be constraints on the base salary. Would it be possible to discuss other aspects of the compensation package? For instance, I'm particularly interested in [choose 1-2: learning and development opportunities / flexible working arrangements / performance-based bonuses / additional paid time off / professional certification support].\"\n\n# WHEN THE COMPANY WON'T BUDGE ON SALARY\n\n\"I understand the constraints on the current offer. Given that the base salary is fixed, I'd like to discuss how performance is evaluated and the timeline for compensation reviews. Could you share more about how and when I might be eligible for a salary increase based on performance?\"\n\n# WHEN ACCEPTING AN OFFER\n\n\"Thank you for the [revised/original] offer. I'm pleased to accept the position as [job title] at [Company] at the salary of [amount] with [key benefits]. I'm excited about contributing to [specific team/project] and growing with the company. I look forward to receiving the formal offer letter and starting on [start date].\"\n\n# WHEN DECLINING AN OFFER DUE TO SALARY\n\n\"Thank you for offering me the [position] role. After careful consideration, I've decided to pursue another opportunity that's more aligned with my compensation expectations at this stage in my career. I appreciate the time you've invested in the interview process and wish you and the team continued success.\""
+    },
+    "first-days-hero": {
+      "title": "Your First 90 Days in Marketing",
+      "subtitle": "The roadmap to transform from new hire to valued team member",
+      "icon": "calendar-check",
+      "ctaText": "Prepare for success"
+    },
+    "first-30-days": {
+      "title": "First 30 Days: Learn & Absorb",
+      "steps": [
+        {
+          "title": "Week 1: Orient & Observe",
+          "content": "Create a knowledge repository document for everything you learn. Document the team structure, key stakeholders, and decision-making processes. Learn all internal tools, access systems, and communication channels. Schedule 15-minute intro meetings with immediate team members. Begin a 'questions document' for anything unclear.",
+          "icon": "eye"
+        },
+        {
+          "title": "Week 2: Understand Current State",
+          "content": "Review existing marketing materials, campaigns, and content. Analyze recent performance reports and metrics. Understand the customer journey and touchpoints. Create a simple map of marketing channels and purposes. Schedule meetings with cross-functional partners (sales, product, customer service).",
+          "icon": "map"
+        },
+        {
+          "title": "Week 3: Learn Systems & Processes",
+          "content": "Master the marketing tech stack and reporting tools. Understand campaign planning and execution processes. Learn the content development and approval workflows. Review the marketing calendar and key dates. Shadow team members on routine tasks and processes.",
+          "icon": "gears"
+        },
+        {
+          "title": "Week 4: Identify Quick Wins",
+          "content": "Spot 2-3 small improvement opportunities within your scope. Draft a brief document outlining your observations and ideas. Schedule time with your manager to review your findings and first-month learnings. Set clear expectations for your contributions in months 2-3.",
+          "icon": "check"
+        },
+        {
+          "title": "Deliverable: First 30 Days Report",
+          "content": "Create a 1-2 page document summarizing: 1) Key learnings about the business and marketing function, 2) Observations about what's working well and potential improvement areas, 3) Questions you're still exploring, and 4) Goals for the next 60 days based on manager feedback.",
           "icon": "file-lines"
         }
       ]
     },
-    "application-process": {
-      "title": "Realistic Application Strategy for Beginners",
+    "days-30-60": {
+      "title": "Days 30-60: Contribute & Add Value",
       "steps": [
         {
-          "title": "Apply to the Right First Jobs",
-          "content": "Focus on these entry-friendly roles: 'Marketing Coordinator', 'Social Media Associate', 'Digital Marketing Trainee', or 'Marketing Assistant'. Avoid applying to 'Marketing Manager' or 'Senior' positions as a fresh graduate.",
-          "icon": "bullseye"
+          "title": "Week 5-6: Execute Assigned Tasks Independently",
+          "content": "Take ownership of routine marketing tasks. Prepare first drafts of content or campaign elements. Run basic reports and identify relevant insights. Document processes you follow for future reference. Ask for feedback on completed work and incorporate it visibly.",
+          "icon": "list-check"
         },
         {
-          "title": "Use the Right Platforms",
-          "content": "For fresh graduates, prioritize: Internshala, Freshersworld, LinkedIn (with #opentowork), and Angel.co (for startups). Set up job alerts on your phone and be among the first 20 applicants - timing matters tremendously.",
-          "icon": "globe"
+          "title": "Week 7-8: Implement First Improvements",
+          "content": "Execute on the quick wins identified in month one. Document the before and after states with metrics where possible. Create templates to improve efficiency of routine tasks. Offer to help team members with their workload strategically.",
+          "icon": "arrow-trend-up"
         },
         {
-          "title": "Focus on High-Volume Hiring Companies",
-          "content": "Target companies with large marketing teams and regular hiring cycles: digital agencies (Dentsu, Havas), e-commerce (Amazon, Flipkart, Myntra), FMCG (HUL, ITC), and funded startups with 50+ employees.",
-          "icon": "building"
+          "title": "Week 9: Expand Your Knowledge",
+          "content": "Learn about adjacent marketing functions to your role. Deep dive into customer/user research and personas. Understand the competitive landscape more thoroughly. Read all available case studies and post-campaign analyses. Schedule skip-level meetings where appropriate.",
+          "icon": "book"
         },
         {
-          "title": "Apply with a Customized Application",
-          "content": "Mention the company name in your cover letter, reference a recent campaign they ran, and explain exactly which team you want to join and why. Generic applications are immediately rejected.",
-          "icon": "envelope-open-text"
+          "title": "Specific Actions by Role Type",
+          "content": "Content roles: Create a content calendar template or style guide. Social media roles: Perform a channel audit with recommendations. Analytics roles: Build a dashboard for commonly needed metrics. Campaign roles: Document campaign setup process for future use.",
+          "icon": "user-gear"
         },
         {
-          "title": "Follow the '40-40-20' Rule",
-          "content": "Spend 40% of your time applying through job boards, 40% on direct outreach to hiring managers, and 20% activating your college alumni network. Set a goal of 5 quality applications daily rather than 50 generic ones.",
-          "icon": "percent"
+          "title": "Deliverable: 60-Day Progress Report",
+          "content": "Prepare a document outlining: 1) Tasks and projects completed, 2) Measurable contributions and improvements made, 3) Key learnings and insights gained, 4) Areas where you need additional support or resources, and 5) Goals and initiatives for the final 30 days of your onboarding.",
+          "icon": "file-lines"
         }
       ]
     },
-    "outreach-template": {
-      "title": "Direct Outreach Message That Gets Responses",
-      "language": "text",
-      "code": "Subject: Fresh Marketing Graduate With [Specific Skill] - Quick Question About [Company]'s [Department]\n\nHi [First Name],\n\nI noticed you work in the marketing team at [Company] and thought I'd reach out directly. I'm a recent graduate from [College] with a specialization in [relevant subject].\n\nI've been following [Company]'s recent [specific campaign or initiative] and was particularly impressed with [specific detail that shows you actually researched them].\n\nI've completed certifications in [2-3 relevant tools] and have created [mention a relevant project or portfolio piece] that demonstrates my capabilities in [specific skill they need].\n\nWould you have 15 minutes to chat about what entry-level skills your team values most? I'm eager to learn more about marketing at [Company], not just to ask about openings.\n\nI understand you're busy, so even a few quick pointers over email would be tremendously helpful.\n\nThank you for your time,\n[Your Name]\n[LinkedIn Profile]\n[Portfolio Link]\n[Mobile Number]\n\n[Optional: If you have a mutual connection, mention it in the second paragraph]"
-    },
-    "interview-hero": {
-      "title": "Ace Your First Marketing Interviews",
-      "subtitle": "Practical preparation strategies even when you have minimal experience",
-      "icon": "comments",
-      "ctaText": "Master interview skills"
-    },
-    "interview-checklist": {
-      "title": "First-Time Interview Preparation",
-      "items": [
-        {
-          "text": "Research and be prepared to discuss the company's latest 2 campaigns",
-          "icon": "magnifying-glass"
-        },
-        {
-          "text": "Prepare to walkthrough a specific marketing project from your portfolio",
-          "icon": "folder-open"
-        },
-        {
-          "text": "Bring examples of content you've created (in a clean folder or tablet)",
-          "icon": "images"
-        },
-        {
-          "text": "Practice explaining how you would track campaign performance",
-          "icon": "chart-line"
-        },
-        {
-          "text": "Prepare answers for 'no experience yet' questions (see guide below)",
-          "icon": "question"
-        },
-        {
-          "text": "Have 3-5 thoughtful questions about their marketing strategy",
-          "icon": "circle-question"
-        }
-      ]
-    },
-    "case-study-framework": {
-      "title": "Answering 'No Experience' Questions",
-      "language": "text",
-      "code": "WHEN ASKED: \"You don't have experience with [tool/channel], how will you handle that?\"\n\nStrong Answer Framework:\n\n1. ACKNOWLEDGE WITHOUT APOLOGIZING\n\"You're right, I haven't had professional experience with [tool/channel] yet, though I'm eager to develop in this area.\"\n\n2. HIGHLIGHT TRANSFERABLE SKILLS\n\"However, I have experience with [similar tool/concept] through [course/project/internship], which uses many of the same principles.\"\n\n3. SHOW SELF-LEARNING ABILITY\n\"I've already started learning [tool/channel] through [specific resource], and have completed [specific exercise/project] to build my skills.\"\n\n4. DEMONSTRATE QUICK LEARNING\n\"In college, I had to quickly learn [different tool/concept] for [project], and was able to become proficient in just [timeframe] through focused learning.\"\n\n5. COMMIT TO SPECIFIC IMPROVEMENT\n\"If I join your team, I'll commit to completing [specific course/certification] within my first [timeframe] to ensure I'm contributing effectively.\"\n\nKEY: Always end with a SPECIFIC example of something you've already taught yourself successfully."
-    },
-    "interviewer-perspective": {
-      "quote": "When interviewing freshers, I'm not looking for years of experience – that's unrealistic. I'm looking for three things: genuine curiosity about our brand, evidence they've taken initiative to learn on their own, and the ability to think strategically about marketing problems. Show me you've studied our brand and have real ideas to contribute, and you're already ahead of 90% of candidates.",
-      "author": "Nandini Sharma",
-      "title": "Marketing Director at Nykaa, Former Brand Lead at Myntra",
-      "icon": "quote-left"
-    },
-    "salary-hero": {
-      "title": "Real Salary Benchmarks for Fresh Graduates",
-      "subtitle": "Honest compensation expectations to avoid being underpaid",
-      "icon": "rupee-sign",
-      "ctaText": "Understand your worth"
-    },
-    "salary-stats": {
-      "title": "2025 Entry-Level Marketing Salaries by Location",
-      "items": [
-        {
-          "value": "₹4.5-7L",
-          "label": "Tier 1 (Mumbai, Bangalore, Delhi NCR, Hyderabad)",
-          "icon": "city"
-        },
-        {
-          "value": "₹3.5-5.5L",
-          "label": "Tier 2 (Pune, Chennai, Kolkata, Ahmedabad)",
-          "icon": "building"
-        },
-        {
-          "value": "₹3-4.5L",
-          "label": "Other cities and remote positions",
-          "icon": "house"
-        },
-        {
-          "value": "+₹1-2L",
-          "label": "Premium for technical skills (paid ads, analytics)",
-          "icon": "plus"
-        }
-      ]
-    },
-    "negotiation-steps": {
-      "title": "First-Job Negotiation Strategy",
+    "days-60-90": {
+      "title": "Days 60-90: Initiate & Innovate",
       "steps": [
         {
-          "title": "Set Realistic Expectations",
-          "content": "For your first marketing job, realistically target: Startups (₹3-5L), Mid-size companies (₹3.5-6L), MNCs/Large Corps (₹4.5-7L). These ranges assume a bachelor's degree and relevant certifications but minimal work experience.",
-          "icon": "bullseye"
+          "title": "Week 10-11: Propose Strategic Improvements",
+          "content": "Develop a detailed proposal for a meaningful improvement to a process, campaign, or content strategy. Include the current state, proposed changes, expected benefits, and implementation plan. Gather feedback from stakeholders before presenting to your manager.",
+          "icon": "lightbulb"
         },
         {
-          "title": "Research Before Interviews",
-          "content": "Check Glassdoor, AmbitionBox, and LinkedIn salary insights for the specific company. Message 2-3 recent alumni from your college working at similar companies to ask about realistic ranges for freshers.",
+          "title": "Week 12: Lead a Small Initiative",
+          "content": "Take ownership of a small project from planning to execution. Schedule and run necessary meetings. Coordinate with cross-functional partners as needed. Document the process and results thoroughly. Prepare a summary of outcomes and learnings.",
+          "icon": "flag"
+        },
+        {
+          "title": "Week 13: Evaluate & Reflect",
+          "content": "Assess your performance against your 90-day goals. Identify areas of strength and opportunities for growth. Collect feedback from team members and stakeholders. Prepare questions about career development and growth opportunities. Schedule a formal review with your manager.",
+          "icon": "scale-balanced"
+        },
+        {
+          "title": "Relationship Building Throughout",
+          "content": "By day 90, ensure you've had meaningful one-on-one conversations with all key stakeholders. Understand their priorities, challenges, and how marketing can support them. Build allies across departments. Join relevant committees or working groups to expand your network.",
+          "icon": "users"
+        },
+        {
+          "title": "Deliverable: 90-Day Completion Report & Forward Plan",
+          "content": "Create a comprehensive document with: 1) Summary of all contributions and accomplishments, 2) Demonstrated growth in knowledge and skills, 3) Impact of your work with metrics where possible, 4) Areas for continued development, and 5) Proposed goals and initiatives for the next quarter.",
+          "icon": "file-lines"
+        }
+      ]
+    },
+    "side-projects-hero": {
+      "title": "Career-Building Side Projects",
+      "subtitle": "Create practical experience through self-directed work",
+      "icon": "rocket",
+      "ctaText": "Build your experience"
+    },
+    "project-ideas": {
+      "title": "High-Impact Side Project Ideas",
+      "items": [
+        {
+          "text": "Personal marketing blog with analytics implementation",
+          "icon": "pen-to-square"
+        },
+        {
+          "text": "Social media growth case study (your own account)",
+          "icon": "hashtag"
+        },
+        {
+          "text": "Email newsletter creation and growth documentation",
+          "icon": "envelope"
+        },
+        {
+          "text": "Marketing process templates package with tutorials",
+          "icon": "file-lines"
+        },
+        {
+          "text": "Niche affiliate marketing site with conversion tracking",
+          "icon": "link"
+        },
+        {
+          "text": "Free marketing audit service for local businesses",
           "icon": "magnifying-glass-chart"
+        }
+      ]
+    },
+    "project-execution": {
+      "title": "Side Project Execution Framework",
+      "steps": [
+        {
+          "title": "Define Clear Learning Objectives",
+          "content": "Identify 3-5 specific skills or experiences you want to gain from the project. These should align with job requirements in your target roles. Write them down as measurable outcomes, e.g., \"Gain hands-on experience with email automation workflows\" rather than \"Learn about email marketing.\"",
+          "icon": "bullseye"
         },
         {
-          "title": "Don't Reveal Your Number First",
-          "content": "When asked about expectations, say: \"I'd like to understand more about the role's responsibilities first. I'm focused on finding the right opportunity for growth and am flexible on compensation for the right role.\"",
-          "icon": "comments"
+          "title": "Create a Minimum Viable Project Plan",
+          "content": "Outline the smallest version of the project that will demonstrate your skills. Break it into weekly milestones with specific deliverables. Define what \"completed\" looks like for each stage. Estimate time requirements based on your current schedule and commit to specific work sessions.",
+          "icon": "chart-gantt"
         },
         {
-          "title": "Focus on the Total Package",
-          "content": "For entry-level roles, consider: 1) Learning opportunities, 2) Mentorship availability, 3) Promotion timelines, 4) Health benefits, 5) Work-life balance. These can be more valuable than a slightly higher starting salary.",
-          "icon": "box"
+          "title": "Build in Public Documentation System",
+          "content": "Create a simple system to document your process from day one. This could be a dedicated notion workspace, Google Doc, or simple website. Capture screenshots, decision points, metrics, and learnings. This documentation becomes part of your portfolio regardless of project outcomes.",
+          "icon": "file-pen"
         },
         {
-          "title": "Have a Backup Plan",
-          "content": "If the salary is below expectations, try: \"While I'm very excited about this role, my research indicates the market rate is closer to [X]. Would you have any flexibility to reconsider the compensation?\" If they don't budge, prioritize roles with clear growth paths.",
-          "icon": "life-ring"
+          "title": "Implementation With Measurement Focus",
+          "content": "Execute your project plan with emphasis on capturing meaningful metrics. Set up proper tracking from the beginning (Google Analytics, social insights, email metrics, etc.). Create a simple dashboard to monitor key performance indicators. Take \"before\" screenshots or measurements for comparison.",
+          "icon": "gauge-high"
+        },
+        {
+          "title": "Iterative Improvement Cycles",
+          "content": "Plan for at least 2-3 iterations of your project. After initial implementation, analyze results and identify improvements. Document your hypothesis for each change and the actual results. This demonstrates analytical thinking and data-driven decision making to employers.",
+          "icon": "arrows-spin"
+        },
+        {
+          "title": "Create a Case Study Deliverable",
+          "content": "Transform your project documentation into a professional case study. Structure it with: Background & Objectives, Strategy & Approach, Implementation Details, Results & Analysis, and Key Learnings. Include relevant screenshots, data visualizations, and specific metrics. Format for both PDF and web presentation.",
+          "icon": "file-lines"
+        }
+      ]
+    },
+    "portfolio-integration": {
+      "title": "Presenting Side Projects Professionally",
+      "items": [
+        {
+          "text": "Create before/after comparisons with specific metrics",
+          "icon": "arrows-left-right"
+        },
+        {
+          "text": "Document technical implementation details with screenshots",
+          "icon": "code"
+        },
+        {
+          "text": "Highlight specific tools and platforms utilized",
+          "icon": "screwdriver-wrench"
+        },
+        {
+          "text": "Include challenges faced and how you overcame them",
+          "icon": "triangle-exclamation"
+        },
+        {
+          "text": "Connect results to business objectives and KPIs",
+          "icon": "bullseye"
+        },
+        {
+          "text": "Add recommendations for future improvements",
+          "icon": "forward"
         }
       ]
     },
     "networking-hero": {
-      "title": "Networking for Complete Beginners",
-      "subtitle": "Build meaningful connections even when you're brand new to the industry",
-      "icon": "network-wired",
-      "ctaText": "Start connecting today"
+      "title": "Networking That Actually Works",
+      "subtitle": "Build authentic professional relationships from scratch",
+      "icon": "people-group",
+      "ctaText": "Start connecting"
     },
-    "networking-channels": {
-      "title": "Beginner-Friendly Networking Channels",
+    "networking-platforms": {
+      "title": "Where to Find Marketing Connections",
       "items": [
         {
-          "text": "LinkedIn Groups (Marketing Minds India, Digital Marketing Professionals)",
+          "text": "LinkedIn Groups for specific marketing disciplines",
           "icon": "linkedin"
         },
         {
-          "text": "Free marketing webinars with Q&A sessions (HubSpot, Google)",
-          "icon": "video"
-        },
-        {
-          "text": "Meetup.com marketing groups in your city",
-          "icon": "calendar-days"
-        },
-        {
-          "text": "College alumni in marketing roles (even 1-2 years senior)",
-          "icon": "graduation-cap"
-        },
-        {
-          "text": "Twitter/X marketing communities (#MarketingTwitter, #StartupIndia)",
+          "text": "Twitter/X communities using relevant hashtags",
           "icon": "hashtag"
         },
         {
-          "text": "Marketing Discord servers and WhatsApp groups",
-          "icon": "comment-dots"
+          "text": "Slack communities for marketers (Marketing Minds, etc.)",
+          "icon": "slack"
+        },
+        {
+          "text": "Free and low-cost virtual marketing events",
+          "icon": "video"
+        },
+        {
+          "text": "College alumni networks and career services",
+          "icon": "graduation-cap"
+        },
+        {
+          "text": "Reddit communities (r/marketing, r/digital_marketing)",
+          "icon": "reddit"
         }
       ]
     },
-    "networking-success": {
-      "quote": "As a fresher with zero connections, I created a simple '100 Companies Challenge' where I analyzed one company's marketing strategy each day and posted it on LinkedIn. By day 45, I was getting coffee chat requests from marketers who saw my work. By day 78, I had an interview. By day 93, I had a job offer as a Brand Associate. Don't wait for connections to find you - create valuable content that showcases your thinking.",
-      "author": "Priya Desai",
-      "title": "Brand Associate at boAt, 2023 Graduate",
-      "icon": "quote-left"
+    "cold-networking": {
+      "title": "Cold Networking That Gets Responses",
+      "steps": [
+        {
+          "title": "Research Before Reaching Out",
+          "content": "Before contacting anyone, thoroughly research them: read their content, understand their career path, and identify specific points of genuine interest or connection. Look for recent professional achievements, content they've published, or mutual connections. Note 2-3 specific talking points.",
+          "icon": "binoculars"
+        },
+        {
+          "title": "Provide Value First Approach",
+          "content": "When reaching out cold, lead with value rather than requests. Share a relevant article with thoughtful comments, offer a genuine compliment on their work with specific details, or highlight a connection between their content and another resource they might find valuable.",
+          "icon": "gift"
+        },
+        {
+          "title": "Specific, Limited Ask",
+          "content": "Keep your initial request small and specific: a 15-minute virtual coffee chat about a particular topic, feedback on a specific project element, or a response to a thoughtful question. Avoid broad requests like \"Can you help me find a job?\" or \"Can you be my mentor?\"",
+          "icon": "hand"
+        },
+        {
+          "title": "Persistent But Respectful Follow-Up",
+          "content": "If you don't receive a response, wait 7-10 days before following up once. In your follow-up, add new value (another insight or resource) rather than just checking in. Limit yourself to a maximum of two follow-ups before moving on to other potential connections.",
+          "icon": "bell"
+        },
+        {
+          "title": "Meaningful Conversation Preparation",
+          "content": "When you secure a conversation, prepare thoroughly: research their background in detail, prepare 3-5 specific questions that demonstrate your knowledge, and have a clear 30-second introduction ready. Take notes during the conversation and identify specific follow-up actions.",
+          "icon": "comments"
+        },
+        {
+          "title": "Relationship Maintenance System",
+          "content": "Create a simple system to maintain professional relationships: a spreadsheet tracking contacts, conversation dates, key points discussed, and follow-up tasks. Set calendar reminders to check in with valuable connections every 1-3 months with relevant updates or resources.",
+          "icon": "arrow-rotate-right"
+        }
+      ]
+    },
+    "follow-up-template": {
+      "title": "Networking Communication Templates",
+      "language": "text",
+      "code": "# COLD OUTREACH - LINKEDIN CONNECTION\n\nHi [Name],\n\nI noticed your work on [specific project/article/campaign] and was particularly impressed by [specific element]. As a marketing graduate focusing on [your specialization], I found your approach to [specific aspect] especially insightful.\n\nI'd love to connect and occasionally share ideas on [specific marketing topic]. I'm currently [brief mention of a relevant project you're working on] and always looking to learn from experienced professionals.\n\nThank you for considering,\n[Your Name]\n\n# COLD OUTREACH - EMAIL FOR COFFEE CHAT\n\nSubject: Quick question about your work on [specific project/area]\n\nHi [Name],\n\nI hope this email finds you well. My name is [Your Name], a recent marketing graduate with a focus on [your specialization].\n\nI've been following your work on [platform/company], particularly [specific piece of their work], and have implemented some of your approaches in my own project on [brief project description].\n\nWould you be open to a 15-minute virtual coffee chat to discuss [very specific topic/question]? I'm specifically interested in learning more about [particular aspect of their expertise that genuinely interests you].\n\nI understand you're busy, so even a few quick pointers over email would be tremendously appreciated.\n\nThank you for your consideration,\n[Your Name]\n[LinkedIn Profile]\n[Portfolio if relevant]\n\n# FOLLOW-UP AFTER NO RESPONSE\n\nSubject: Re: Quick question about your work on [specific project/area]\n\nHi [Name],\n\nI wanted to follow up on my previous email about connecting to discuss [specific topic].\n\nSince reaching out, I came across this [article/resource/tool] on [related topic] that reminded me of your work on [specific project]. I thought you might find it interesting: [link]\n\nI'd still welcome the opportunity for a brief conversation about [specific aspect of marketing], but understand if your schedule doesn't permit it at this time.\n\nThank you,\n[Your Name]\n\n# THANK YOU AFTER CONVERSATION\n\nSubject: Thank you for your insights on [topic discussed]\n\nHi [Name],\n\nThank you so much for taking the time to speak with me today. Your insights on [specific topic discussed] were incredibly valuable, particularly your point about [specific advice or insight they shared].\n\nI'm already planning to implement your suggestion to [specific action you'll take based on their advice] and will let you know how it goes.\n\nAs promised, here's [resource/link/article you mentioned during the conversation].\n\nI'm grateful for your generosity in sharing your experience and would love to keep you updated on my progress in [relevant area]. Please don't hesitate to reach out if I can ever be of assistance.\n\nWarm regards,\n[Your Name]\n\n# MAINTAINING THE RELATIONSHIP (1-3 MONTHS LATER)\n\nSubject: Update on [project/topic you discussed] and a resource you might like\n\nHi [Name],\n\nI hope you've been well since our conversation about [topic] a few months ago.\n\nI wanted to share that I've implemented your suggestion about [specific advice they gave], which has resulted in [positive outcome or learning]. Your guidance was instrumental in this progress.\n\nI also came across this [article/resource] on [topic relevant to their interests] and immediately thought you might find it valuable given your work on [their project/interest area]: [link]\n\nNo response needed - just wanted to express my continued appreciation for your advice and share something that might be useful to you.\n\nAll the best,\n[Your Name]"
+    },
+    "branding-hero": {
+      "title": "Building Your Personal Brand",
+      "subtitle": "Stand out in the marketing industry as a new professional",
+      "icon": "id-badge",
+      "ctaText": "Develop your brand"
+    },
+    "content-strategy": {
+      "title": "Personal Branding Content Strategy",
+      "steps": [
+        {
+          "title": "Define Your Professional Identity",
+          "content": "Determine your unique positioning: 1) Identify 2-3 specific marketing areas you want to be known for, 2) Define your target audience (who you want to notice you), 3) Craft your professional narrative (your background, perspective, and goals), and 4) Identify your unique value proposition as a marketing professional.",
+          "icon": "fingerprint"
+        },
+        {
+          "title": "Choose One Primary Content Format",
+          "content": "Select a primary content format that plays to your strengths: written articles, short videos, data visualizations, case study breakdowns, tool tutorials, or industry analysis. Focus on mastering one format before expanding to others to maintain quality and consistency.",
+          "icon": "pen-to-square"
+        },
+        {
+          "title": "Develop a Sustainable Content Calendar",
+          "content": "Create a realistic content schedule based on your capacity: 1) For beginners, aim for 1-2 quality pieces weekly, 2) Identify 3-5 content themes aligned with your expertise areas, 3) Batch create content when possible, and 4) Create a simple tracking system for ideas, drafts, and published content.",
+          "icon": "calendar-days"
+        },
+        {
+          "title": "Focus on Educational/Analytical Content",
+          "content": "Prioritize content that demonstrates your thinking and skills: 1) Analysis of current marketing campaigns, 2) Breakdowns of effective strategies you've observed, 3) Tutorials on specific marketing tools or techniques, 4) Summaries of key learnings from courses or books, and 5) Data-driven observations about marketing trends.",
+          "icon": "brain"
+        },
+        {
+          "title": "Engage Strategically in the Community",
+          "content": "Beyond creating content, engage meaningfully: 1) Comment thoughtfully on posts from industry leaders, 2) Answer questions in relevant groups or forums, 3) Share and add value to others' content, 4) Participate in industry discussions and challenges, and 5) Connect with other emerging professionals in your field.",
+          "icon": "comments"
+        },
+        {
+          "title": "Document Your Learning Journey",
+          "content": "Transparently share your professional development: 1) Discuss new skills you're acquiring, 2) Share before/after examples of your work as you improve, 3) Summarize key takeaways from webinars or events, 4) Show your process rather than just final results, and 5) Be open about challenges and how you're overcoming them.",
+          "icon": "chart-line"
+        }
+      ]
+    },
+    "platform-selection": {
+      "title": "Platform Selection Strategy",
+      "items": [
+        {
+          "text": "LinkedIn for professional content and industry analysis",
+          "icon": "linkedin"
+        },
+        {
+          "text": "Medium or personal blog for in-depth articles",
+          "icon": "m"
+        },
+        {
+          "text": "Twitter/X for quick insights and networking",
+          "icon": "twitter"
+        },
+        {
+          "text": "Instagram for visual marketing examples and case studies",
+          "icon": "instagram"
+        },
+        {
+          "text": "YouTube for tutorials and campaign breakdowns",
+          "icon": "youtube"
+        },
+        {
+          "text": "Portfolio website as your central professional hub",
+          "icon": "globe"
+        }
+      ]
+    },
+    "content-calendar": {
+      "title": "Personal Brand Content Calendar",
+      "language": "text",
+      "code": "# MONTHLY CONTENT PLANNING TEMPLATE\n\nMONTH: ________________\n\nTHEME: ________________\n\n## WEEK 1\n\nMain Content Piece:\n- Topic: [Specific topic related to monthly theme]\n- Format: [Article, video, case study, etc.]\n- Key points to cover:\n  * [Point 1]\n  * [Point 2]\n  * [Point 3]\n- Call to action: [What you want readers to do]\n- Creation date: ___________\n- Publication date: ___________\n- Platforms: ___________\n\nSupporting Content:\n- 3-5 social posts to promote main content\n- 2-3 engagement activities (comments, discussions)\n\n## WEEK 2\n\nMain Content Piece:\n- Topic: [Different angle on monthly theme]\n- Format: [Article, video, case study, etc.]\n- Key points to cover:\n  * [Point 1]\n  * [Point 2]\n  * [Point 3]\n- Call to action: [What you want readers to do]\n- Creation date: ___________\n- Publication date: ___________\n- Platforms: ___________\n\nSupporting Content:\n- 3-5 social posts to promote main content\n- 2-3 engagement activities (comments, discussions)\n\n## WEEK 3\n\nMain Content Piece:\n- Topic: [Specific topic related to monthly theme]\n- Format: [Article, video, case study, etc.]\n- Key points to cover:\n  * [Point 1]\n  * [Point 2]\n  * [Point 3]\n- Call to action: [What you want readers to do]\n- Creation date: ___________\n- Publication date: ___________\n- Platforms: ___________\n\nSupporting Content:\n- 3-5 social posts to promote main content\n- 2-3 engagement activities (comments, discussions)\n\n## WEEK 4\n\nMain Content Piece:\n- Topic: [Wrap-up or different angle on monthly theme]\n- Format: [Article, video, case study, etc.]\n- Key points to cover:\n  * [Point 1]\n  * [Point 2]\n  * [Point 3]\n- Call to action: [What you want readers to do]\n- Creation date: ___________\n- Publication date: ___________\n- Platforms: ___________\n\nSupporting Content:\n- 3-5 social posts to promote main content\n- 2-3 engagement activities (comments, discussions)\n\n## MONTHLY PERFORMANCE REVIEW\n\nContent Metrics:\n- Highest performing piece: ___________\n- Total engagement: ___________\n- New connections/followers: ___________\n- Leads or opportunities generated: ___________\n\nLearnings:\n- What worked well: ___________\n- What could improve: ___________\n- Adjustments for next month: ___________\n\n## NEXT MONTH PLANNING\n\nProposed Theme: ___________\nContent Ideas:\n1. ___________\n2. ___________\n3. ___________\n4. ___________"
+    },
+    "progression-hero": {
+      "title": "Marketing Career Progression",
+      "subtitle": "Your roadmap from first job to career advancement",
+      "icon": "stairs",
+      "ctaText": "Plan your growth"
+    },
+    "year1-goals": {
+      "title": "First Year Career Goals",
+      "steps": [
+        {
+          "title": "Months 1-3: Master the Fundamentals",
+          "content": "Focus on operational excellence in your assigned responsibilities. Learn all relevant tools and platforms thoroughly. Document processes and create efficiency improvements. Build strong relationships with immediate team members. Collect and organize examples of your work for future reference.",
+          "icon": "1"
+        },
+        {
+          "title": "Months 4-6: Expand Your Impact",
+          "content": "Begin contributing ideas during team meetings. Take on additional responsibilities when appropriate. Identify and resolve small problems proactively. Start tracking your accomplishments and impact metrics. Build relationships beyond your immediate team.",
+          "icon": "2"
+        },
+        {
+          "title": "Months 7-9: Develop Specialized Knowledge",
+          "content": "Identify a valuable specialization within your role. Seek specific training or self-study in that area. Apply for relevant certifications or courses. Create documentation or training for others on your specialized knowledge. Begin sharing insights from your specialization.",
+          "icon": "3"
+        },
+        {
+          "title": "Months 10-12: Demonstrate Leadership",
+          "content": "Propose and lead a small project or initiative. Mentor new team members or interns. Present results and learnings to the broader team. Seek feedback on your performance from multiple stakeholders. Begin discussing growth goals with your manager.",
+          "icon": "4"
+        },
+        {
+          "title": "First Annual Review Preparation",
+          "content": "Compile a comprehensive achievement document: 1) List all projects and responsibilities, 2) Quantify results and impact where possible, 3) Document skills acquired and certifications earned, 4) Gather positive feedback received, and 5) Outline goals and growth areas for year two.",
+          "icon": "clipboard-check"
+        }
+      ]
+    },
+    "year2-goals": {
+      "title": "Second Year Advancement Strategy",
+      "steps": [
+        {
+          "title": "Months 13-15: Increase Ownership",
+          "content": "Take full ownership of a key process or campaign type. Improve efficiency or results by at least 10%. Document your approach and results thoroughly. Begin participating in cross-functional projects. Find opportunities to represent your team to other departments.",
+          "icon": "1"
+        },
+        {
+          "title": "Months 16-18: Develop Strategic Thinking",
+          "content": "Start connecting your work to broader business objectives. Practice developing strategic recommendations. Learn about budget planning and resource allocation. Begin contributing to quarterly planning discussions. Seek to understand the \"why\" behind marketing decisions.",
+          "icon": "2"
+        },
+        {
+          "title": "Months 19-21: Build External Recognition",
+          "content": "Create case studies from your successful projects. Begin sharing insights on professional platforms. Participate in industry events or webinars. Network with marketing professionals outside your company. Consider speaking opportunities at small events.",
+          "icon": "3"
+        },
+        {
+          "title": "Months 22-24: Position for Advancement",
+          "content": "Identify desired next role (internal promotion or external move). Analyze skill gaps for that position and address them. Take on projects that demonstrate readiness for the next level. Discuss career path with manager and mentors. Update resume and portfolio with accomplishments.",
+          "icon": "4"
+        },
+        {
+          "title": "Advancement Decision Point",
+          "content": "Evaluate your current position against your career goals: 1) Is there a clear path to advancement in your current company? 2) Have you developed marketable skills for the next level? 3) Is your compensation growing appropriately? 4) Do you need to consider external opportunities? Make a strategic plan based on this assessment.",
+          "icon": "arrows-split-up-and-left"
+        }
+      ]
     },
     "final-cta": {
-      "title": "Your Marketing Career Starts Today",
-      "content": "The path to your first marketing job isn't about having perfect qualifications or years of experience. It's about taking consistent, strategic actions that build your skills, showcase your potential, and connect you with the right opportunities. Remember: every successful marketer started as a beginner. The difference between those who succeed and those who struggle is persistence, focus, and a willingness to start small while thinking big. Your marketing journey begins with a single step — take it today.",
-      "buttonText": "Explore Our Advanced Guides",
+      "title": "Your Marketing Career Starts Now",
+      "content": "Breaking into marketing isn't about having the perfect degree or years of experience - it's about taking consistent, strategic action. Focus on building practical skills, creating proof of your abilities, and connecting with the right people. Remember that everyone starts somewhere, and the difference between success and stagnation is simply getting started. The roadmap in this guide gives you a clear path forward - all you need to do is take the first step. Your marketing career journey begins today.",
+      "buttonText": "Download PDF Version",
       "buttonUrl": "https://ko-fi.com/amitbhalla",
       "icon": "rocket"
     }
