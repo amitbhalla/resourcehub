@@ -1,0 +1,221 @@
+/* File: src/components/PageNavigation.module.css */
+/* Path: src/components/ */
+
+.navigationContainer {
+    margin-top: var(--spacing-xl);
+    position: relative;
+  }
+  
+  .progressBarContainer {
+    height: 4px;
+    background-color: var(--gray-light);
+    border-radius: 2px;
+    margin-bottom: var(--spacing-md);
+    position: relative;
+  }
+  
+  .progressBar {
+    height: 100%;
+    background: linear-gradient(to right, var(--playbook-primary), var(--playbook-accent));
+    border-radius: 2px;
+    transition: width 0.3s ease;
+  }
+  
+  .progressText {
+    position: absolute;
+    top: -24px;
+    right: 0;
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: var(--gray);
+  }
+  
+  .navigationButtons {
+    display: none; /* Hidden on mobile, visible on desktop */
+    justify-content: space-between;
+    gap: var(--spacing-md);
+  }
+  
+  .navButton {
+    display: flex;
+    align-items: center;
+    padding: var(--spacing-md) var(--spacing-lg);
+    background-color: white;
+    border: 2px solid var(--playbook-primary);
+    border-radius: var(--radius-md);
+    cursor: pointer;
+    transition: all var(--transition-fast);
+    min-width: 180px;
+  }
+  
+  .navButton:hover:not(.disabled) {
+    background-color: var(--playbook-primary);
+    color: white;
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-md);
+  }
+  
+  .prevButton {
+    padding-left: var(--spacing-md);
+  }
+  
+  .nextButton {
+    padding-right: var(--spacing-md);
+    margin-left: auto;
+    text-align: right;
+  }
+  
+  .nextButton .buttonContent {
+    text-align: right;
+  }
+  
+  .navIcon {
+    font-size: 1rem;
+    color: var(--playbook-primary);
+    transition: all var(--transition-fast);
+  }
+  
+  .prevButton .navIcon {
+    margin-right: var(--spacing-sm);
+  }
+  
+  .nextButton .navIcon {
+    margin-left: var(--spacing-sm);
+  }
+  
+  .navButton:hover:not(.disabled) .navIcon {
+    color: white;
+  }
+  
+  .buttonContent {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .buttonLabel {
+    font-weight: 600;
+    font-size: 0.875rem;
+    color: var(--playbook-primary);
+    transition: all var(--transition-fast);
+  }
+  
+  .navButton:hover:not(.disabled) .buttonLabel {
+    color: white;
+  }
+  
+  .pageTitle {
+    font-size: 0.75rem;
+    color: var(--gray);
+    transition: all var(--transition-fast);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 200px;
+  }
+  
+  .navButton:hover:not(.disabled) .pageTitle {
+    color: rgba(255, 255, 255, 0.8);
+  }
+  
+  .disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+    border-color: var(--gray-light);
+  }
+  
+  .disabled .navIcon,
+  .disabled .buttonLabel {
+    color: var(--gray);
+  }
+  
+  /* Mobile floating navigation */
+  .mobileNavigation {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: white;
+    padding: var(--spacing-sm);
+    box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.1);
+    z-index: 100;
+  }
+  
+  .mobileNavButton {
+    width: 44px;
+    height: 44px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    border: 2px solid var(--playbook-primary);
+    border-radius: 50%;
+    color: var(--playbook-primary);
+    cursor: pointer;
+    transition: all var(--transition-fast);
+  }
+  
+  .mobileNavButton:not(.disabled):active {
+    background-color: var(--playbook-primary);
+    color: white;
+    transform: scale(0.95);
+  }
+  
+  .mobileNavButton.disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+    border-color: var(--gray-light);
+    color: var(--gray);
+  }
+  
+  .mobileProgress {
+    flex: 1;
+    margin: 0 var(--spacing-sm);
+    position: relative;
+    height: 28px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--gray-light);
+    border-radius: 14px;
+    overflow: hidden;
+  }
+  
+  .mobileProgress span {
+    position: relative;
+    z-index: 2;
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: var(--dark);
+  }
+  
+  .mobileProgressBar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    background: linear-gradient(to right, var(--playbook-primary), var(--playbook-accent));
+    opacity: 0.3;
+    transition: width 0.3s ease;
+    z-index: 1;
+  }
+  
+  /* Media Queries */
+  @media (min-width: 768px) {
+    .navigationButtons {
+      display: flex;
+    }
+    
+    .mobileNavigation {
+      display: none;
+    }
+  }
+  
+  @media (max-width: 767px) {
+    /* Add bottom padding to content to account for fixed navigation */
+    .navigationContainer {
+      padding-bottom: calc(44px + var(--spacing-lg));
+    }
+  }

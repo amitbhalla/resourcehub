@@ -1,0 +1,156 @@
+/* File: src/components/PlaybookSelector.module.css */
+/* Path: src/components/ */
+
+.selectorContainer {
+    margin-bottom: var(--spacing-xl);
+    width: 100%;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    animation: fadeIn 0.5s ease-out;
+  }
+  
+  .selectorLabel {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    margin-bottom: var(--spacing-xs);
+    color: var(--dark);
+    font-size: 1.125rem;
+  }
+  
+  .dropdown {
+    position: relative;
+    width: 100%;
+    cursor: pointer;
+    background-color: var(--light);
+    border: 2px solid var(--gray-light);
+    border-radius: var(--radius-md);
+    transition: all var(--transition-fast);
+    box-shadow: var(--shadow-sm);
+  }
+  
+  .dropdown:hover {
+    border-color: var(--accent-blue);
+    box-shadow: var(--shadow-md);
+  }
+  
+  .dropdown.open {
+    border-color: var(--primary-blue);
+    box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.2);
+  }
+  
+  .selectedOption {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: var(--spacing-md);
+    color: var(--dark);
+    font-weight: 500;
+  }
+  
+  .icon {
+    color: var(--primary-blue);
+    transition: transform var(--transition-fast);
+  }
+  
+  .rotated {
+    transform: rotate(180deg);
+  }
+  
+  .options {
+    position: absolute;
+    top: calc(100% + 5px);
+    left: 0;
+    right: 0;
+    z-index: 10;
+    background-color: var(--light);
+    border-radius: var(--radius-md);
+    box-shadow: var(--shadow-lg);
+    border: 1px solid var(--gray-light);
+    max-height: 300px;
+    overflow-y: auto;
+    list-style: none;
+    animation: fadeIn 0.2s ease-out;
+  }
+  
+  .option {
+    padding: var(--spacing-md);
+    transition: all var(--transition-fast);
+    border-bottom: 1px solid var(--gray-light);
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .option:last-child {
+    border-bottom: none;
+  }
+  
+  .option:hover, .option.active {
+    background-color: rgba(59, 130, 246, 0.05);
+  }
+  
+  .option.active {
+    background-color: rgba(59, 130, 246, 0.1);
+  }
+  
+  .optionTitle {
+    font-weight: 600;
+    margin-bottom: var(--spacing-xs);
+    color: var(--dark);
+  }
+  
+  .optionDescription {
+    font-size: 0.875rem;
+    color: var(--gray);
+  }
+  
+  .selectedInfo {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--spacing-md);
+    margin-top: var(--spacing-md);
+    padding: var(--spacing-sm);
+    background-color: rgba(59, 130, 246, 0.05);
+    border-radius: var(--radius-md);
+    font-size: 0.875rem;
+  }
+  
+  .audience, .tone {
+    display: flex;
+    align-items: center;
+  }
+  
+  .infoIcon {
+    color: var(--primary-blue);
+    margin-right: var(--spacing-xs);
+    width: 16px;
+  }
+  
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  
+  /* Media Queries */
+  @media (max-width: 576px) {
+    .selectedInfo {
+      flex-direction: column;
+      gap: var(--spacing-xs);
+    }
+    
+    .dropdown {
+      font-size: 0.9rem;
+    }
+    
+    .selectedOption {
+      padding: var(--spacing-sm);
+    }
+    
+    .option {
+      padding: var(--spacing-sm);
+    }
+  }

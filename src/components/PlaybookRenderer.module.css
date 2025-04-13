@@ -1,0 +1,108 @@
+/* File: src/components/PlaybookRenderer.module.css */
+/* Path: src/components/ */
+
+.playbookRenderer {
+  --playbook-primary: var(--primary-blue);
+  --playbook-primary-rgb: 37, 99, 235;
+  --playbook-primary-dark: var(--primary-blue-dark);
+  --playbook-secondary: var(--secondary-purple);
+  --playbook-accent: var(--accent-blue);
+  --playbook-bg: var(--light);
+  
+  background-color: var(--playbook-bg);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-lg);
+  overflow: hidden;
+  animation: fadeIn 0.8s ease-out;
+  margin-bottom: var(--spacing-xl);
+  width: 100%;
+}
+
+.playbookHeader {
+  background: linear-gradient(135deg, var(--playbook-primary), var(--playbook-secondary));
+  padding: var(--spacing-lg) var(--spacing-lg);
+  color: white;
+  text-align: center;
+}
+
+.playbookTitle {
+  font-weight: 700;
+  margin: 0;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.playbookContent {
+  display: block; /* Changes to flex on desktop */
+}
+
+.pageContainer {
+  padding: var(--spacing-lg);
+  position: relative;
+  flex: 1;
+  min-width: 0; /* Prevents flex items from overflowing */
+}
+
+.error {
+  padding: var(--spacing-lg);
+  background-color: rgba(239, 68, 68, 0.1);
+  border-radius: var(--radius-md);
+  color: rgb(185, 28, 28);
+  text-align: center;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Media Queries */
+@media (min-width: 992px) {
+  .playbookContent {
+    display: flex;
+    align-items: stretch;
+    min-height: 600px;
+  }
+  
+  .pageContainer {
+    flex: 1;
+    margin-left: 0; /* Remove fixed margin */
+    padding: var(--spacing-xl);
+    max-width: calc(100% - 280px); /* Ensure content doesn't overlap nav */
+    width: 100%; /* Take full available width */
+  }
+}
+
+/* For even larger screens, ensure content doesn't get too wide for readability */
+@media (min-width: 1400px) {
+  .playbookContent {
+    max-width: 1400px;
+    margin: 0 auto;
+  }
+  
+  .pageContainer {
+    max-width: calc(100% - 300px);
+  }
+}
+
+@media (max-width: 991px) {
+  .pageContainer {
+    padding: var(--spacing-lg);
+    width: 100%;
+  }
+  
+  .playbookHeader {
+    padding: var(--spacing-md);
+  }
+}
+
+@media (max-width: 576px) {
+  .pageContainer {
+    padding: var(--spacing-md);
+  }
+}

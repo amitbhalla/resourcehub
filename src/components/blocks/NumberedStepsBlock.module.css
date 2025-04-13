@@ -1,0 +1,151 @@
+/* File: src/components/blocks/NumberedStepsBlock.module.css */
+/* Path: src/components/blocks/ */
+
+.numberedStepsBlock {
+    padding: var(--spacing-lg);
+    border-radius: var(--radius-lg);
+    background-color: white;
+    box-shadow: var(--shadow-md);
+    border: 1px solid var(--gray-light);
+    position: relative;
+  }
+  
+  .title {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: var(--spacing-lg);
+    color: var(--playbook-primary);
+    position: relative;
+    padding-bottom: var(--spacing-xs);
+  }
+  
+  .title::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 60px;
+    height: 3px;
+    background: linear-gradient(90deg, var(--playbook-primary), var(--playbook-secondary));
+    border-radius: 3px;
+  }
+  
+  .stepsContainer {
+    position: relative;
+    padding-left: 40px;
+  }
+  
+  .stepsConnector {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 15px;
+    width: 3px;
+    background: linear-gradient(to bottom, var(--playbook-primary), var(--playbook-secondary));
+    z-index: 1;
+  }
+  
+  .step {
+    position: relative;
+    margin-bottom: var(--spacing-lg);
+    padding-left: var(--spacing-md);
+    z-index: 2;
+  }
+  
+  .step:last-child {
+    margin-bottom: 0;
+  }
+  
+  .stepHeader {
+    display: flex;
+    align-items: center;
+    margin-bottom: var(--spacing-sm);
+  }
+  
+  .stepNumber {
+    position: absolute;
+    left: -40px;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    background-color: var(--playbook-primary);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    box-shadow: var(--shadow-md);
+  }
+  
+  .stepTitle {
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-xs);
+  }
+  
+  .stepTitle h4 {
+    margin: 0;
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: var(--dark);
+  }
+  
+  .icon {
+    color: var(--playbook-primary);
+    font-size: 1.125rem;
+  }
+  
+  .stepContent {
+    color: var(--gray);
+    font-size: 1rem;
+    line-height: 1.6;
+    padding: var(--spacing-md);
+    background-color: rgba(var(--playbook-primary-rgb, 37, 99, 235), 0.03);
+    border-radius: var(--radius-md);
+    border-left: 3px solid var(--playbook-primary);
+  }
+  
+  .stepContent p {
+    margin: 0;
+  }
+  
+  .error {
+    padding: var(--spacing-md);
+    background-color: rgba(239, 68, 68, 0.1);
+    border-radius: var(--radius-md);
+    color: rgb(185, 28, 28);
+    text-align: center;
+  }
+  
+  /* Media Queries */
+  @media (max-width: 768px) {
+    .numberedStepsBlock {
+      padding: var(--spacing-md);
+    }
+    
+    .stepsContainer {
+      padding-left: 30px;
+    }
+    
+    .stepNumber {
+      left: -30px;
+      width: 30px;
+      height: 30px;
+      font-size: 0.875rem;
+    }
+    
+    .stepTitle h4 {
+      font-size: 1.125rem;
+    }
+  }
+  
+  @media (max-width: 576px) {
+    .step {
+      padding-left: 0;
+    }
+    
+    .stepContent {
+      padding: var(--spacing-sm);
+    }
+  }

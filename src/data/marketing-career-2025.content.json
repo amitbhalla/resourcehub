@@ -1,0 +1,450 @@
+{
+  "blocks": {
+    "intro-hero": {
+      "title": "Break Into Marketing in India: 2025 Starter Guide",
+      "subtitle": "Your practical roadmap to launch a successful marketing career - no experience needed",
+      "icon": "rocket",
+      "ctaText": "Start your journey"
+    },
+    "market-stats": {
+      "title": "The Indian Marketing Landscape for Freshers",
+      "items": [
+        {
+          "value": "23%",
+          "label": "Growth in entry-level digital marketing positions since 2023",
+          "icon": "chart-line"
+        },
+        {
+          "value": "₹3.2-7L",
+          "label": "Realistic first-year salary range for fresh graduates",
+          "icon": "rupee-sign"
+        },
+        {
+          "value": "72%",
+          "label": "Of marketing hires in 2024 came through referrals and networking",
+          "icon": "handshake"
+        },
+        {
+          "value": "3-6 months",
+          "label": "Average time from graduation to first marketing job",
+          "icon": "hourglass-half"
+        }
+      ]
+    },
+    "guide-overview": {
+      "title": "What You'll Learn in This Guide",
+      "items": [
+        {
+          "text": "Exactly which skills to prioritize as a complete beginner",
+          "icon": "lightbulb"
+        },
+        {
+          "text": "Free and affordable learning resources that actually work",
+          "icon": "graduation-cap"
+        },
+        {
+          "text": "How to create your first marketing portfolio with zero experience",
+          "icon": "briefcase"
+        },
+        {
+          "text": "Word-for-word scripts for cold outreach that gets responses",
+          "icon": "envelope"
+        },
+        {
+          "text": "City-by-city salary benchmarks to avoid being underpaid",
+          "icon": "map-location-dot"
+        },
+        {
+          "text": "Step-by-step tactics to build a network as an industry newcomer",
+          "icon": "users"
+        }
+      ]
+    },
+    "skills-hero": {
+      "title": "In-Demand Marketing Skills for 2025",
+      "subtitle": "Focus on these practical skills that employers are actually hiring for right now",
+      "icon": "brain",
+      "ctaText": "Develop your skills"
+    },
+    "core-skills": {
+      "title": "Essential Core Skills (Learn These First)",
+      "items": [
+        {
+          "text": "Google Analytics 4 & Basic Data Analysis (Excel/Sheets)",
+          "icon": "chart-pie"
+        },
+        {
+          "text": "Content Creation for Instagram, LinkedIn & YouTube",
+          "icon": "pen-fancy"
+        },
+        {
+          "text": "Meta & Google Ads Campaign Management",
+          "icon": "bullhorn"
+        },
+        {
+          "text": "WhatsApp Business & SMS Marketing Fundamentals",
+          "icon": "mobile-screen"
+        },
+        {
+          "text": "Canva & Basic Image Editing for Social Media Graphics",
+          "icon": "palette"
+        },
+        {
+          "text": "ChatGPT & AI Tools for Marketing Content Creation",
+          "icon": "robot"
+        }
+      ]
+    },
+    "specialist-skills": {
+      "title": "High-Demand Specialized Skills (For Higher Pay)",
+      "items": [
+        {
+          "text": "Hindi, Tamil or Telugu Content Creation (Massive Advantage)",
+          "icon": "language"
+        },
+        {
+          "text": "Shopify, Amazon & Flipkart Marketplace Optimization",
+          "icon": "shop"
+        },
+        {
+          "text": "HubSpot CRM & Email Marketing Automation",
+          "icon": "envelope-circle-check"
+        },
+        {
+          "text": "Instagram/YouTube Influencer Campaign Management",
+          "icon": "users-between-lines"
+        },
+        {
+          "text": "WordPress & Basic Landing Page Building",
+          "icon": "code"
+        },
+        {
+          "text": "Google Tag Manager & Conversion Tracking Setup",
+          "icon": "tag"
+        }
+      ]
+    },
+    "skill-demand": {
+      "title": "Skills vs. Reality Check",
+      "items": [
+        {
+          "value": "89%",
+          "label": "Of entry-level jobs require proficiency in at least one ad platform",
+          "icon": "bullhorn"
+        },
+        {
+          "value": "₹1.5L+",
+          "label": "Additional salary for candidates with regional language skills",
+          "icon": "language"
+        },
+        {
+          "value": "73%",
+          "label": "Of hiring managers test practical skills during interviews",
+          "icon": "laptop-code"
+        },
+        {
+          "value": "4X",
+          "label": "Faster job placement with a strong online portfolio",
+          "icon": "briefcase"
+        }
+      ]
+    },
+    "learning-hero": {
+      "title": "Learning Pathways That Actually Work",
+      "subtitle": "Affordable and effective routes to build marketable skills - even on a tight budget",
+      "icon": "graduation-cap",
+      "ctaText": "Choose your path"
+    },
+    "digital-pathway": {
+      "title": "Digital Marketing Specialist Path (3-6 months)",
+      "steps": [
+        {
+          "title": "Week 1-2: Master the Free Essentials",
+          "content": "Complete Google's free Digital Marketing Fundamentals course (15 hours) and Google Analytics 4 certification (10 hours). Sign up for Google Skillshop and Meta Blueprint free courses.",
+          "icon": "book"
+        },
+        {
+          "title": "Week 3-6: Learn One Channel Deeply",
+          "content": "Pick ONE platform to master: Meta Ads (₹0, Blueprint learning), Google Ads (₹0, Google Skillshop), or SEO (₹0, Ahrefs Academy). Complete all exercises and create practice campaigns using the free tier of tools.",
+          "icon": "bullseye"
+        },
+        {
+          "title": "Week 7-10: Build Your First Portfolio",
+          "content": "Create a free WordPress.com site to showcase 3 sample campaigns. Can't find clients? Run mock campaigns for brands you love or local businesses. Document your strategy, execution, and (hypothetical) results.",
+          "icon": "briefcase"
+        },
+        {
+          "title": "Week 11-14: Add Technical Skills",
+          "content": "Learn Canva for graphics (free tier), basic Excel/Sheets for data analysis (YouTube tutorials), and either Mailchimp (free tier) or HubSpot Academy's free email marketing course to add technical credentials.",
+          "icon": "laptop-code"
+        },
+        {
+          "title": "Week 15+: Get Real Experience",
+          "content": "Volunteer to run social media for a campus organization, local NGO, or small business. Alternatively, apply for The Marketing Intern or Virtual Internshala programs (₹499-1,500 for certification). Document everything for your portfolio.",
+          "icon": "hands"
+        }
+      ]
+    },
+    "brand-pathway": {
+      "title": "Brand Marketing Specialist Path (4-8 months)",
+      "steps": [
+        {
+          "title": "Month 1: Understand Brand Fundamentals",
+          "content": "Complete the free Coursera 'Strategic Brand Management' course from Singapore Management University (audit option) and download the Brand Strategy Canvas workbook from Lingo CC (₹0).",
+          "icon": "bullhorn"
+        },
+        {
+          "title": "Month 2: Study Indian Consumer Behavior",
+          "content": "Subscribe to YouGov India's free consumer insights newsletter. Read WARC's free case studies on Indian brands. Follow ET Brand Equity and afaqs! for market trends. Create a document of 10 insights specific to your target sector.",
+          "icon": "magnifying-glass-chart"
+        },
+        {
+          "title": "Month 3: Develop Content Creation Skills",
+          "content": "Take the free content marketing course from HubSpot Academy. Practice writing 5 different types of marketing copy: social posts, email newsletters, website copy, product descriptions, and ad copy for an Indian brand you admire.",
+          "icon": "pen-nib"
+        },
+        {
+          "title": "Month 4: Learn Brand Storytelling",
+          "content": "Complete Domestika's 'Brand Narrative' course (often on sale for ₹799) or YouTube's free StoryBrand framework tutorials. Create a complete brand story for a hypothetical Indian startup in your interest area.",
+          "icon": "comment-dots"
+        },
+        {
+          "title": "Month 5-6: Create Brand Case Studies",
+          "content": "Analyze 3 successful Indian brands (preferably one traditional, one D2C, and one service-based). Document their positioning, audience, messaging, channels, and results. Compile into professional case studies for your portfolio.",
+          "icon": "file-lines"
+        }
+      ]
+    },
+    "expert-quote-learning": {
+      "quote": "The biggest mistake fresh graduates make is trying to learn everything at once. Pick one marketing channel, become genuinely good at it, and document your learning process publicly. I'd rather hire someone who's excellent at Instagram marketing than mediocre at five different channels.",
+      "author": "Dhruv Patel",
+      "title": "Head of Marketing at CRED, Former Marketing Manager at Swiggy",
+      "icon": "quote-left"
+    },
+    "job-search-hero": {
+      "title": "Strategic Job-Search for Fresh Graduates",
+      "subtitle": "Stand out in a crowded market with these beginner-friendly tactics",
+      "icon": "briefcase",
+      "ctaText": "Find your opportunity"
+    },
+    "resume-checklist": {
+      "title": "Fresh Graduate Resume Essentials",
+      "items": [
+        {
+          "text": "Skills section with actual tools (GA4, Meta Ads, Canva, etc.)",
+          "icon": "tools"
+        },
+        {
+          "text": "Link to your portfolio website (even if just 3-5 projects)",
+          "icon": "link"
+        },
+        {
+          "text": "Any marketing internships or relevant volunteer work",
+          "icon": "user-graduate"
+        },
+        {
+          "text": "Academic projects with marketing components",
+          "icon": "book"
+        },
+        {
+          "text": "All certifications with completion dates",
+          "icon": "certificate"
+        },
+        {
+          "text": "Content samples (blog posts, social media content)",
+          "icon": "file-lines"
+        }
+      ]
+    },
+    "application-process": {
+      "title": "Realistic Application Strategy for Beginners",
+      "steps": [
+        {
+          "title": "Apply to the Right First Jobs",
+          "content": "Focus on these entry-friendly roles: 'Marketing Coordinator', 'Social Media Associate', 'Digital Marketing Trainee', or 'Marketing Assistant'. Avoid applying to 'Marketing Manager' or 'Senior' positions as a fresh graduate.",
+          "icon": "bullseye"
+        },
+        {
+          "title": "Use the Right Platforms",
+          "content": "For fresh graduates, prioritize: Internshala, Freshersworld, LinkedIn (with #opentowork), and Angel.co (for startups). Set up job alerts on your phone and be among the first 20 applicants - timing matters tremendously.",
+          "icon": "globe"
+        },
+        {
+          "title": "Focus on High-Volume Hiring Companies",
+          "content": "Target companies with large marketing teams and regular hiring cycles: digital agencies (Dentsu, Havas), e-commerce (Amazon, Flipkart, Myntra), FMCG (HUL, ITC), and funded startups with 50+ employees.",
+          "icon": "building"
+        },
+        {
+          "title": "Apply with a Customized Application",
+          "content": "Mention the company name in your cover letter, reference a recent campaign they ran, and explain exactly which team you want to join and why. Generic applications are immediately rejected.",
+          "icon": "envelope-open-text"
+        },
+        {
+          "title": "Follow the '40-40-20' Rule",
+          "content": "Spend 40% of your time applying through job boards, 40% on direct outreach to hiring managers, and 20% activating your college alumni network. Set a goal of 5 quality applications daily rather than 50 generic ones.",
+          "icon": "percent"
+        }
+      ]
+    },
+    "outreach-template": {
+      "title": "Direct Outreach Message That Gets Responses",
+      "language": "text",
+      "code": "Subject: Fresh Marketing Graduate With [Specific Skill] - Quick Question About [Company]'s [Department]\n\nHi [First Name],\n\nI noticed you work in the marketing team at [Company] and thought I'd reach out directly. I'm a recent graduate from [College] with a specialization in [relevant subject].\n\nI've been following [Company]'s recent [specific campaign or initiative] and was particularly impressed with [specific detail that shows you actually researched them].\n\nI've completed certifications in [2-3 relevant tools] and have created [mention a relevant project or portfolio piece] that demonstrates my capabilities in [specific skill they need].\n\nWould you have 15 minutes to chat about what entry-level skills your team values most? I'm eager to learn more about marketing at [Company], not just to ask about openings.\n\nI understand you're busy, so even a few quick pointers over email would be tremendously helpful.\n\nThank you for your time,\n[Your Name]\n[LinkedIn Profile]\n[Portfolio Link]\n[Mobile Number]\n\n[Optional: If you have a mutual connection, mention it in the second paragraph]"
+    },
+    "interview-hero": {
+      "title": "Ace Your First Marketing Interviews",
+      "subtitle": "Practical preparation strategies even when you have minimal experience",
+      "icon": "comments",
+      "ctaText": "Master interview skills"
+    },
+    "interview-checklist": {
+      "title": "First-Time Interview Preparation",
+      "items": [
+        {
+          "text": "Research and be prepared to discuss the company's latest 2 campaigns",
+          "icon": "magnifying-glass"
+        },
+        {
+          "text": "Prepare to walkthrough a specific marketing project from your portfolio",
+          "icon": "folder-open"
+        },
+        {
+          "text": "Bring examples of content you've created (in a clean folder or tablet)",
+          "icon": "images"
+        },
+        {
+          "text": "Practice explaining how you would track campaign performance",
+          "icon": "chart-line"
+        },
+        {
+          "text": "Prepare answers for 'no experience yet' questions (see guide below)",
+          "icon": "question"
+        },
+        {
+          "text": "Have 3-5 thoughtful questions about their marketing strategy",
+          "icon": "circle-question"
+        }
+      ]
+    },
+    "case-study-framework": {
+      "title": "Answering 'No Experience' Questions",
+      "language": "text",
+      "code": "WHEN ASKED: \"You don't have experience with [tool/channel], how will you handle that?\"\n\nStrong Answer Framework:\n\n1. ACKNOWLEDGE WITHOUT APOLOGIZING\n\"You're right, I haven't had professional experience with [tool/channel] yet, though I'm eager to develop in this area.\"\n\n2. HIGHLIGHT TRANSFERABLE SKILLS\n\"However, I have experience with [similar tool/concept] through [course/project/internship], which uses many of the same principles.\"\n\n3. SHOW SELF-LEARNING ABILITY\n\"I've already started learning [tool/channel] through [specific resource], and have completed [specific exercise/project] to build my skills.\"\n\n4. DEMONSTRATE QUICK LEARNING\n\"In college, I had to quickly learn [different tool/concept] for [project], and was able to become proficient in just [timeframe] through focused learning.\"\n\n5. COMMIT TO SPECIFIC IMPROVEMENT\n\"If I join your team, I'll commit to completing [specific course/certification] within my first [timeframe] to ensure I'm contributing effectively.\"\n\nKEY: Always end with a SPECIFIC example of something you've already taught yourself successfully."
+    },
+    "interviewer-perspective": {
+      "quote": "When interviewing freshers, I'm not looking for years of experience – that's unrealistic. I'm looking for three things: genuine curiosity about our brand, evidence they've taken initiative to learn on their own, and the ability to think strategically about marketing problems. Show me you've studied our brand and have real ideas to contribute, and you're already ahead of 90% of candidates.",
+      "author": "Nandini Sharma",
+      "title": "Marketing Director at Nykaa, Former Brand Lead at Myntra",
+      "icon": "quote-left"
+    },
+    "salary-hero": {
+      "title": "Real Salary Benchmarks for Fresh Graduates",
+      "subtitle": "Honest compensation expectations to avoid being underpaid",
+      "icon": "rupee-sign",
+      "ctaText": "Understand your worth"
+    },
+    "salary-stats": {
+      "title": "2025 Entry-Level Marketing Salaries by Location",
+      "items": [
+        {
+          "value": "₹4.5-7L",
+          "label": "Tier 1 (Mumbai, Bangalore, Delhi NCR, Hyderabad)",
+          "icon": "city"
+        },
+        {
+          "value": "₹3.5-5.5L",
+          "label": "Tier 2 (Pune, Chennai, Kolkata, Ahmedabad)",
+          "icon": "building"
+        },
+        {
+          "value": "₹3-4.5L",
+          "label": "Other cities and remote positions",
+          "icon": "house"
+        },
+        {
+          "value": "+₹1-2L",
+          "label": "Premium for technical skills (paid ads, analytics)",
+          "icon": "plus"
+        }
+      ]
+    },
+    "negotiation-steps": {
+      "title": "First-Job Negotiation Strategy",
+      "steps": [
+        {
+          "title": "Set Realistic Expectations",
+          "content": "For your first marketing job, realistically target: Startups (₹3-5L), Mid-size companies (₹3.5-6L), MNCs/Large Corps (₹4.5-7L). These ranges assume a bachelor's degree and relevant certifications but minimal work experience.",
+          "icon": "bullseye"
+        },
+        {
+          "title": "Research Before Interviews",
+          "content": "Check Glassdoor, AmbitionBox, and LinkedIn salary insights for the specific company. Message 2-3 recent alumni from your college working at similar companies to ask about realistic ranges for freshers.",
+          "icon": "magnifying-glass-chart"
+        },
+        {
+          "title": "Don't Reveal Your Number First",
+          "content": "When asked about expectations, say: \"I'd like to understand more about the role's responsibilities first. I'm focused on finding the right opportunity for growth and am flexible on compensation for the right role.\"",
+          "icon": "comments"
+        },
+        {
+          "title": "Focus on the Total Package",
+          "content": "For entry-level roles, consider: 1) Learning opportunities, 2) Mentorship availability, 3) Promotion timelines, 4) Health benefits, 5) Work-life balance. These can be more valuable than a slightly higher starting salary.",
+          "icon": "box"
+        },
+        {
+          "title": "Have a Backup Plan",
+          "content": "If the salary is below expectations, try: \"While I'm very excited about this role, my research indicates the market rate is closer to [X]. Would you have any flexibility to reconsider the compensation?\" If they don't budge, prioritize roles with clear growth paths.",
+          "icon": "life-ring"
+        }
+      ]
+    },
+    "networking-hero": {
+      "title": "Networking for Complete Beginners",
+      "subtitle": "Build meaningful connections even when you're brand new to the industry",
+      "icon": "network-wired",
+      "ctaText": "Start connecting today"
+    },
+    "networking-channels": {
+      "title": "Beginner-Friendly Networking Channels",
+      "items": [
+        {
+          "text": "LinkedIn Groups (Marketing Minds India, Digital Marketing Professionals)",
+          "icon": "linkedin"
+        },
+        {
+          "text": "Free marketing webinars with Q&A sessions (HubSpot, Google)",
+          "icon": "video"
+        },
+        {
+          "text": "Meetup.com marketing groups in your city",
+          "icon": "calendar-days"
+        },
+        {
+          "text": "College alumni in marketing roles (even 1-2 years senior)",
+          "icon": "graduation-cap"
+        },
+        {
+          "text": "Twitter/X marketing communities (#MarketingTwitter, #StartupIndia)",
+          "icon": "hashtag"
+        },
+        {
+          "text": "Marketing Discord servers and WhatsApp groups",
+          "icon": "comment-dots"
+        }
+      ]
+    },
+    "networking-success": {
+      "quote": "As a fresher with zero connections, I created a simple '100 Companies Challenge' where I analyzed one company's marketing strategy each day and posted it on LinkedIn. By day 45, I was getting coffee chat requests from marketers who saw my work. By day 78, I had an interview. By day 93, I had a job offer as a Brand Associate. Don't wait for connections to find you - create valuable content that showcases your thinking.",
+      "author": "Priya Desai",
+      "title": "Brand Associate at boAt, 2023 Graduate",
+      "icon": "quote-left"
+    },
+    "final-cta": {
+      "title": "Your Marketing Career Starts Today",
+      "content": "The path to your first marketing job isn't about having perfect qualifications or years of experience. It's about taking consistent, strategic actions that build your skills, showcase your potential, and connect you with the right opportunities. Remember: every successful marketer started as a beginner. The difference between those who succeed and those who struggle is persistence, focus, and a willingness to start small while thinking big. Your marketing journey begins with a single step — take it today.",
+      "buttonText": "Explore Our Advanced Guides",
+      "buttonUrl": "https://ko-fi.com/amitbhalla",
+      "icon": "rocket"
+    }
+  }
+}

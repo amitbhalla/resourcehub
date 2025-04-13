@@ -1,0 +1,123 @@
+/* File: src/components/blocks/QuoteBlock.module.css */
+/* Path: src/components/blocks/ */
+
+.quoteBlock {
+    position: relative;
+    padding: var(--spacing-xl);
+    border-radius: var(--radius-lg);
+    background: linear-gradient(135deg, var(--playbook-primary), var(--playbook-secondary));
+    color: white;
+    overflow: hidden;
+    box-shadow: var(--shadow-lg);
+  }
+  
+  .quoteContent {
+    position: relative;
+    z-index: 2;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .quoteIconContainer {
+    background-color: rgba(255, 255, 255, 0.2);
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: var(--spacing-md);
+  }
+  
+  .quoteIcon {
+    font-size: 1.5rem;
+  }
+  
+  .quote {
+    font-size: 1.25rem;
+    line-height: 1.6;
+    font-weight: 500;
+    font-style: italic;
+    margin: 0 0 var(--spacing-lg);
+    max-width: 800px;
+    position: relative;
+  }
+  
+  .attribution {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .author {
+    font-weight: 700;
+    font-size: 1.125rem;
+    margin-bottom: var(--spacing-xs);
+  }
+  
+  .title {
+    font-size: 0.875rem;
+    opacity: 0.8;
+  }
+  
+  .quoteBackground {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 1;
+  }
+  
+  .quoteBgIcon {
+    position: absolute;
+    font-size: 15rem;
+    opacity: 0.05;
+    top: -50px;
+    right: -50px;
+    transform: rotate(10deg);
+  }
+  
+  .error {
+    padding: var(--spacing-md);
+    background-color: rgba(239, 68, 68, 0.1);
+    border-radius: var(--radius-md);
+    color: rgb(185, 28, 28);
+    text-align: center;
+  }
+  
+  /* Media Queries */
+  @media (max-width: 768px) {
+    .quoteBlock {
+      padding: var(--spacing-lg);
+    }
+    
+    .quote {
+      font-size: 1.125rem;
+    }
+    
+    .quoteBgIcon {
+      font-size: 10rem;
+    }
+  }
+  
+  @media (max-width: 576px) {
+    .quoteBlock {
+      padding: var(--spacing-md);
+    }
+    
+    .quote {
+      font-size: 1rem;
+    }
+    
+    .quoteIconContainer {
+      width: 50px;
+      height: 50px;
+    }
+    
+    .quoteIcon {
+      font-size: 1.25rem;
+    }
+  }

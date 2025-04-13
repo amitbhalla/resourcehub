@@ -1,0 +1,100 @@
+/* File: src/components/blocks/ChecklistBlock.module.css */
+/* Path: src/components/blocks/ */
+
+.checklistBlock {
+    padding: var(--spacing-lg);
+    border-radius: var(--radius-lg);
+    background-color: white;
+    box-shadow: var(--shadow-md);
+    border: 1px solid var(--gray-light);
+  }
+  
+  .title {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: var(--spacing-lg);
+    color: var(--playbook-primary);
+    position: relative;
+    padding-bottom: var(--spacing-xs);
+  }
+  
+  .title::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 60px;
+    height: 3px;
+    background: linear-gradient(90deg, var(--playbook-primary), var(--playbook-secondary));
+    border-radius: 3px;
+  }
+  
+  .checklist {
+    list-style: none;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: var(--spacing-md);
+  }
+  
+  .item {
+    display: flex;
+    align-items: flex-start;
+    gap: var(--spacing-sm);
+    padding: var(--spacing-md);
+    background-color: rgba(var(--playbook-primary-rgb, 37, 99, 235), 0.03);
+    border-radius: var(--radius-md);
+    transition: all var(--transition-fast);
+  }
+  
+  .item:hover {
+    transform: translateY(-3px);
+    box-shadow: var(--shadow-sm);
+  }
+  
+  .iconContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    width: 36px;
+    height: 36px;
+    background-color: var(--playbook-primary);
+    color: white;
+    border-radius: 50%;
+  }
+  
+  .icon {
+    font-size: 0.875rem;
+  }
+  
+  .text {
+    font-size: 1rem;
+    line-height: 1.5;
+    font-weight: 500;
+    color: var(--dark);
+  }
+  
+  .error {
+    padding: var(--spacing-md);
+    background-color: rgba(239, 68, 68, 0.1);
+    border-radius: var(--radius-md);
+    color: rgb(185, 28, 28);
+    text-align: center;
+  }
+  
+  /* Media Queries */
+  @media (max-width: 768px) {
+    .checklist {
+      grid-template-columns: 1fr;
+    }
+  }
+  
+  @media (max-width: 576px) {
+    .checklistBlock {
+      padding: var(--spacing-md);
+    }
+    
+    .item {
+      padding: var(--spacing-sm);
+    }
+  }

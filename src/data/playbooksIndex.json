@@ -1,0 +1,34 @@
+[
+    {
+      "id": "marketing-career-2025",
+      "title": "2025 Marketing Career Start Guide – India",
+      "slug": "marketing-career-2025",
+      "description": "A comprehensive guide for fresh graduates and career-switchers in India looking to enter the marketing field.",
+      "colors": {
+        "primary": "#2563eb",
+        "secondary": "#4f46e5",
+        "accent": "#3b82f6",
+        "background": "#ffffff"
+      },
+      "iconSet": "marketing",
+      "audience": "Fresh graduates and career-switchers in India",
+      "tone": "Energetic, aspirational, localized",
+      "pageCount": 7
+    },
+    {
+      "id": "b2b-llm-content",
+      "title": "Writing High-Conversion B2B Product Pages for LLM-Optimized Search",
+      "slug": "b2b-llm-content",
+      "description": "Learn how to create B2B product pages that rank well in AI-powered search engines while driving conversions.",
+      "colors": {
+        "primary": "#4f46e5",
+        "secondary": "#4338ca",
+        "accent": "#4f46e5",
+        "background": "#ffffff"
+      },
+      "iconSet": "content",
+      "audience": "SaaS content marketers",
+      "tone": "Authoritative, data-driven, forward-looking",
+      "pageCount": 7
+    }
+  ]

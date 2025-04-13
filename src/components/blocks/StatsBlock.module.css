@@ -1,0 +1,110 @@
+/* File: src/components/blocks/StatsBlock.module.css */
+/* Path: src/components/blocks/ */
+
+.statsBlock {
+    padding: var(--spacing-lg);
+    border-radius: var(--radius-lg);
+    background-color: white;
+    box-shadow: var(--shadow-md);
+    border: 1px solid var(--gray-light);
+  }
+  
+  .title {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: var(--spacing-lg);
+    color: var(--playbook-primary);
+    text-align: center;
+    position: relative;
+    padding-bottom: var(--spacing-xs);
+  }
+  
+  .title::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 60px;
+    height: 3px;
+    background: linear-gradient(90deg, var(--playbook-primary), var(--playbook-secondary));
+    border-radius: 3px;
+  }
+  
+  .statsGrid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: var(--spacing-lg);
+  }
+  
+  .statItem {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: var(--spacing-md);
+    border-radius: var(--radius-md);
+    background-color: rgba(var(--playbook-primary-rgb, 37, 99, 235), 0.03);
+    transition: transform var(--transition-fast);
+  }
+  
+  .statItem:hover {
+    transform: translateY(-5px);
+  }
+  
+  .statValue {
+    font-size: 2.25rem;
+    font-weight: 800;
+    color: var(--playbook-primary);
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: var(--spacing-xs);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: var(--spacing-xs);
+  }
+  
+  .icon {
+    font-size: 1.5rem;
+    opacity: 0.8;
+  }
+  
+  .statLabel {
+    font-size: 0.95rem;
+    color: var(--gray);
+    font-weight: 500;
+    line-height: 1.4;
+  }
+  
+  .error {
+    padding: var(--spacing-md);
+    background-color: rgba(239, 68, 68, 0.1);
+    border-radius: var(--radius-md);
+    color: rgb(185, 28, 28);
+    text-align: center;
+  }
+  
+  /* Media Queries */
+  @media (max-width: 768px) {
+    .statsGrid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+    
+    .statValue {
+      font-size: 1.75rem;
+    }
+    
+    .icon {
+      font-size: 1.25rem;
+    }
+  }
+  
+  @media (max-width: 576px) {
+    .statsGrid {
+      grid-template-columns: 1fr;
+    }
+    
+    .statsBlock {
+      padding: var(--spacing-md);
+    }
+  }

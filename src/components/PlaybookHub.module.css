@@ -1,0 +1,164 @@
+/* File: src/components/PlaybookHub.module.css */
+/* Path: src/components/ */
+
+.playbookHub {
+  padding: var(--spacing-xxl) 0;
+  min-height: 100vh;
+  background-color: var(--light);
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+}
+
+.playbookHub::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 25rem;
+  background: linear-gradient(145deg, rgba(37, 99, 235, 0.05) 0%, rgba(79, 70, 229, 0.05) 100%);
+  z-index: 0;
+  border-bottom-left-radius: 30% 5%;
+  border-bottom-right-radius: 30% 5%;
+}
+
+.container {
+  max-width: 1400px;
+  width: 92%;
+  margin: 0 auto;
+  padding: 0 var(--spacing-sm);
+  position: relative;
+  z-index: 1;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: var(--spacing-xl);
+}
+
+.header h1 {
+  font-weight: 700;
+  color: var(--darker);
+  margin-bottom: var(--spacing-xs);
+  animation: fadeInDown 0.8s ease-out;
+}
+
+.header p {
+  font-size: 1.25rem;
+  color: var(--gray);
+  margin: 0 auto var(--spacing-xl);
+  max-width: 600px;
+  animation: fadeInUp 0.8s ease-out 0.2s backwards;
+}
+
+.loadingState {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 400px;
+}
+
+.loadingSpinner {
+  width: 50px;
+  height: 50px;
+  border: 5px solid rgba(79, 70, 229, 0.1);
+  border-radius: 50%;
+  border-top-color: var(--secondary-purple);
+  animation: spin 1s linear infinite;
+  margin-bottom: var(--spacing-md);
+}
+
+.errorState {
+  text-align: center;
+  background-color: rgba(239, 68, 68, 0.1);
+  border-radius: var(--radius-md);
+  padding: var(--spacing-lg);
+  margin: var(--spacing-lg) 0;
+}
+
+.errorState p {
+  color: rgb(185, 28, 28);
+  margin-bottom: var(--spacing-md);
+}
+
+.errorState button {
+  background-color: rgb(185, 28, 28);
+  color: white;
+  font-weight: 600;
+  padding: var(--spacing-xs) var(--spacing-md);
+  border: none;
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  transition: all var(--transition-fast);
+}
+
+.errorState button:hover {
+  background-color: rgb(153, 27, 27);
+  transform: translateY(-2px);
+}
+
+/* Animations */
+@keyframes fadeInDown {
+  from {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+/* Media Queries */
+@media (min-width: 1400px) {
+  .container {
+    width: 90%;
+    max-width: 1600px;
+  }
+}
+
+@media (max-width: 992px) {
+  .playbookHub {
+    padding: var(--spacing-xl) 0;
+  }
+  
+  .header {
+    margin-bottom: var(--spacing-lg);
+  }
+}
+
+@media (max-width: 576px) {
+  .playbookHub {
+    padding: var(--spacing-lg) 0;
+  }
+  
+  .header h1 {
+    font-size: 2rem;
+  }
+  
+  .header p {
+    font-size: 1rem;
+  }
+}

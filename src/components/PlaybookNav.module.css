@@ -1,0 +1,240 @@
+/* File: src/components/PlaybookNav.module.css */
+/* Path: src/components/ */
+
+.navContainer {
+  position: relative;
+  margin-bottom: var(--spacing-lg);
+}
+
+/* Desktop sidebar navigation */
+.desktopNav {
+  display: none; /* Hidden on mobile */
+  width: 280px;
+  position: sticky;
+  top: var(--spacing-lg);
+  max-height: calc(100vh - 100px);
+  overflow-y: auto;
+  padding: var(--spacing-md);
+  scrollbar-width: thin;
+  flex-shrink: 0; /* Prevent shrinking */
+  background-color: rgba(255, 255, 255, 0.8);
+  backdrop-filter: blur(5px);
+  border-right: 1px solid var(--gray-light);
+}
+
+.desktopNav::-webkit-scrollbar {
+  width: 4px;
+}
+
+.desktopNav::-webkit-scrollbar-track {
+  background: var(--gray-light);
+}
+
+.desktopNav::-webkit-scrollbar-thumb {
+  background-color: var(--playbook-primary);
+  border-radius: 10px;
+}
+
+.pageList {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.pageButton {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  padding: var(--spacing-md);
+  border: none;
+  background: transparent;
+  text-align: left;
+  cursor: pointer;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  font-size: 0.95rem;
+  color: var(--gray);
+  border-radius: var(--radius-md);
+  transition: all var(--transition-fast);
+  position: relative;
+}
+
+.pageButton:hover {
+  background-color: rgba(var(--playbook-primary-rgb, 37, 99, 235), 0.05);
+  color: var(--playbook-primary);
+}
+
+.pageNumber {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 26px;
+  height: 26px;
+  margin-right: var(--spacing-sm);
+  background-color: rgba(var(--playbook-primary-rgb, 37, 99, 235), 0.1);
+  color: var(--playbook-primary);
+  border-radius: 50%;
+  font-weight: 600;
+  transition: all var(--transition-fast);
+  flex-shrink: 0;
+}
+
+.activePage .pageButton {
+  background-color: rgba(var(--playbook-primary-rgb, 37, 99, 235), 0.08);
+  color: var(--playbook-primary);
+  font-weight: 600;
+}
+
+.activePage .pageNumber {
+  background-color: var(--playbook-primary);
+  color: white;
+}
+
+.activeIndicator {
+  position: absolute;
+  right: var(--spacing-md);
+  color: var(--playbook-primary);
+  font-size: 0.5rem;
+}
+
+.pageTitle {
+  flex: 1;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* Mobile dropdown navigation */
+.mobileNav {
+  width: 100%;
+  margin-bottom: var(--spacing-lg);
+  position: relative;
+  z-index: 20;
+}
+
+.mobileCurrentPage {
+  width: 100%;
+  position: relative;
+}
+
+.mobileMenuToggle {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding: var(--spacing-md);
+  background-color: var(--playbook-primary);
+  color: white;
+  border: none;
+  border-radius: var(--radius-md);
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  font-size: 1rem;
+  text-align: left;
+  cursor: pointer;
+  box-shadow: var(--shadow-md);
+  transition: all var(--transition-fast);
+}
+
+.mobileMenuToggle:hover,
+.mobileMenuToggle:focus {
+  background-color: var(--playbook-primary-dark);
+}
+
+.mobilePageTitle {
+  flex: 1;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.chevronIcon {
+  margin-left: var(--spacing-sm);
+  transition: transform var(--transition-fast);
+}
+
+.rotated {
+  transform: rotate(180deg);
+}
+
+.mobileMenu {
+  position: absolute;
+  top: calc(100% + 8px);
+  left: 0;
+  right: 0;
+  background-color: white;
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-lg);
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  z-index: 25;
+  max-height: 60vh;
+  overflow-y: auto;
+  animation: slideDown 0.2s ease-out;
+}
+
+.mobileMenu li {
+  border-bottom: 1px solid var(--gray-light);
+}
+
+.mobileMenu li:last-child {
+  border-bottom: none;
+}
+
+.mobileMenu button {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  padding: var(--spacing-md);
+  background: transparent;
+  border: none;
+  text-align: left;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 0.95rem;
+  color: var(--dark);
+  cursor: pointer;
+  transition: all var(--transition-fast);
+}
+
+.mobileMenu button:hover {
+  background-color: rgba(var(--playbook-primary-rgb, 37, 99, 235), 0.05);
+}
+
+.activeMobileItem button {
+  font-weight: 600;
+  color: var(--playbook-primary);
+  background-color: rgba(var(--playbook-primary-rgb, 37, 99, 235), 0.08);
+}
+
+.mobileItemNumber {
+  margin-right: var(--spacing-xs);
+  font-weight: 600;
+  color: var(--playbook-primary);
+}
+
+@keyframes slideDown {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Media Queries */
+@media (min-width: 992px) {
+  .navContainer {
+    display: block;
+  }
+  
+  .desktopNav {
+    display: block;
+  }
+  
+  .mobileNav {
+    display: none;
+  }
+}

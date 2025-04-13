@@ -1,0 +1,143 @@
+{
+    "id": "b2b-llm-content",
+    "pages": [
+      {
+        "id": "intro",
+        "title": "Introduction",
+        "blocks": [
+          {
+            "type": "hero",
+            "id": "intro-hero"
+          },
+          {
+            "type": "stats",
+            "id": "llm-impact-stats"
+          },
+          {
+            "type": "quote",
+            "id": "expert-intro-quote"
+          }
+        ]
+      },
+      {
+        "id": "llm-search-basics",
+        "title": "LLM Search Basics",
+        "blocks": [
+          {
+            "type": "hero",
+            "id": "search-basics-hero"
+          },
+          {
+            "type": "checklist",
+            "id": "llm-vs-traditional"
+          },
+          {
+            "type": "stats",
+            "id": "search-behavior-stats"
+          },
+          {
+            "type": "quote",
+            "id": "search-basics-quote"
+          }
+        ]
+      },
+      {
+        "id": "keyword-entity-research",
+        "title": "Keyword & Entity Research",
+        "blocks": [
+          {
+            "type": "hero",
+            "id": "research-hero"
+          },
+          {
+            "type": "numberedSteps",
+            "id": "research-process"
+          },
+          {
+            "type": "codeSnippet",
+            "id": "research-template"
+          }
+        ]
+      },
+      {
+        "id": "page-framework",
+        "title": "Page Framework",
+        "blocks": [
+          {
+            "type": "hero",
+            "id": "framework-hero"
+          },
+          {
+            "type": "numberedSteps",
+            "id": "page-structure"
+          },
+          {
+            "type": "checklist",
+            "id": "section-elements"
+          }
+        ]
+      },
+      {
+        "id": "prompt-friendly-copywriting",
+        "title": "Prompt-Friendly Copywriting",
+        "blocks": [
+          {
+            "type": "hero",
+            "id": "copywriting-hero"
+          },
+          {
+            "type": "checklist",
+            "id": "copywriting-principles"
+          },
+          {
+            "type": "codeSnippet",
+            "id": "before-after-examples"
+          },
+          {
+            "type": "quote",
+            "id": "copywriting-quote"
+          }
+        ]
+      },
+      {
+        "id": "schema-metadata",
+        "title": "Schema & Metadata",
+        "blocks": [
+          {
+            "type": "hero",
+            "id": "schema-hero"
+          },
+          {
+            "type": "numberedSteps",
+            "id": "schema-implementation"
+          },
+          {
+            "type": "codeSnippet",
+            "id": "schema-example"
+          }
+        ]
+      },
+      {
+        "id": "qa-checklist",
+        "title": "QA Checklist",
+        "blocks": [
+          {
+            "type": "hero",
+            "id": "qa-hero"
+          },
+          {
+            "type": "checklist",
+            "id": "pre-launch-checklist"
+          },
+          {
+            "type": "quote",
+            "id": "final-thoughts"
+          },
+          {
+            "type": "cta",
+            "id": "final-cta"
+          }
+        ]
+      }
+    ]
+  }
