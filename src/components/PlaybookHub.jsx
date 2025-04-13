@@ -71,13 +71,11 @@ const PlaybookHub = () => {
     };
     
     parseUrlParams();
-  }, []);
+  }, [playbookStructure]);
 
   // Update URL when playbook or page changes
   useEffect(() => {
     if (selectedPlaybook && playbookStructure) {
-      const currentPage = playbookStructure.pages[currentPageIndex];
-      
       // Find playbook index (for numeric parameter)
       const playbookIndex = playbooksIndex.findIndex(p => p.id === selectedPlaybook.id) + 1;
       const pageIndex = currentPageIndex + 1;
@@ -130,7 +128,12 @@ const PlaybookHub = () => {
 
   const handlePageChange = (pageIndex) => {
     setCurrentPageIndex(pageIndex);
-    // Removed scrolling behavior to prevent jumping to top
+    // Scroll to top when changing pages
+    window.scrollTo({
+      top: 0,
+      behavior: 'smooth'
+    });
+    
   };
 
   return (

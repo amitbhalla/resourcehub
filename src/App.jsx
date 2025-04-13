@@ -1,7 +1,7 @@
 // File: src/App.jsx
 // Path: src/
 
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 import PlaybookHub from './components/PlaybookHub';
 import './App.css';
 

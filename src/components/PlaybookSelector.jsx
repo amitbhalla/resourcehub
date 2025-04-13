@@ -40,6 +40,7 @@ const PlaybookSelector = ({ playbooks, selectedPlaybook, onPlaybookChange }) => 
         className={`${styles.dropdown} ${isOpen ? styles.open : ''}`} 
         onClick={() => setIsOpen(!isOpen)}
         aria-expanded={isOpen}
+        aria-controls="playbook-options"
         role="combobox"
       >
         <div className={styles.selectedOption}>
@@ -51,7 +52,7 @@ const PlaybookSelector = ({ playbooks, selectedPlaybook, onPlaybookChange }) => 
         </div>
         
         {isOpen && (
-          <ul className={styles.options} role="listbox">
+          <ul id="playbook-options" className={styles.options} role="listbox">
             {playbooks.map((playbook) => (
               <li 
                 key={playbook.id} 
